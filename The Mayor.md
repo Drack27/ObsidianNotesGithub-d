@@ -1,0 +1,1 @@
+Implied to exist due to the presence of the Mayor's office located inside the building colloquially known as "Roselake Castle."

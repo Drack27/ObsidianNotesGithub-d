@@ -1,0 +1,1 @@
+A man in his 50s who owns and operates Tony's Diner. He is friendly, prefers the company of the town's younger crowd, and is one of the very few people who ever managed to hold regular conversations with Thomas McMullin.
