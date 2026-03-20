@@ -27,9 +27,9 @@
 > A public facility bolted onto Roselake High School. It was formerly managed by Thomas McMullin. There are ominous hints that something unnatural might have taken up residence within its walls.
 > [[Roselake Library|View Roselake Library's full details here]]
 
-> [!info]- Roselake Castle
+> [!info]- Castle Roselake
 > The somewhat mocking, cute local nickname for the municipal building that houses both the Post Office and the Mayor's Office.
-> [[Roselake Castle|View Roselake Castle's full details here]]
+> [[Castle Roselake|View Castle Roselake's full details here]]
 
 > [!info]- The Convenience / Video Rental Store
 > A strange hybrid business. It functions primarily as a 7-Eleven-style convenience store selling snacks and gas station goods, with a Blockbuster-style video rental store bolted onto the back.

@@ -1,10 +1,15 @@
 # PLAYER HANDOUT — The Case of the Scratching
 
+```
+Just rewrite this whole thing to match the changes to [[The Scratching]].
+```
+
 ## GM Note: The Manila Folder
 
 _This is the thinnest folder in Thomas's collection — barely a folder at all. The tab is labeled "THE SCRATCHING" in black marker, with "(Hutchins house)" written smaller underneath. Inside, there's a single page of notes and one photograph. This is clearly a new case that Thomas hasn't had time to develop. An index card on the corkboard connects to this folder with a piece of red yarn that leads to a handwritten note reading "RELATED?" pinned between this and the Skinwalkers cluster._
 
 ---
+
 
 ## Photograph
 

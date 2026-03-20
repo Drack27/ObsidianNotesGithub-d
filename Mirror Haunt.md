@@ -2,6 +2,17 @@
 
 # The Case of the Mirror Haunt
 
+```
+Weave the following into this case somehow:
+
+This creature is actually a spawn of The Eye, a fear that doesn't even truly have that big of a presence in Roselake, but it has a heavy presence amongst staffmembers of the nearby Intrusion Institute, as they are used to the world of espionage and it's dangers. The creature, seeing the Intrusion Institute's tools, decided against trying to latch onto one of them, and picked one of the most paranoid people in town to latch onto
+
+This is also, ironically, one of the most benign Entities and associated spawn, as just like in the Magnus Archives, the Eye is largely opposed to the existence of many of the other Entities. It's hard to be afraid of what has something else watching over it. It's hard to be afraid of the dark when you can see in it. 
+```
+```
+Flesh out why Edith was chosen by this thing, in this article and elsewhere
+```
+
 ---
 
 # PART ONE — Thomas's File
@@ -57,6 +68,12 @@ The Mirror Haunt follows a slow escalation pattern:
 **Stage 3 — Manifestation.** The Mirror Haunt becomes fully visible in reflective surfaces. It stands behind or beside the victim in the reflection, mouth open, eye staring. It does not appear in the physical space — only in the reflection. The victim can see it watching them, but cannot interact with it or escape its gaze except by removing or covering all reflective surfaces.
 
 **Stage 4 — (Unknown/TBD).** What happens if the escalation is allowed to continue unchecked has not been established.
+
+```
+Nobody should know this, as this has never happened before, but detail in here that if the escalation is allowed to continue unchecked for another several weeks, the Mirror Haunt will step out of a reflection and into the physical world, following the target around and never giving her a moment of peace. If, at this stage, the target of the haunting fully gives into their fear (the equivalent of sanity hitting Zero in Call of Cthulhu's rules), the manifested Mirror Haunt & the target will merge into a singular powerful Disciple of the Eye, with the capability to someday become an Avatar of the Eye. 
+
+Also, create a [[Mirror Haunt (creature)]] article, and explain that once it's out, it will make every effort to keep itself concealed from everyone except the person it has dedicated itself to watching. The entire reason for the slow ramp up is that it knows it's is a fragile creature; it is very much not immortal, and can be killed easily
+```
 
 ## Edith Zelenskyy
 

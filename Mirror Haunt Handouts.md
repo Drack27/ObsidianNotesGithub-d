@@ -1,5 +1,12 @@
 # PLAYER HANDOUT — The Case of the Mirror Haunt
 
+```
+In general, update this to align with the overall case file
+```
+```
+Also, rewrite these handouts such that Thomas is concerned for Edith's welfare and suspects something supernatural is going on, but have that heavily tempered with more uncertainty about his inferences. Include a theory that she could be a vampire, and that she could be the source of the Skinwalkers.
+```
+
 ## GM Note: The Manila Folder
 
 _This is one of the thinner folders. The tab is labeled "MIRROR HAUNT (?)" in black marker — the question mark was added later in a different pen. Inside, there are no newspaper clippings. This case is based entirely on Thomas's personal observations and a handful of photographs. A note on the inside front cover reads: "She won't talk to me. I have to work with what I can see."_
@@ -57,8 +64,14 @@ _Two pages of handwritten notes on lined paper, written in blue ink._
 > I asked if something in the house was bothering her. She stared at me for a long time. I thought she was going to say something. Then she shut the door.
 > 
 > I think there's something in her mirrors. I think she can see something that the rest of us can't, and I think she's covered every reflective surface in the house to get away from it.
+```
+Thomas should not make this leap in logic. Have him be more unsure, and have him float the possibility that she could be a vampire, and have him have the beginnings of a theory that she could be the source of the Skinwalkers
+```
 > 
 > I also think she'd rather die than tell anyone, because she's afraid they'll take her out of her home. I don't know her full story, but Margaret mentioned Edith "had some hard years before Roselake" and won't talk about it. Whatever happened, she's terrified of losing the house more than she's terrified of whatever's in it.
+```
+Axe this as well. He should not connect the dots here. In general, remove the extensive personal knowledge that he has on her; he should only know what's happening from outside observation
+```
 > 
 > I don't know what to do here. I can't force her to talk. I can't get inside. And I don't know what I'd be looking for even if I could.
 > 
@@ -89,3 +102,7 @@ _A single index card, tucked into the folder, with a list in Thomas's handwritin
 > If something happens to Edith, it's because the rest of us didn't try hard enough.
 > 
 > — T.M.
+
+```
+Again, axe this as part of the rewrite of thomas' motivations. He should not be convinced that she is a victim in this, and he should only be investigating because it seems highly unusual and because of the possible connection to the skinwalker case
+```

@@ -94,28 +94,6 @@ They also had a dog, **Filmore.**
 
 ---
 
-**THAT'S THREE FAMILIES. TWELVE PEOPLE.**
-
----
-
-### Thomas's Notes (Bottom of the Timeline)
-
-> What the hell is in that house?
-> 
-> Every time: the kid goes first, or at least gets noticed first. Then the parents. Then everyone.
-> 
-> No forced entry. No evidence. Personal items left behind. It's not a kidnapping — you don't leave everything behind in a kidnapping.
-> 
-> They didn't run. They didn't pack. They didn't plan.
-> 
-> Sheriff Thompson is either incompetent or actively avoiding this. Three investigations, three dead ends, and he hasn't once suggested that maybe the HOUSE is the common factor? Come on.
-> 
-> I've been out there 4 times now. I won't go inside. Not yet. Not alone. But I've photographed every angle I can get from the road and the tree line.
-> 
-> Something in that house is taking people. I just don't know what.
-
----
-
 ## Document 2 — Newspaper Clipping
 
 _A clipping from the Roselake Register, dated roughly 3.5 weeks ago. It's a short piece, maybe 4 column inches, from the local news section._

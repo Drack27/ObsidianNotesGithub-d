@@ -47,7 +47,7 @@ Jonathan uses a ritual spell called **The Catalyst**, knowledge of which was gra
 
 - The brain of an animal at least as intelligent as a pig. The more powerful the brain (pig = weak, human = strong), the more thoroughly the spell can overcome strong social bonds.
 - A likeness of the target — a photograph, carving, drawing, or any representational image.
-- A circle drawn around the likeness, inscribed with epithets calling upon The Forgotten. Examples: _"It That Erases All That Is Loved," "Great Non-Socializer,"_ etc. Jonathan writes these in Latin — not because that's a requirement, but because it feels right to him.
+- A circle drawn around the likeness, inscribed with epithets calling upon The Forgotten. Examples: _"It That Erases All," "The Annihilator," "Think No More Of,"_ etc. Jonathan writes these in Latin — not because that's a requirement, but because it feels right to him.
 - The completed ritual must then be left somewhere that even the caster forgets about it. (Jonathan sets reminders for himself.)
 
 **Effects:**
@@ -55,6 +55,10 @@ Jonathan uses a ritual spell called **The Catalyst**, knowledge of which was gra
 Once the Catalyst takes effect, it erases the target from the memories of everyone who knew them. All associates, friends, and family lose their memories of the target. Existing memories are not simply suppressed — the target is _painted out,_ as if photoshopped from the recollections of everyone who ever interacted with them.
 
 The strength of the brain determines how deeply the spell can cut through strong bonds. A pig brain can erase casual acquaintances and coworkers. A human brain can sever family ties and deep friendships.
+
+```
+Add a page for [[The Catalyst]] with the full details
+```
 
 ## What Jonathan Does After
 
@@ -79,11 +83,28 @@ The only traces left are in print — old newspaper articles, church bulletins, 
 ## Open Threads
 
 - What animal brain was used for the Catalyst on Victor Mann? (Pig is implied but not confirmed.)
+```
+It was a pig. Include a thread the players could follow somewhere, if they really dig for it, about a missing pig linked to Jonathan Oesch
+```
 - Has Jonathan set up his ritual spaces somewhere discoverable? The spell requires leaving the completed circle somewhere forgettable — where are these hidden?
-- Jonathan still lives in the same house as Sally did. What does the house look like? Is the basement accessible?
-- Thomas hasn't confronted Jonathan yet. What's their relationship, if any?
-- The connection between Bill Donahue's death and the disappearances is the thread that could unravel everything — if the players pull on it.
+```
+There should be an abandoned underground storeroom in [[The Collapsed Farmhouse]] - you'll have to create & flesh out a page for this long-abandoned farmhouse - where Jonathan conducts his rituals. The only one who knows it exists is him, and only when the note on the reminder clock by his bedside table reminds him it's there about once a week
+```
 
+- Jonathan still lives in the same house as Sally did. What does the house look like? Is the basement accessible?
+```
+The house is a small but unremarkable home built in the 50s in the town center. The basement is acessible, but barred and locked from the outside. Jonathan is confident nobody is going to come looking for people in his home, so he has made no effort to conceal the strange ammount of security on his basement door. 
+```
+
+- Thomas hasn't confronted Jonathan yet. What's their relationship, if any?
+```
+Thomas had a single exchange with him when Jonathan came into the [[Roselake Library]] to get a book on ancient occult practices, years before the disappearances & murder. Thomas is a quiet sort, but Johnathan's silence and the way he stared daggers straight at Thomas almost the entire time was unnerving to Thomas. He has steered clear of him ever since. 
+```
+
+
+```
+The Following is my freewrite that led to this; move this to a separate file called [[The Missing Missing freewrite]]
+```
 
 
 

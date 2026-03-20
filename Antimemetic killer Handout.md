@@ -1,5 +1,10 @@
 # PLAYER HANDOUT — The Case of the Missing Missing
 
+```
+Update this to match the changes to The Case of the Missing Missing/Antimemetic Killer
+```
+
+
 ## GM Note: The Manila Folder
 
 _This folder is one of the thicker ones in Thomas's collection, held shut with a rubber band that has been doubled over twice. The tab is labeled "THE MISSING MISSING" in black marker. The word "MISSING" is written twice on purpose — Thomas has underlined both. Inside, the folder is organized with newspaper clippings on the left side and Thomas's handwritten notes on the right. A large red question mark has been drawn on the inside front cover in marker._
