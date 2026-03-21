@@ -55,6 +55,48 @@ Instead, it chose **[[Mirror Haunt|Edith Zelenskyy]]** — one of the most paran
 
 ---
 
+## Call of Cthulhu 7th Edition Stats
+
+### Mirror Haunt
+
+| Attribute | Value |
+|---|---|
+| **STR** | 30 |
+| **CON** | 25 |
+| **SIZ** | 45 |
+| **DEX** | 70 |
+| **INT** | 65 |
+| **POW** | 80 |
+| **HP** | 7 |
+| **Damage Bonus** | -1 |
+| **Build** | -1 |
+| **Magic Points** | 16 |
+| **Move** | 9 |
+| **Armor** | None |
+
+**Attacks per round:** 1
+
+| Attack | Skill % | Damage | Notes |
+|---|---|---|---|
+| **Gaze** | 90% (45/18) | Special | See below. Only usable when mouth is open. |
+| **Claw** | 35% (17/7) | 1D3 - 1 | Desperate defense only; the Mirror Haunt avoids physical confrontation. |
+
+**Dodge:** 50% (25/10)
+
+**Skills:** Stealth 85% (concealing itself from non-targets), Hide in Reflection 95% (in Stages 1-3)
+
+**Sanity Loss:** 0/1D6 to see the Mirror Haunt with its mouth open (the giant eye). 1/1D10 to see it step out of a mirror into the physical world (Stage 4 emergence).
+
+**Special:**
+
+- **Reflection-Bound (Stages 1-3):** The Mirror Haunt exists only within reflective surfaces. It cannot be physically interacted with, struck, or harmed while reflection-bound. It can move between any reflective surfaces within approximately 100 yards of its target.
+- **The Gaze:** When the Mirror Haunt opens its mouth and the giant eye is exposed, the target must make a **POW roll** or suffer 1D3 Sanity loss from the overwhelming sensation of being watched. This can occur once per encounter (not once per round). The Gaze only affects the creature's chosen target — other people who see the eye suffer the standard Sanity Loss for witnessing the creature but do not feel the supernatural compulsion of the Gaze.
+- **Fragile Body:** In Stage 4 (physical emergence), the Mirror Haunt has no armor and only 7 HP. A solid hit from almost any weapon can wound or kill it. It knows this and will flee or hide if anyone other than its target becomes aware of it.
+- **Target Fixation:** The Mirror Haunt can only dedicate itself to one target at a time. If that target dies or is otherwise permanently removed from its reach, the creature must find a new target — a process that takes weeks.
+- **Selective Visibility (Stage 4):** After emerging into the physical world, the Mirror Haunt can choose to be visible only to its target. Other observers must succeed on an **Extreme Spot Hidden** roll to perceive it, or the target must actively point it out and convince them to look.
+
+---
+
 ## Vulnerabilities
 
 The Mirror Haunt is **fragile.** It is not immortal. It can be killed, and killed relatively easily — if it can be reached. The challenge is that, in Stages 1-3, it exists only within reflective surfaces and cannot be physically interacted with. In Stage 4, it exists in the physical world but actively conceals itself from everyone except its target.

@@ -1,7 +1,7 @@
 # Jonathan Oesch
 
 **Age:** 25
-**Residence:** A small, unremarkable home built in the 1950s in the Roselake town center.
+**Residence:** A small, unremarkable home built in the 1950s on the south side of the Roselake town center.
 **Occupation:** None known.
 **Case Connection:** [[The Antimemetic Killer]]
 
@@ -33,7 +33,7 @@ He conducts his rituals in the underground storeroom beneath [[The Collapsed Far
 
 ## The House
 
-Jonathan's home is a small but unremarkable house built in the 1950s, located in the Roselake town center. From the outside, it looks like any other modest mid-century home — nothing about its exterior draws attention.
+Jonathan's home is a small but unremarkable house built in the 1950s, located on the south side of the Roselake town center. From the outside, it looks like any other modest mid-century home — nothing about its exterior draws attention.
 
 The **basement** is another matter. It is accessible, but the door is **barred and locked from the outside** with an excessive and conspicuous amount of security hardware — heavy-duty deadbolts, a steel crossbar, and padlocks. Jonathan is confident that nobody is going to come looking for people in his home, so he has made **no effort to conceal** the strange amount of security on his basement door. If anyone asked, he would have no good explanation. No one has asked.
 
