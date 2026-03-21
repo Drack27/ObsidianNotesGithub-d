@@ -109,9 +109,9 @@ The use of [[The Catalyst]] by [[Jonathan Oesch]] has also intensified The Forgo
 
 The Blurred Woman is currently an **unwilling captive** of [[The Forgotten]], existing in a sort of limbo state — not fully a ghost, not fully an avatar, not fully at rest. She does not want to serve The Forgotten. She wants to be remembered, which is the opposite of what The Forgotten represents.
 
-However, if she is **antagonized sufficiently** — if players or NPCs confront her aggressively, try to banish her by force, or make her situation worse — she could choose to turn from an unwilling captive to a **fully willing Avatar of The Forgotten.** Unlike [[Jonathan Oesch]], who is barred from becoming a full Avatar because people in his community still know about him, the Blurred Woman has no such anchor. No one remembers her. No one knows her name. Her unwillingness to play along is **all that is keeping her** from becoming The Forgotten's vessel and full manifestation on Earth.
+However, if she is **antagonized sufficiently** — if players or NPCs confront her aggressively, try to banish her by force, or make her situation worse — she could choose to turn from an unwilling captive to a **fully willing Avatar of The Forgotten.** Unlike [[Jonathan Oesch]], who is barred from becoming a full Avatar because people in his community still know about him, the Blurred Woman has no such anchor. No one remembers her. No one knows her name. Her unwillingness to play along is **all that is keeping her** from becoming a Disciple of the Forgotten, with potential to become the Avatar of The Forgotten; it's full manifestation on earth.
 
-If this happens, Roselake has much bigger problems than a sad ghost in old-fashioned clothing.
+If this happens - even in the form of a minor Disciple - Roselake has much bigger problems than a sad ghost in old-fashioned clothing.
 
 ---
 
