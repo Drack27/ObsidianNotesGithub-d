@@ -1,14 +1,14 @@
 # The Old Cemetery
 
 **Type:** Location
-**Location:** On the outskirts of Roselake, east of town past the church.
+**Location:** On the outskirts of Roselake, south end of town past the church.
 **Case Connection:** [[The Case of the Blurred Woman]]
 
 ---
 
 ## Description
 
-The Old Cemetery is Roselake's original burial ground, dating back to the town's founding in the 1840s. It sits on a gentle rise east of town, past the First Methodist Church, bordered by a low stone wall that has crumbled in several places. A wrought-iron gate marks the entrance, though it hasn't been properly latched in years.
+The Old Cemetery is Roselake's original burial ground, dating back to the town's founding in the 1840s. It sits on a gentle rise on the south end of town, past the First Methodist Church, bordered by a low stone wall that has crumbled in several places. A wrought-iron gate marks the entrance, though it hasn't been properly latched in years.
 
 The cemetery is still technically in use — newer burials occupy the south end, with neat rows of granite headstones dating from the mid-twentieth century onward. But the north end, where the oldest graves are, is another matter entirely.
 

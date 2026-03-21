@@ -71,13 +71,13 @@ _Read or relay the following descriptions to the players as they examine each ph
 **Index card (handwritten, blue ink):**
 
 > DONNY McPHEE — Farmer — north county road
-> 
-> No disappearance that I know of, but sudden personality shift.
-> 
-> BEFORE: Gruff but decent. Waved at people. Came into town for supplies Saturdays. AFTER: Mean. Snapped at Linda at the hardware store. Hasn't been to the diner in 2 weeks — Earl says he came in once, ordered coffee, didn't talk to anybody, and left. Walks different.
-> 
-> Haven't gotten close enough to confirm. Hard to surveil — open farmland, no cover.
-> 
+>
+> No disappearance that I know of, but sudden personality shift. About 2 weeks ago.
+>
+> BEFORE: Gruff but decent. Waved at people. Came into town for supplies Saturdays. Kept to himself but wasn't HOSTILE. AFTER: Mean. Snapped at Linda at the hardware store — she said he practically bit her head off over a bag of nails. Hasn't been to the diner in 2 weeks — Earl says he came in once, ordered coffee, didn't talk to anybody, and left. Walks different — there's a limp he's trying to hide. Favors his left leg.
+>
+> Haven't gotten close enough to confirm. Hard to surveil — open farmland, no cover. Drove past his property twice. Second time he was on his porch and STARED at me until I was out of sight.
+>
 > Status: LIKELY SWAPPED. Need more info.
 
 ---

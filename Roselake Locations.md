@@ -8,11 +8,11 @@
 > [[Roselake, Nebraska|View Roselake, Nebraska's full details here]]
 
 > [!info]- Mount Roselake
-> The local nickname for the town's highest hill, which is only maybe 10 feet higher than all the other rolling hills in the area
+> The local nickname for the town's highest hill, which is only about 10-15 feet higher than all the other rolling hills in the area
 > [[Mount Roselake|View Mount Roselake's full details here]]
 
 > [!info]- The Old Radio Tower & Abandoned Radio Station
-> Situated on mount . The abandoned station at the top served as the personal lair for Thomas McMullin before his demise or disappearance.
+> Situated on Mount Roselake. The abandoned station at the top served as the personal lair for Thomas McMullin before his demise or disappearance.
 > [[The Old Radio Tower|View The Old Radio Tower's full details here]]
 
 > [!info]- Tony's Diner
@@ -21,10 +21,10 @@
 
 > [!info]- Roselake Academy
 > The town's educational facility. Due to the town's small size and budget, it also houses the public library.
-> [[Roselake High School|View Roselake High School's full details here]]
+> [[Roselake Academy|View Roselake Academy's full details here]]
 
 > [!info]- Roselake Library
-> A public facility bolted onto Roselake High School. It was formerly managed by Thomas McMullin. There are ominous hints that something unnatural might have taken up residence within its walls.
+> A public library attached to Roselake Academy. It was formerly managed by Thomas McMullin and serves as the town's only research facility for historical records.
 > [[Roselake Library|View Roselake Library's full details here]]
 
 > [!info]- Castle Roselake
@@ -33,7 +33,7 @@
 
 > [!info]- The Convenience / Video Rental Store
 > A strange hybrid business. It functions primarily as a 7-Eleven-style convenience store selling snacks and gas station goods, with a Blockbuster-style video rental store bolted onto the back.
-> [[The Convenience / Video Rental Store|View The Convenience / Video Rental Store's full details here]]
+> [[The Convenience and Video Rental Store|View The Convenience & Video Rental Store's full details here]]
 
 > [!info]- Joe's Superstore.
 > The biggest building in Roselake A standard retail location providing basic goods and supplies to the town's residents.
@@ -53,7 +53,7 @@
 
 > [!info]- Roselake Fire Station
 > Covers not just fire, but basically all emergency functions not covered by the Sheriff's office, including medical emergencies. 
-> [[Roselake Fire Station|View Intrusion Institute Monitoring Station's full details here]]
+> [[Roselake Fire Station|View Roselake Fire Station's full details here]]
 ## Implied Locations
 
 > [!info]- The Farms and Homes

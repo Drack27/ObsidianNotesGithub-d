@@ -136,4 +136,6 @@ _Two pages of lined notebook paper._
 >
 > Somebody has to remember her.
 >
+> If something happens to me, it's because I got too close to the old cemetery. She doesn't want to be found — or something doesn't want her found.
+>
 > — T.M.

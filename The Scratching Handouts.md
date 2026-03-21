@@ -74,7 +74,7 @@ _Multiple pages of handwritten notes, spanning several weeks of investigation. T
 >
 > Animals get caught in traps. Animals leave tracks. Animals make mistakes. Whatever is in this house makes NO mistakes. It avoids every trap. It knows when I'm there. It moves through walls and ceilings without making enough noise for me to locate it — but it WHISPERS. It whispers to this family at night and it is driving them to the edge.
 >
-> The twelve-year-old brought me printouts from a ghost-hunting website. Under normal circumstances I'd dismiss that. But the kid's description of what she's heard — the whispering, the movement patterns, the intelligence — matches what I've observed better than any animal behavior I know of.
+> The twelve-year-old brought me pages she photocopied from a ghost-hunting book at the school library. Under normal circumstances I'd dismiss that. But the kid's description of what she's heard — the whispering, the movement patterns, the intelligence — matches what I've observed better than any animal behavior I know of.
 >
 > I'm beginning to think something from one of the other cases has nested in this house. The scratching, the food theft, the physical manipulation of objects (the BRICK) — this is something with hands, with intelligence, with intent.
 >
@@ -99,5 +99,7 @@ _Multiple pages of handwritten notes, spanning several weeks of investigation. T
 > Connected to the others? Don't know yet. But if the skinwalkers can replace people, who says something can't replace a HOUSE?
 >
 > Four weeks in. Need to go back. Need to open that attic properly — flashlight isn't cutting it.
+>
+> If I'm gone, whatever was in the Hutchins attic got loose. It's smarter than any animal. Watch the walls.
 >
 > — T.M.
