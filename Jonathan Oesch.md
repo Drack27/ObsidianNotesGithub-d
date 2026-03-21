@@ -25,7 +25,7 @@ Jonathan is heavily influenced mentally by two of the Secondary Entities: **[[Th
 
 ## The Spell
 
-Jonathan possesses the ability to cast a single ritual spell: **[[The Catalyst]]**, knowledge of which was granted to him through insane inspiration channeled from The Forgotten. The Catalyst erases a target from the memories of everyone who ever knew them. Jonathan has used it three times.
+Jonathan possesses the ability to cast a single ritual spell: **[[The Catalyst]]**, knowledge of which was granted to him through insane inspiration channeled from The Forgotten. The Catalyst erases a target from the memories of everyone who ever knew them. Jonathan has used it twice.
 
 He conducts his rituals in the underground storeroom beneath [[The Collapsed Farmhouse]], a location he only remembers because of a note on the reminder clock by his bedside table that prompts him to check on it approximately once a week.
 
