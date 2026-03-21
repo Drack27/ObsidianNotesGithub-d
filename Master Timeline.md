@@ -30,6 +30,7 @@
 | ~Feb–Mar 1981 | Edith Zelenskyy reaches Stage 3; covers all reflective surfaces; withdraws | Mirror Haunt |
 | ~Feb–Mar 1981 | Anglerfish replaces Wendy Simons, Zach & Toula Carmody | Anglerfish |
 | March 14, 1981 | Thomas McMullin killed by the Anglerfish on his way to the Old Radio Tower | Anglerfish |
+| March 14, 1981 (evening) | **SESSION 1** — Matthew Davis attends "Roselake Ghost Hunters Club" at Old Radio Tower; finds Thomas's case files; attacked by Anglerfish (using Thomas's skin as lure) on the way down; barely survives; patched up by couple and fire department | Anglerfish / All |
 | March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files await discovery | All |
 
 ---
@@ -194,7 +195,7 @@
 
 ### Date Unknown (Estimated Late 1980) — Jonathan Oesch's First Victim: Victor Mann
 - **Case Connection:** *The Antimemetic Killer (The Case of the Missing Missing)*
-- **Jonathan Oesch** (25 as of 1981): shaggy blonde-brown hair, extremely muscular, soft-spoken. Lives in a small 1950s house in Roselake town center. Has always felt rejected by the community; his resentment has curdled into a desire to weaponize fear.
+- **Jonathan Oesch** (25 as of 1981): shaggy blonde-brown hair, extremely muscular, soft-spoken. Lives in a small 1950s house on the south side of the Roselake town center. Has always felt rejected by the community; his resentment has curdled into a desire to weaponize fear.
 - Jonathan receives insane inspiration from **The Forgotten** entity — a ritual spell called **The Catalyst**.
 - **The Catalyst requirements:**
   1. A brain (at least pig intelligence)

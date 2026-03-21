@@ -54,13 +54,13 @@ Jonathan uses a ritual spell called **[[The Catalyst]]**, knowledge of which was
 
 **Effects:**
 
-Once the Catalyst takes effect, it erases the target from the memories of everyone who knew them. All associates, friends, and family lose their memories of the target. Existing memories are not simply suppressed — the target is _painted out,_ as if photoshopped from the recollections of everyone who ever interacted with them.
+Once the Catalyst takes effect, it erases the target from the memories of everyone who knew them. All associates, friends, and family lose their memories of the target. Existing memories are not simply suppressed — the target is _painted out,_ as if airbrushed from the recollections of everyone who ever interacted with them.
 
 The strength of the brain determines how deeply the spell can cut through strong bonds. A pig brain can erase casual acquaintances and coworkers. A human brain can sever family ties and deep friendships.
 
 ## What Jonathan Does After
 
-Once the spell takes effect and no one remembers the target, Jonathan kidnaps them and locks them in his basement. His house is a small but unremarkable home built in the 1950s in the Roselake town center. The basement is accessible, but the door is barred and locked from the outside with an excessive amount of security hardware — heavy-duty deadbolts, a steel crossbar, and padlocks. Jonathan is confident nobody is going to come looking for people in his home, so he has made no effort to conceal the strange amount of security on his basement door.
+Once the spell takes effect and no one remembers the target, Jonathan kidnaps them and locks them in his basement. His house is a small but unremarkable home built in the 1950s on the south side of the Roselake town center. The basement is accessible, but the door is barred and locked from the outside with an excessive amount of security hardware — heavy-duty deadbolts, a steel crossbar, and padlocks. Jonathan is confident nobody is going to come looking for people in his home, so he has made no effort to conceal the strange amount of security on his basement door.
 
 He keeps them alive. He visits them regularly and reminds them, over and over, that no one is thinking about them. No one is looking for them. No one remembers they exist.
 
