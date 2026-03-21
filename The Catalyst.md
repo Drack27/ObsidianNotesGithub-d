@@ -62,14 +62,16 @@ Once the Catalyst takes effect:
 | # | Target | Brain Used | Outcome |
 |---|--------|-----------|---------|
 | 1 | [[The Antimemetic Killer\|Victor Mann]] | Pig | Fully erased from community memory. Currently alive in Jonathan's basement. |
-| 2 | [[The Antimemetic Killer\|Bill Donahue]] | N/A (victim) | Murdered so Jonathan could harvest his human brain. |
-| 3 | [[The Antimemetic Killer\|Sally Oesch]] | Human (Bill's) | Fully erased, even from community-level connections. Currently alive in Jonathan's basement. |
+| — | [[The Antimemetic Killer\|Bill Donahue]] | N/A (not a Catalyst target) | Murdered so Jonathan could harvest his human brain for use #2. |
+| 2 | [[The Antimemetic Killer\|Sally Oesch]] | Human (Bill's) | Fully erased, even from community-level connections. Currently alive in Jonathan's basement. |
 
 ---
 
 ## Irreversibility
 
 The Catalyst cannot be reversed, dispelled, or undone. There is no counter-ritual, no cleansing, no supernatural mechanism that restores what was erased. The forgetting is permanent.
+
+Destroying or disrupting the ritual site will not undo the forgetting — the spell's work is already done the moment it takes effect. The ritual circle, the brain, the likeness — these are catalysts, not anchors. Once the forgetting has occurred, the physical components are irrelevant.
 
 The only way to restore someone's awareness of a forgotten person is the mundane way — by reintroducing them to evidence of that person's existence. Newspaper clippings, photographs, public records, personal testimony. You teach them about the forgotten person the same way you would teach anyone about a person they've never heard of: you show them proof, you tell them stories, you make the case that this person was real. It is slow, painstaking work, and it will never fully replicate the original memories — those are gone. But it can rebuild awareness, recognition, and connection from scratch.
 

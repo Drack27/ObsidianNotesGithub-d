@@ -22,7 +22,8 @@
 | Late 1980 (est.) | Jonathan murders Bill Donahue for his human brain | Antimemetic Killer |
 | Late 1980–Early 1981 | Blurred Woman sightings spike in frequency — intensified by The Catalyst's strengthening of The Forgotten | Blurred Woman |
 | Early–Mid Feb 1981 (est.) | Jonathan erases Sally Oesch using Bill's human brain | Antimemetic Killer |
-| Late Feb 1981 (~4 weeks ago) | Jackson family (4) vanishes from Peabody farmhouse; dog Filmore found | Lonely Painting |
+| Late Feb 1981 (~4 weeks ago) | Jackson family (4) vanishes from Peabody farmhouse | Lonely Painting |
+| ~1 week later (~3 weeks ago) | Dog Filmore found half-starved at Peabody farmhouse | Lonely Painting |
 | ~Jan 1981 | Marsh house phenomena begin escalating (ceiling stain, red water, banging) | Weeping House |
 | ~Jan 1981 | Mirror Haunt targeting of Edith Zelenskyy begins escalating | Mirror Haunt |
 | ~Feb 1981 | Raccoon infestation at Hutchins house; Thomas investigating for weeks | The Scratching |

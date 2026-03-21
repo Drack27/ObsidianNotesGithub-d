@@ -5,7 +5,7 @@
 
 ---
 
-> **TODO:** Do a freewrite for this later. Do not develop yet. The agents' identities, capabilities, personalities, and role in the campaign need to be determined through a dedicated creative session.
+> **Jackson will write this on his own; human freewrite here.** The agents' identities, capabilities, personalities, and role in the campaign need to be determined through a dedicated creative session.
 
 ---
 
