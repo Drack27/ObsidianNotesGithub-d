@@ -17,9 +17,10 @@
 | ~1976–1977 | Jenkins family (5) moves in; all vanish into painting | Lonely Painting |
 | ~1977 | Gus Brennan's wife dies; he becomes reclusive widower | Blurred Woman |
 | ~1977–1979 | Calvin family (3) moves in; all vanish into painting | Lonely Painting |
-| ~1978–1981 | Blurred Woman sightings begin and increase in frequency | Blurred Woman |
+| ~1978–1979 | Blurred Woman sightings begin — rare, sporadic, driven by rising cultural contrast | Blurred Woman |
 | Late 1980 (est.) | Jonathan Oesch erases Victor Mann using pig brain Catalyst | Antimemetic Killer |
 | Late 1980 (est.) | Jonathan murders Bill Donahue for his human brain | Antimemetic Killer |
+| Late 1980–Early 1981 | Blurred Woman sightings spike in frequency — intensified by The Catalyst's strengthening of The Forgotten | Blurred Woman |
 | Early–Mid Feb 1981 (est.) | Jonathan erases Sally Oesch using Bill's human brain | Antimemetic Killer |
 | Late Feb 1981 (~4 weeks ago) | Jackson family (4) vanishes from Peabody farmhouse; dog Filmore found | Lonely Painting |
 | ~Jan 1981 | Marsh house phenomena begin escalating (ceiling stain, red water, banging) | Weeping House |
@@ -28,7 +29,8 @@
 | ~Feb 1981 | Marshes shift from new age to Catholic paraphernalia in desperation | Weeping House |
 | ~Feb–Mar 1981 | Edith Zelenskyy reaches Stage 3; covers all reflective surfaces; withdraws | Mirror Haunt |
 | ~Feb–Mar 1981 | Anglerfish replaces Wendy Simons, Zach & Toula Carmody | Anglerfish |
-| March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously | All |
+| March 14, 1981 | Thomas McMullin killed by the Anglerfish on his way to the Old Radio Tower | Anglerfish |
+| March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files await discovery | All |
 
 ---
 
@@ -199,7 +201,7 @@
   2. A likeness of the target (photo, drawing, or carving)
   3. A circle drawn around the likeness with Latin epithets invoking The Forgotten
   4. The ritual must be left somewhere even the caster forgets (Jonathan uses a bedside clock reminder to visit ~weekly)
-- **Target: Victor Mann** — janitor at Roselake School.
+- **Target: Victor Mann** — janitor at Roselake Academy.
   - Lived alone; active in community but with no deep personal relationships (perfect victim profile).
   - Appeared in newspaper: Community cleanup day photo, Fall Festival announcement, First Methodist Church directory.
 - Jonathan uses a **pig brain** for the ritual. A missing pig from a local farm is reported around the same time (written off as a coyote kill).

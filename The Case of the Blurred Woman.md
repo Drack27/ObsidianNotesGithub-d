@@ -90,18 +90,24 @@ This information will need to be researched and discovered by the players throug
 
 If all four pieces of information are spoken to her while she is manifested, the blurring will resolve. Her face will become clear. She will be seen — truly seen — for the first time in over a century. And then she will be at peace.
 
-**Option B — (TBD)**
-A second option for resolving the haunting exists but has not yet been developed.
+**Option B — Convince Her She Doesn't Need to Be Remembered.**
+Instead of proving that she *was* remembered, the players can convince Margaret Anne that she doesn't *need* to be remembered to have mattered. This is not a spell or a ritual — it is a conversation with a ghost. The players must speak to her while she is manifested and make a genuine, heartfelt case that her worth as a person was never contingent on whether others remembered her. That being forgotten does not erase the life she lived. That she can let go.
+
+This is harder than it sounds. Margaret Anne has spent over a century defined by the wound of being forgotten. The fear of being forgotten is literally what keeps her tethered to the physical world. Convincing her to release that fear means convincing her to release the only thing that gives her existence shape. The players must be sincere — she will know if they are not. A failed or insincere attempt will anger her and risk pushing her toward becoming an Avatar of The Forgotten.
+
+If successful, the blurring will not resolve — her face will remain unclear, because no one alive knows what she looked like. But she will smile. And then she will be at peace.
+
+**Note:** Players who find creative alternative solutions to the haunting beyond these two options should be rewarded. The GM should be open to approaches that honor the spirit of the problem — a woman who needs to be seen or needs to let go — even if they don't follow either path exactly.
 
 ---
 
 ## Why She Is Escalating Now
 
-The general rise in contrast between **the world's connectedness** and **Roselake's disconnectedness** is driving a number of related fears: [[The Forgotten|The Isolation, The Unprotected, and The Forgotten]]. The internet, cable news, and the broader culture's accelerating interconnectedness have made Roselake's isolation feel sharper and more absolute than ever. The town was always remote; now it feels left behind.
+The general rise in contrast between **the world's connectedness** and **Roselake's disconnectedness** is driving a number of related fears: [[The Forgotten|The Isolation, The Unprotected, and The Forgotten]]. The spread of television, national broadcasting, long-distance telephone service, and the broader culture's accelerating interconnectedness have made Roselake's isolation feel sharper and more absolute than ever. The town was always remote; now it feels left behind.
 
-This contrast has reached a **tipping point** at which individuals feeling strong fear of being forgotten in the moment create supernatural "weak spots" — localized concentrations of athazagoraphobia intense enough for a pre-existing pseudo-avatar of The Forgotten, caught between the supernatural and physical realms, to manifest. The Blurred Woman has always been in Roselake. She has simply never before had enough weak spots to appear this frequently.
+This contrast has been building for years, reaching a level in the late 1970s at which individuals feeling strong fear of being forgotten in the moment began to create supernatural "weak spots" — localized concentrations of athazagoraphobia intense enough for a pre-existing pseudo-avatar of The Forgotten, caught between the supernatural and physical realms, to manifest. The Blurred Woman has always been in Roselake. The first rare, sporadic sightings began around 1978-1979, driven by this rising contrast alone.
 
-The use of [[The Catalyst]] by [[Jonathan Oesch]] has also intensified The Forgotten's presence, creating additional weak spots and making the Blurred Woman's manifestations more common. The two cases — [[The Antimemetic Killer]] and the Blurred Woman — are connected through The Forgotten.
+The use of [[The Catalyst]] by [[Jonathan Oesch]] beginning in late 1980 dramatically intensified The Forgotten's presence, creating far more weak spots and causing the Blurred Woman's manifestations to spike sharply in late 1980 and early 1981. The two cases — [[The Antimemetic Killer]] and the Blurred Woman — are connected through The Forgotten, and the Catalyst's use is directly responsible for the recent escalation from rare sightings to frequent appearances.
 
 ---
 

@@ -25,7 +25,7 @@ Thomas treats all of the following as confirmed or likely skinwalkers. He does n
 
 **Zacharias ("Zach") & Toula Carmody** — Married couple, both changed around the same time. Their children are grown and out of state, so nobody noticed them go missing. But someone at church noticed they've stopped speaking entirely — they used to love talking and socializing. Now they're completely closed off. Thomas has been watching them closely.
 
-**Donny McPhee** — Farmer. Became suddenly and noticeably grouchy. People are talking about the personality shift. Thomas has him on the wall. _(Note: entry incomplete — flesh out what Thomas has observed and written down about him.)_
+**Donny McPhee** — Farmer, north county road. A gruff but decent man who used to wave at people and come into town for supplies every Saturday. About two weeks ago, his demeanor changed dramatically — he snapped at Linda at the hardware store, stopped coming to the diner, and walks with a noticeable limp that he tries to hide. When Earl at the diner saw him, Donny ordered coffee, didn't talk to anybody, and left. Thomas has been watching him from a distance but can't get close — Donny's farm is open land with no cover for surveillance.
 
 **Winfred (a dog)** — Thomas is also tracking a dog whose owners reported a sudden behavioral change. The dog now moves stiffly and acts pitifully. Thomas considers it possible that the skinwalkers aren't limited to humans.
 
@@ -62,7 +62,7 @@ The anglerfish has been killing people around town and replacing them with **ski
 
 **Sylvia Lemmon** — Not a skinwalker. She went on a wild road trip with friends (drinking, partying) and came back more rebellious. Her parents' reaction is what put her on Thomas's radar. She's just a teenager.
 
-**Donny McPhee** — Not a skinwalker. He broke his leg, splinted it himself, and is hiding the injury. The pain is making him grouchy. _(Note: entry incomplete — needs more red-herring detail.)_
+**Donny McPhee** — Not a skinwalker. About two weeks ago, Donny slipped off a fence he was repairing and broke his left leg below the knee. Rather than drive hours to the nearest hospital or admit weakness to anyone in town, he splinted it himself using scrap wood and duct tape. He has been trying to keep working through the pain, which is making him irritable, short-tempered, and visibly limping — though he tries to disguise the limp whenever he thinks someone is watching. The personality shift is entirely explained by chronic, untreated pain and the stubbornness of a man who would rather suffer than ask for help. If the players visit his farm and get him to trust them enough to show the leg, they'll find an ugly but functional field splint and a man who desperately needs actual medical attention. His grouchiness will evaporate the moment someone treats his injury with competence and without judgment.
 
 **Winfred (the dog)** — Not a skinwalker. Suffering from a rare joint disease with sudden onset. The stiff movement and pitiful behavior are symptoms, not a replacement. Just a sick dog.
 
@@ -76,6 +76,5 @@ His eventual skin shell (if it happens) would be impulsive, loud, and erratic �
 
 ## Open Threads
 
-- The original notes mentioned **three** false leads, but only two (Donny McPhee and Winfred) were fully described. A third false lead needs to be created.
-- Donny McPhee's entry needs additional detail on both the Thomas's-wall side and the truth side.
+- The original notes mentioned **three** false leads, but only two (Donny McPhee and Winfred) were fully described plus Sylvia Lemmon. All three are now fleshed out.
 - Mayor Winnipeg's timeline for being lured and bitten could be pinned down more precisely.

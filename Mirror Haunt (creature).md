@@ -1,7 +1,7 @@
 # Mirror Haunt (Creature)
 
 **Type:** Entity Spawn
-**Origin:** [[The Great Entities|The Eye]]
+**Origin:** [[The Secondary Entities|The Eye]]
 **Associated Fear:** The fear of being watched — scopophobia, the intimate violation of never being alone.
 **Case Connection:** [[Mirror Haunt]]
 
@@ -9,9 +9,9 @@
 
 ## Overview
 
-A Mirror Haunt is a spawn of **The Eye** — a Great Entity that, while not having a major presence in Roselake itself, has a heavy presence among staff members of the nearby **Intrusion Institute**, who are accustomed to the world of espionage and its dangers. The Mirror Haunt is a creature born from that concentrated fear of surveillance, observation, and violation of privacy.
+A Mirror Haunt is a spawn of **The Eye** — a Secondary Entity born from a mingling of **The Uncanny** (the questioning of reality) and **The Inevitable** (the crushing weight of dread). While The Eye does not have a major presence in Roselake itself, it has a heavy presence among staff members of the nearby **Intrusion Institute**, who are accustomed to the world of espionage and its dangers. The Mirror Haunt is a creature born from that concentrated fear of surveillance, observation, and violation of privacy.
 
-Ironically, the Mirror Haunt and entities associated with The Eye are among the **most benign** of the Entities and their spawn. The Eye is largely opposed to the existence of many of the other Entities — it is hard to be afraid of what has something else watching over it. It is hard to be afraid of the dark when you can see in it. The Eye's watchfulness, while terrifying to its individual targets, functions as a kind of inadvertent check on other fears.
+Ironically, the Mirror Haunt and entities associated with The Eye are among the **most benign** of the Secondary Entities and their spawn. The Eye is largely opposed to the existence of many of the other Entities — it is hard to be afraid of what has something else watching over it. It is hard to be afraid of the dark when you can see in it. The Eye's watchfulness, while terrifying to its individual targets, functions as a kind of inadvertent check on other fears.
 
 ---
 
@@ -49,7 +49,7 @@ If, at Stage 4, the target of the haunting **fully gives in to their fear** — 
 
 ## Target Selection
 
-The Mirror Haunt that currently inhabits Roselake initially considered latching onto a staff member of the **Intrusion Institute** — the nearby covert paranormal monitoring station — as The Eye's presence is strongest among people accustomed to espionage and surveillance. However, upon observing the Institute's tools and capabilities, the creature decided against it. The Intrusion Institute's operatives are too well-equipped, too aware, and too dangerous.
+The Mirror Haunt that currently inhabits Roselake initially considered latching onto a staff member of the **Intrusion Institute** — the nearby covert paranormal monitoring station — as The Eye's presence is strongest among people accustomed to espionage and surveillance. However, upon observing the Institute's tools and capabilities, the creature decided against it. The Institute's operatives are too well-equipped, too aware, and too dangerous.
 
 Instead, it chose **[[Mirror Haunt|Edith Zelenskyy]]** — one of the most paranoid people in town. Edith's deep-seated fear of losing her home (rooted in her years of homelessness in Omaha) has left her hypervigilant, anxious, and acutely sensitive to the feeling of being watched. She was the perfect target: isolated, afraid, and unlikely to seek help.
 

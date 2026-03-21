@@ -19,7 +19,7 @@ Like all Entities, The Forgotten lacks true consciousness, intent, or will. It i
 The Forgotten has a growing presence in Roselake, driven by two converging factors:
 
 ### The Rising Contrast
-The general rise in contrast between the **world's connectedness** and **Roselake's disconnectedness** is driving a number of related fears. The internet, cable news, and the broader culture's accelerating interconnectedness have made Roselake's isolation feel sharper and more absolute than ever. The town was always remote; now it feels *left behind.*
+The general rise in contrast between the **world's connectedness** and **Roselake's disconnectedness** is driving a number of related fears. The spread of television, national broadcasting, long-distance telephone service, and the broader culture's accelerating interconnectedness have made Roselake's isolation feel sharper and more absolute than ever. The town was always remote; now it feels *left behind.*
 
 This contrast feeds three related Secondary Entities:
 - **The Isolation** — the fear of being cut off.

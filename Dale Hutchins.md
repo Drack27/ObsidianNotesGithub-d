@@ -15,7 +15,7 @@ Which is why the fact that he's been telling people at the diner that ghosts are
 
 ## Family
 
-Dale lives with his wife and their two children — a six-year-old and a twelve-year-old. The children are the primary drivers of the supernatural misinterpretation of events in the Hutchins household. The twelve-year-old is old enough to build convincing narratives about what they've heard and seen, and the six-year-old is young enough to believe every word of it. Between the two of them, they have spun the raccoon infestation into a full-blown ghost story that has consumed the family's imagination.
+Dale lives with his wife and their two children — a six-year-old and a twelve-year-old. The children are the primary drivers of the supernatural misinterpretation of events in the Hutchins household. The twelve-year-old is old enough to build convincing narratives about what she's heard and seen, and the six-year-old is young enough to believe every word of it. Between the two of them, they have spun the raccoon infestation into a full-blown ghost story that has consumed the family's imagination.
 
 The parents were initially skeptical. Dale and his wife scolded the children for making things up and even grounded them at one point for what they assumed were pranks (scattered food, knocked-over trash cans). That all changed the night of the **floating brick incident** — after that, the parents' skepticism gave way to genuine fear, and the family united around the conviction that something paranormal was happening in their home.
 

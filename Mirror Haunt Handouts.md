@@ -92,4 +92,6 @@ _A single index card, tucked into the folder, with a list in Thomas's handwritin
 >
 > I need to find a way to talk to her. Or a way inside.
 >
+> If I disappear, check Edith's house. Whatever is in those mirrors may have found a new target.
+>
 > — T.M.

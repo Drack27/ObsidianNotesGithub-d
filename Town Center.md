@@ -1,6 +1,6 @@
 Contains:
 
 [[Tony's Diner]]
-[[Roselake Castle]]
+[[Castle Roselake]]
 [[Roselake Library]]
-[[Roselake aca]]
+[[Roselake Academy]]

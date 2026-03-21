@@ -23,7 +23,7 @@ Thomas has written in the margin: **"Ask anyone in this photo about him. They do
 
 ### CLIPPING 2 — School Fall Festival Announcement
 
-A short piece from the Register announcing the annual Roselake School Fall Festival. It lists organizing volunteers and thanks them by name. **VICTOR MANN, HEAD CUSTODIAN** is listed among them.
+A short piece from the Register announcing the annual Roselake Academy Fall Festival. It lists organizing volunteers and thanks them by name. **VICTOR MANN, HEAD CUSTODIAN** is listed among them.
 
 Thomas's margin note: **"The school doesn't have records of employing a Victor Mann. I checked."**
 
@@ -83,7 +83,7 @@ _The right pocket of the folder contains several pages of lined notebook paper c
 
 > **VICTOR MANN**
 >
-> - Janitor at Roselake School. Multiple newspaper mentions. Fall festival, cleanup days, church directory.
+> - Janitor at Roselake Academy. Multiple newspaper mentions. Fall festival, cleanup days, church directory.
 > - Lived alone. No wife or kids that I can find.
 > - Active in community but... now that I think about it, I can't find evidence of close friends. No wedding announcements, no "Victor and so-and-so" at a dinner party. Just Victor, alone, showing up to things.
 > - At some point, all trace of him just STOPS. House went up for sale. School has no employment records for him. Nobody at the school — teachers, staff, NOBODY — remembers him.
@@ -168,5 +168,7 @@ A rough chronological chart showing:
 > I need to talk to Jonathan Oesch. I need to go to Victor's house. I need to pull Bill Donahue's case file from the Sheriff's office.
 >
 > I need to do all of this before I also become someone nobody remembers.
+>
+> If I'm gone, it means the forgetting got me too. Look at the names. Look at the newspaper. Don't let them erase me.
 >
 > — T.M.
