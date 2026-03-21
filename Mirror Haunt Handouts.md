@@ -1,12 +1,5 @@
 # PLAYER HANDOUT — The Case of the Mirror Haunt
 
-```
-In general, update this to align with the overall case file
-```
-```
-Also, rewrite these handouts such that Thomas is concerned for Edith's welfare and suspects something supernatural is going on, but have that heavily tempered with more uncertainty about his inferences. Include a theory that she could be a vampire, and that she could be the source of the Skinwalkers.
-```
-
 ## GM Note: The Manila Folder
 
 _This is one of the thinner folders. The tab is labeled "MIRROR HAUNT (?)" in black marker — the question mark was added later in a different pen. Inside, there are no newspaper clippings. This case is based entirely on Thomas's personal observations and a handful of photographs. A note on the inside front cover reads: "She won't talk to me. I have to work with what I can see."_
@@ -36,46 +29,44 @@ _Two pages of handwritten notes on lined paper, written in blue ink._
 ### Page 1 — "WHAT I KNOW"
 
 > **THE MIRROR HAUNT — CASE NOTES** _T. McMullin_
-> 
-> Subject: **EDITH ZELENSKYY** — late 60s/early 70s. Lives alone, small house on the eastern edge of town past the grain elevator. Granddaughter of Russian immigrants — been in Roselake a long time.
-> 
-> Something is wrong with Edith, and she won't let anyone help.
-> 
-> Here's what I've been able to piece together:
-> 
+>
+> Subject: **EDITH ZELENSKYY** — late 60s/early 70s. Lives alone, small house on the eastern edge of town past the grain elevator. Been in Roselake a long time.
+>
+> Something is going on with Edith, and I can't figure out what.
+>
+> Here's what I've been able to piece together from the outside:
+>
 > — Neighbors say she used to keep a tidy yard, came into town regularly, was private but pleasant. Normal.
-> 
+>
 > — Over the past several weeks, she's withdrawn almost completely. Curtains drawn. Yard going to seed. Comes to the general store at odd hours to avoid people.
-> 
+>
 > — When she does appear in town, she looks BAD. Thin. Exhausted. Dark circles. Jumpy. Won't meet anyone's eyes.
-> 
+>
 > — Her neighbor, **Margaret Hale**, told me Edith said "I can't have anyone in the house right now." Wouldn't explain. Margaret said she's heard Edith shouting inside the house at night, even though Edith lives alone.
-> 
+>
 > — Every reflective surface I can see from outside has been covered. Every one. The mirrors on her truck are wrapped up. The bathroom window is painted over. She has done this deliberately, systematically, and recently.
-> 
-> This is not someone who is "just getting old" or "just wants privacy." This is someone who is afraid of something specific, and whatever it is has to do with mirrors.
+>
+> That last point is the one that sticks with me. This is very specific behavior. She's not just withdrawing from the world. She is specifically, deliberately eliminating every reflective surface she can reach.
 
 ---
 
-### Page 2 — "WHAT I THINK"
+### Page 2 — "WHAT I THINK (AND I'M NOT SURE ABOUT ANY OF THIS)"
 
 > I've knocked three times. She answered the door once — opened it about four inches, chain on. She looked at me and said, "I don't need help. Go away." Her eyes were red. She'd been crying, or she hadn't slept, or both.
-> 
+>
 > I asked if something in the house was bothering her. She stared at me for a long time. I thought she was going to say something. Then she shut the door.
-> 
-> I think there's something in her mirrors. I think she can see something that the rest of us can't, and I think she's covered every reflective surface in the house to get away from it.
-```
-Thomas should not make this leap in logic. Have him be more unsure, and have him float the possibility that she could be a vampire, and have him have the beginnings of a theory that she could be the source of the Skinwalkers
-```
-> 
-> I also think she'd rather die than tell anyone, because she's afraid they'll take her out of her home. I don't know her full story, but Margaret mentioned Edith "had some hard years before Roselake" and won't talk about it. Whatever happened, she's terrified of losing the house more than she's terrified of whatever's in it.
-```
-Axe this as well. He should not connect the dots here. In general, remove the extensive personal knowledge that he has on her; he should only know what's happening from outside observation
-```
-> 
-> I don't know what to do here. I can't force her to talk. I can't get inside. And I don't know what I'd be looking for even if I could.
-> 
-> But she's losing weight. She's not sleeping. And whatever's in there isn't going away.
+>
+> I don't know what's happening here. I genuinely don't. I have a few theories, none of which I'm confident in:
+>
+> **Theory 1 — Something in the mirrors.** The covered mirrors, the painted window, the wrapped truck mirrors. Whatever she's afraid of, she sees it in reflections. Some kind of entity that inhabits reflective surfaces? I don't have a precedent for this in any of my other cases.
+>
+> **Theory 2 — Vampire.** I know how this sounds. But the covered mirrors, the avoidance of people, the nocturnal shouting, the physical deterioration — it fits a certain profile. What if Edith isn't being haunted? What if she's BECOMING something? What if she's covering the mirrors because she doesn't want to see what she's turning into?
+>
+> **Theory 3 — Connected to the Skinwalkers.** This is the one that worries me most. What if Edith is the SOURCE? What if whatever is happening to her is the same thing that's producing the Skinwalker sightings? The Skinwalkers replace people — what if this is what the replacement process looks like from the inside? An isolated person, deteriorating, becoming something else?
+>
+> I don't know. I don't have enough information. I can't get inside. She won't talk to me. And I don't know what I'd be looking for even if I could.
+>
+> All I know is this: she's deteriorating. She's not sleeping. Whatever is happening isn't going away. And the longer I watch from outside, the less confident I am that watching is enough.
 
 ---
 
@@ -84,25 +75,21 @@ Axe this as well. He should not connect the dots here. In general, remove the ex
 _A single index card, tucked into the folder, with a list in Thomas's handwriting:_
 
 > COVERED/REMOVED SURFACES (visible from outside):
-> 
+>
 > - Bathroom window — painted over (white house paint)
 > - Truck driver-side mirror — wrapped in dish towel + tape
 > - Truck rearview mirror — removed
 > - Front windows — curtains drawn (can't confirm if interior mirrors removed, but I'd bet on it)
 > - Kitchen window — curtain + something taped behind it (foil?)
-> 
+>
 > She's not just avoiding mirrors. She's eliminating EVERY reflective surface she can reach.
 
 ---
 
 ## Loose Item — Sticky Note
 
-> This one worries me more than the others. The house cases, the skinwalkers — those are patterns. Puzzles. This is just a scared old woman who won't let anyone help her.
-> 
-> If something happens to Edith, it's because the rest of us didn't try hard enough.
-> 
+> I'm investigating this because the mirror behavior is unusual enough to warrant it, and because of the possible connection to the Skinwalker case. I don't know if Edith is a victim, a threat, or something else entirely.
+>
+> I need to find a way to talk to her. Or a way inside.
+>
 > — T.M.
-
-```
-Again, axe this as part of the rewrite of thomas' motivations. He should not be convinced that she is a victim in this, and he should only be investigating because it seems highly unusual and because of the possible connection to the skinwalker case
-```

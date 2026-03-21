@@ -1,9 +1,5 @@
 # PLAYER HANDOUT — The Case of the Missing Missing
 
-```
-Update this to match the changes to The Case of the Missing Missing/Antimemetic Killer
-```
-
 
 ## GM Note: The Manila Folder
 
@@ -74,11 +70,11 @@ _The right pocket of the folder contains several pages of lined notebook paper c
 ### Page 1 — "WHAT I KNOW"
 
 > **THE MISSING MISSING — CASE NOTES** _T. McMullin_
-> 
+>
 > Three people. All connected to this town. All gone. And nobody — NOBODY — remembers them.
-> 
+>
 > I'm not talking about "oh, I haven't seen them in a while." I'm talking about _total erasure._ I say their names and people look at me like I'm speaking another language. I show them the newspaper clippings — photos of these people STANDING NEXT TO THEM — and they shrug. "I don't know who that is." "Must be someone from out of town."
-> 
+>
 > These aren't strangers. These were members of this community.
 
 ---
@@ -86,23 +82,23 @@ _The right pocket of the folder contains several pages of lined notebook paper c
 ### Page 2 — The Three
 
 > **VICTOR MANN**
-> 
+>
 > - Janitor at Roselake School. Multiple newspaper mentions. Fall festival, cleanup days, church directory.
 > - Lived alone. No wife or kids that I can find.
 > - Active in community but... now that I think about it, I can't find evidence of close friends. No wedding announcements, no "Victor and so-and-so" at a dinner party. Just Victor, alone, showing up to things.
 > - At some point, all trace of him just STOPS. House went up for sale. School has no employment records for him. Nobody at the school — teachers, staff, NOBODY — remembers him.
 > - I only found him because I was going through old Registers looking for something else.
-> 
+>
 > **SALLY OESCH**
-> 
+>
 > - Lived with her brother Jonathan on the south end of town.
 > - Church volunteer. Charity drives. Appeared in the Register a handful of times.
 > - Similar profile to Victor — active but not deeply connected. Showed up, helped out, went home.
 > - Her brother Jonathan still lives in the house. I asked around about Sally — nothing. Asked at the church — nothing. Nobody remembers a Sally Oesch.
 > - I haven't talked to Jonathan directly. Something about him makes me uneasy and I don't know what.
-> 
+>
 > **BILL DONAHUE**
-> 
+>
 > - Truck driver. Regular route through Roselake. Not a local but a familiar face.
 > - Least social of the regular drivers — didn't hang around the diner or make small talk. Just passed through.
 > - Found DEAD on the outskirts of town. One newspaper article. No follow-up. No arrest.
@@ -115,29 +111,42 @@ _The right pocket of the folder contains several pages of lined notebook paper c
 ### Page 3 — "WHAT DOESN'T ADD UP"
 
 > Things that bother me:
-> 
+>
 > 1. This isn't normal forgetting. People forget acquaintances all the time. But this is EVERYONE forgetting EVERYTHING about these people, all at once. Exposed photos, printed names, doesn't matter. They look at the evidence and feel nothing.
->     
+>
 > 2. Victor and Sally have the same profile — active in the community, visible in public, but no deep personal bonds. No close friends, no family nearby (except Jonathan, in Sally's case). Is that a coincidence or a pattern?
->     
+>
 > 3. Bill Donahue is the odd one out. He didn't live here. He was passing through. But he's DEAD, and the other two are just GONE. What connects a murdered truck driver to two forgotten locals?
->     
+>
 > 4. The Sheriff doesn't care. About any of it. Three people vanished from the public record and a man is dead and he hasn't lifted a finger. Either he's in on it or he's been made to forget too.
->     
+>
 > 5. Jonathan Oesch is still here. His sister is gone — or rather, was never here, according to everyone — and he's just living his life. Is he a victim? Is he involved? Why does he make me nervous?
->     
 
 ---
 
 ### Page 4 — "THEORIES (God Help Me)"
 
 > I keep coming back to government involvement. Some kind of program. Experimental. Maybe chemical — something in the water, something airborne, something targeted.
-> 
+>
 > Why these three? Maybe they saw something they shouldn't have. Maybe they were selected. Victor worked at the SCHOOL — access to the building after hours. Sally volunteered everywhere — maybe she overheard something. Bill was a truck driver — maybe he was transporting something.
-> 
+>
 > Or maybe it's simpler than that. Maybe someone in this town has the ability to make people disappear — not just physically, but from MEMORY — and they're testing it. Perfecting it. And Victor, Sally, and Bill were easy targets because nobody would fight hard enough to remember them.
-> 
+>
 > That last one keeps me up at night.
+
+---
+
+### Page 5 — "JONATHAN OESCH"
+
+> I've only met him once. Years ago. Before any of this.
+>
+> He came into the library to check out a book. Ancient occult practices — one of the older reference texts in the collection. Not the kind of thing that gets checked out often. I didn't think much of it at the time. People read strange things.
+>
+> But the way he looked at me. He didn't browse. He didn't look at the shelves. He came in, pulled the book off the shelf like he already knew exactly where it was, and then he just... stood there. Holding it. Staring at me. Not looking away, not glancing around. Just staring. Daggers. The entire time I processed the checkout.
+>
+> I'm a quiet sort. I'm used to quiet people. But that wasn't quiet. That was something else.
+>
+> I've steered clear of him ever since. I need to talk to him about Sally. I know I do. But something about that man makes every hair on the back of my neck stand up, and I can't explain why.
 
 ---
 
@@ -157,7 +166,7 @@ A rough chronological chart showing:
 **A sticky note:**
 
 > I need to talk to Jonathan Oesch. I need to go to Victor's house. I need to pull Bill Donahue's case file from the Sheriff's office.
-> 
+>
 > I need to do all of this before I also become someone nobody remembers.
-> 
+>
 > — T.M.

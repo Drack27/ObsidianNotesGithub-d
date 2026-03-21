@@ -44,10 +44,34 @@
 > 
 > [[The Great Entities|View The Great Entities's full details here]]
 
-> [!info]- The Secondary Entities 
+> [!info]- The Secondary Entities
 >Lesser, localized fear manifestations born from the mixing of the primary Great Entities. The most prominent in Roselake is **The Isolation** (a mix of all three primary fears), alongside others like **The Forgotten** and **The Unprotected**.
-> 
+>
 > [[The Secondary Entities|View The Secondary Entities's full details here]]
+
+> [!info]- Jonathan Oesch
+> A 25-year-old recluse who uses a ritual spell called The Catalyst to erase people from the town's collective memory. A major driver of The Forgotten's influence in Roselake.
+> [[Jonathan Oesch|View Jonathan Oesch's full details here]]
+
+> [!info]- Reuben & Clara Marsh
+> A deeply superstitious couple in their late 50s who believe their house is demonically infested. Connected to the case of [[The Weeping House|The Weeping House]].
+> [[The Marsh Couple|View The Marsh Couple's full details here]]
+
+> [!info]- Dale Hutchins
+> A practical grain elevator worker whose family believes their house is haunted. Connected to the case of [[The Scratching|The Scratching]].
+> [[Dale Hutchins|View Dale Hutchins's full details here]]
+
+> [!info]- Gus Brennan
+> A widower in his 70s and the only repeat witness of The Blurred Woman. Carries a deep, unspoken fear of being forgotten.
+> [[Gus Brennan|View Gus Brennan's full details here]]
+
+> [!info]- The Forgotten
+> A Secondary Entity embodying the fear of being forgotten. Growing in influence in Roselake, with connections to The Blurred Woman and The Antimemetic Killer cases.
+> [[The Forgotten|View The Forgotten's full details here]]
+
+> [!info]- Mirror Haunt (Creature)
+> A spawn of The Eye that inhabits reflective surfaces and feeds on the fear of being watched. Currently targeting Edith Zelenskyy.
+> [[Mirror Haunt (creature)|View Mirror Haunt creature details here]]
 
 
 
