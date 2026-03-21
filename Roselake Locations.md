@@ -64,6 +64,14 @@
 > The expansive, lonely agricultural tracts surrounding the town. They are implied to be the hunting grounds for a horror spawned by "The Isolation" that lures people into the dark.
 > [[The Fields|View The Fields's full details here]]
 
+> [!info]- The Old Cemetery
+> Roselake's original burial ground, dating back to the town's founding in the 1840s. The oldest graves in the north section are weathered to illegibility, with many unmarked plots. Connected to the case of [[The Case of the Blurred Woman|The Blurred Woman]].
+> [[The Old Cemetary|View The Old Cemetery's full details here]]
+
+> [!info]- The Collapsed Farmhouse
+> A long-abandoned farmhouse outside of town with a hidden underground storeroom beneath it. Connected to the case of [[The Antimemetic Killer|The Missing Missing]].
+> [[The Collapsed Farmhouse|View The Collapsed Farmhouse's full details here]]
+
 > [!info]- The Nearest Hospital
 > A location defined entirely by its absence. Because Roselake does not have a hospital of its own, the sheer distance to the nearest medical facility weighs heavily on the minds of the townsfolk, feeding directly into the local entity of "The Isolation."
 > [[The Nearest Hospital|View The Nearest Hospital's full details here]]

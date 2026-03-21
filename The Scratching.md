@@ -3,94 +3,85 @@
 # The Case of the Scratching
 
 
-```
-Replace Dale Hutchins throughout this document with the Hutchins family; Dale is the father and largely of the same character as described here, (also add a [[Dale Hutchins]] page) but it is his children (6 and 12 years old) who are driving the supernatural misinterpretation
-```
-
 ---
 
 # PART ONE — Thomas's File
 
-_What Thomas McMullin has gathered. This is the newest and least developed case in his collection — really just an index card on the corkboard and a few notes stuffed into a thin folder._
-
-```
-Axe this. Rewrite the entire article with a shift in tone; This case should be comedically *overdeveloped*, not recent; Thomas McMullin has been working with the family for several weeks to a month, but since he is not an exterminator or an expert in animals, he has never managed to catch or even see any of the raccoons. The more they evade him, and the more intelligent they continue to appear, the more convinced he is that they are ghosts (feeding into the family's misinterpretation)
-```
+_What Thomas McMullin has gathered. This is, inexplicably, one of the most overdeveloped cases in Thomas's collection — not because it is the most dangerous or the most mysterious, but because Thomas McMullin has been working on it for several weeks to a month and has been completely, embarrassingly unable to catch a single raccoon. Every time he thinks he's close, they evade him. Every trap he sets comes back empty or sprung and raided. He has never managed to even SEE one of the raccoons, which has only deepened his conviction that he is dealing with something incorporeal._
 
 ## Thomas's Theory
 
-**Dale Hutchins**, a bachelor in his early 40s who lives alone in a house on the north side of town, has been telling people at the diner that something is living in his walls. He's been hearing scratching and chittering sounds at night — sometimes in the walls, sometimes from the attic. He's found food pulled out of his pantry and scattered on the kitchen floor. Trash cans inside the house have been knocked over.
+Thomas has been working with the **Hutchins family** — [[Dale Hutchins]], his wife, and their two children (ages 6 and 12) — on what he initially treated as a minor case and has since poured weeks of effort into. The family lives in a house on the north side of town, and something is living in their walls.
 
-Dale is a quiet, practical man — not the type to make things up or exaggerate. The fact that he's visibly rattled has caught Thomas's attention. Thomas suspects that whatever is in the walls may not be an animal — or if it was, it isn't anymore.
+Thomas is, at this point, genuinely convinced the Hutchins house is haunted. He has been to the house **multiple times**. He has set traps. He has staked out the attic hatch. He has sat in the upstairs hallway in the dark with a flashlight and a notebook. Every single time, whatever is in the walls evades him completely. He has never seen it. He has never caught it. He has never even gotten a clear look at evidence of what it might be.
 
+The more intelligent the intruder appears — opening doors, defeating his traps, knocking over weighted trash cans — the more Thomas is convinced it cannot be an animal. Animals get caught. Animals leave tracks. Animals make mistakes. Whatever is in the Hutchins house makes no mistakes, and Thomas, who is not an exterminator or an expert in animals, has run out of mundane explanations.
 
-
-## What Dale Has Reported
+## What the Hutchins Family Has Reported
 
 - **Scratching sounds in the walls and ceiling,** mostly at night. Sometimes rhythmic, sometimes frantic. Dale says it moves — starts on one side of the house, then seems to travel to the other.
-- **Chittering or chattering sounds** that Dale describes as "almost like whispering." He says it's most audible when the house is completely quiet, late at night.
-- **Food disturbances.** Dale has woken up to find his pantry door open, canned goods knocked off shelves, bread bags torn open, and dry goods scattered on the floor. This has happened at least four times.
-- **Knocked-over trash cans.** The kitchen trash has been tipped over multiple times. Dale started putting a brick on the lid. The trash was tipped over anyway, brick and all.
-- **A smell.** A sharp, musky, ammonia-like odor coming from the walls, particularly near the attic access hatch in the upstairs hallway. Dale says it wasn't there a month ago.
-
-```
-Change the description of the urine odor. Warp the description through the lens of a sleep-deprived family whose children are convinced they've seen ghosts (as per the "floating brick" incident, see next note) and a ghost hunter who lacks the skill needed to catch the dang things
-```
-
-```
-IDK where you'll add this in, but add in somewhere the following detailed account: Dale's wife came downstairs late at night one night for a midnight snack after Dale put the brick on the garbage can. She turned the corner just in time to see the brick "float" off of the garbage can and onto the floor - at which point she screamed, and it turned into a whole family incident. In reality, the mother raccoon pushed it off, but was hidden by the shadows, as she hadn't turned on the lights yet. The garbage can was black, and the moonlight reflected off the lighter-colored brick, making it look (at a glance, in a split moment) like the brick floated off the garbage can. This should be noted as the point where the parents' skepticism and even grounding of their children for the pranks they had been accused of pulling turned into fear of a paranormal infestation
-``` 
-
+- **"That G** D*** whispering."** Dale's primary description of the sounds he hears through the walls late at night. Filtered through insulation, drywall, and ceiling cavities, the sounds are muffled into something that sounds convincingly like hushed, urgent whispering. It is loudest when the house is completely quiet, late at night, and it keeps the entire family awake. The chronic lack of sleep is making everyone's judgment worse.
+- **Food disturbances.** The family has woken up to find the pantry door open, canned goods knocked off shelves, bread bags torn open, and dry goods scattered on the floor. This has happened at least four times. Dale started putting a brick on the kitchen trash can lid. The trash was tipped over anyway, brick and all.
+- **The Floating Brick Incident.** This is the turning point of the case. After Dale put the brick on the garbage can, his wife came downstairs late one night for a midnight snack. She hadn't turned on the lights. She turned the corner into the kitchen just in time to see the brick **"float" off the garbage can** and land on the floor. She screamed. It became a whole-family incident — lights on, kids woken up, the six-year-old crying, the twelve-year-old saying "I told you so." Before this moment, the parents had been skeptical of the children's ghost stories and had even grounded them for what they assumed were pranks. After this moment, the entire family was united in the conviction that something paranormal was infesting their home. The truth: the mother raccoon, hidden by the shadows of the unlit kitchen, pushed the brick off the lid. The garbage can was black and invisible in the dark. The lighter-colored brick caught the moonlight coming through the kitchen window. For a split second, from the doorway, it looked exactly like the brick levitated off an invisible surface and dropped to the floor.
+- **A smell.** A sharp, acrid, eye-watering odor that Dale's wife describes as "like something died up there and then something else peed on it." The six-year-old insists it smells like "ghost breath." The twelve-year-old, who has been reading about hauntings online at school, says it smells like ectoplasm. Thomas, in his notes, describes it as "pungent, biological, and concentrated near the attic hatch." It is, in fact, raccoon urine and droppings accumulating in the attic. But to a sleep-deprived family whose children are convinced they've seen ghosts, and a ghost hunter who has spent weeks unable to catch the source, the smell has taken on an almost supernatural quality — further evidence that whatever is up there is not of this world.
 - **Scratches on the attic hatch.** Thin, parallel scratches around the edges of the ceiling-mounted attic access panel, as if something with claws has been pushing at it from above.
 
-```
-Axe all mentions of "chittering" or "chattering" throughout this document. Dale should just describe it as "that G** D*** whispering" Through the muffled walls of insulation & so forth, it should sound fairly convincingly like whispering, which keeps the family awake, and the lack of sleep is exacerbating their faulty assessment
-```
-
-Thomas has visited the house once. ```several times``` He confirmed the smell (strong and unpleasant, concentrated near the attic hatch), saw the scratches on the hatch, and heard a faint rustling from above while standing in the upstairs hallway. He did not open the attic.
+Thomas has visited the house **many times** over the past several weeks. He has confirmed the smell (strong and getting worse), seen the scratches on the hatch, and heard the rustling and "whispering" from above on multiple occasions. He has set traps in the attic that were sprung without catching anything. He has staked out the kitchen at night and heard movement but seen nothing. He has checked every entry point he can find and sealed several gaps, only for the activity to continue.
 
 ## What Thomas Thinks
 
-Thomas isn't sure what to make of this one. He's filed it under potential supernatural activity because of the combination of the sounds, the food disturbances, and the scratches — and because it pattern-matches to something _intelligent_ living in the house, not just a mouse or a bat. He's particularly unsettled by Dale's description of the sounds as "almost like whispering." Thomas has floated the possibility (in his notes, not to Dale) that something from one of the other cases may have nested in the house.
+Thomas is thoroughly convinced that whatever is in the Hutchins house is **not an animal.** His reasoning, which he has documented extensively in a case file that is embarrassingly thick for what is objectively a raccoon problem:
+
+- Animals get caught in traps. This doesn't.
+- Animals leave droppings and tracks. He can smell the droppings but can never find clear tracks. (The raccoons nest in the deep insulation of the attic, which doesn't hold prints.)
+- Animals can't push a brick off a weighted trash can. (They absolutely can.)
+- The "whispering" is not an animal sound. (It is — raccoon vocalizations filtered through insulation sound eerily speech-like.)
+- He has been trying for **weeks** and has never once seen it. Whatever it is, it knows when he's there.
+
+Thomas has tentatively connected the case to his other investigations. He's floated the possibility (in his notes, not to the family) that something from one of the more serious cases may have nested in the house. The family's twelve-year-old, who has been enthusiastically providing Thomas with "evidence" from ghost-hunting websites, is not helping matters.
 
 ---
 
 # PART TWO — What's Actually Happening
 
-_The mundane truth. There is nothing supernatural in Dale Hutchins' walls._
+_The mundane truth. There is nothing supernatural in the Hutchins house walls._
 
-```
-Keep all of the explanations about why the "supernatural" details are mundane
-``` 
+## The Raccoons
 
-## The Raccoon
+A female raccoon and her litter of kits have taken up residence in the Hutchins family's attic. They entered through a gap where a section of rotting board along the roofline has pulled away just enough for a raccoon to squeeze through. (A "soffit gap" — the soffit is the underside of the roof overhang, and when the boards that form it rot or pull away, they create openings that are perfect raccoon-sized entry points.)
 
-A female raccoon and her litter of kits have taken up residence in Dale's attic. They entered through a gap in the soffit on the north side of the house — a section of rotting fascia board that has pulled away from the roofline just enough for a raccoon to squeeze through.
+**The scratching:** Raccoons are nocturnal and active at night. The mother moves through the attic and wall cavities foraging and tending to her kits. The "traveling" sound the family describes is her moving from one end of the attic to the other. The frantic bursts are the kits playing or fighting.
 
-**The scratching:** Raccoons are nocturnal and active at night. The mother moves through the attic and wall cavities foraging and tending to her kits. The "traveling" sound Dale describes is her moving from one end of the attic to the other. The frantic bursts are the kits playing or fighting.
-
-**The chittering:** Raccoon vocalizations — purring, chittering, and a high-pitched trill that mother raccoons use to communicate with their young. In a quiet house at night, filtered through ceiling drywall, it sounds eerie and vaguely speech-like. It is not whispering.
+**The "whispering":** Raccoon vocalizations — purring, chittering, and a high-pitched trill that mother raccoons use to communicate with their young. In a quiet house at night, filtered through ceiling drywall and insulation, these sounds are muffled and distorted into something that sounds eerily like hushed, urgent whispering. It is not whispering. But to a family that is already sleep-deprived, frightened, and primed to interpret everything as supernatural, it is deeply convincing.
 
 **The food disturbances:** The mother raccoon has found a route from the attic into the house — likely through the attic hatch, which doesn't latch securely, or through a gap in the wall where pipes enter the kitchen. She comes down at night, raids the pantry, and returns. Raccoons are strong, dexterous, and more than capable of opening pantry doors, tearing open packaging, and knocking over a trash can weighted with a brick.
 
-**The smell:** Raccoon urine and droppings accumulating in the attic. The ammonia smell is concentrated near the hatch because that's the closest opening to the nesting area. It will get worse over time.
+**The floating brick:** The mother raccoon pushed the brick off the trash can lid. She was hidden in the shadows of the unlit kitchen. The black garbage can was invisible in the dark; the lighter brick, catching moonlight from the window, appeared to hover and then drop. Dale's wife saw this for a split second from the doorway. It is the single most important moment in the case — the moment the parents stopped being skeptical and started believing.
+
+**The smell:** Raccoon urine and droppings accumulating in the attic. The ammonia-like odor is concentrated near the hatch because that's the closest opening to the nesting area. It is getting worse over time as the colony grows.
 
 **The scratches on the hatch:** The raccoon's claws, pushing at the hatch from above to open it. The parallel lines are consistent with raccoon paw marks.
 
-## Why Dale Is Scared
+## Why the Family Is Scared
 
-Dale lives alone and has no frame of reference for raccoon infestations. He's never had animals in his walls before. The sounds are genuinely unsettling when you don't know what's making them — the chittering _does_ sound like whispering if you're already anxious, and the scratching in the walls at 2 AM is the kind of thing that makes your imagination fill in the blanks. The food being scattered across the kitchen feels like a violation — something is in his house, touching his things, and he can't see it.
+The Hutchins family is not stupid. They are scared because the combination of symptoms — the sounds, the food raids, the smell, the scratches, and above all the floating brick — creates an overwhelmingly creepy picture, especially when filtered through sleep deprivation and the enthusiastic ghost theories of two children (particularly the twelve-year-old, who has been feeding the family increasingly alarming information from the internet). The six-year-old is too young to question it. The twelve-year-old is old enough to build narratives. The parents tried to be skeptical and were overruled by the brick.
 
-An exterminator or animal control officer could diagnose this immediately. The fix is to trap and relocate the raccoons, then seal the soffit gap.
+An exterminator or animal control officer could diagnose this immediately. The fix is to trap and relocate the raccoons, then seal the entry point in the soffit.
 
-```
-Again, axe this in favor of the family. Also what the heck is a soffit gap?
-```
+## Why Thomas Can't Catch Them
 
-## Value as a Red Herring
+Thomas McMullin is not an exterminator. He is not an expert in animals. He is a former librarian who investigates supernatural cases using newspaper clippings, photographs, and an abundance of determination. He has no idea how raccoons behave, where they nest, how they move, or what kind of traps to use. His traps are wrong. His stakeout positions are wrong. His understanding of the animal is wrong.
 
-Like the Marsh house, this case teaches the players that not everything is supernatural. But it has an added layer: Dale's descriptions — the "whispering," the intelligence, the clawed scratches — are genuinely evocative of something paranormal, and Thomas has tentatively connected it to his other cases. Players who are deep in a supernatural mindset may resist the mundane explanation longer than they should.
+The raccoons are not unusually intelligent. They are simply raccoons — and raccoons are naturally elusive, nocturnal, and exceptionally good at avoiding detection in enclosed spaces. Thomas's failure to catch them is not evidence of supernatural evasion. It is evidence that he is the wrong person for this job.
 
-It's also an opportunity for a lighter moment in an otherwise dark campaign. The reveal that the terrifying attic entity is a mother raccoon and her babies can be funny, especially after the tension of the real cases.
+The more he fails, the more convinced he becomes that he's dealing with ghosts. The more convinced he becomes, the more elaborate his ghost-hunting strategies get. The more elaborate his strategies, the less effective they are at catching raccoons. It is a perfect, comedic feedback loop.
+
+## Value as a Red Herring (and Comic Relief)
+
+Like the Marsh house, this case teaches the players that not everything is supernatural. But it has an added layer of humor: the case is **comically overdeveloped.** Thomas has poured weeks of effort into what is, by any reasonable measure, a raccoon problem. His case file is thick. His notes are extensive. His theories are elaborate. And he is completely, utterly wrong.
+
+The reveal that the terrifying attic entity is a mother raccoon and her babies should be funny — especially after the tension of the real cases. The image of Thomas McMullin, ghost hunter, defeated by trash pandas, is one of the lighter moments in an otherwise dark campaign.
+
+It's also an opportunity for the players to learn something important: Thomas is brilliant, dedicated, and perceptive, but he is not infallible. He can be wrong. And if he can be wrong about this, they need to think critically about everything else he's told them.
 
 ---

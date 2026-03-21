@@ -2,17 +2,6 @@
 
 # The Case of the Mirror Haunt
 
-```
-Weave the following into this case somehow:
-
-This creature is actually a spawn of The Eye, a fear that doesn't even truly have that big of a presence in Roselake, but it has a heavy presence amongst staffmembers of the nearby Intrusion Institute, as they are used to the world of espionage and it's dangers. The creature, seeing the Intrusion Institute's tools, decided against trying to latch onto one of them, and picked one of the most paranoid people in town to latch onto
-
-This is also, ironically, one of the most benign Entities and associated spawn, as just like in the Magnus Archives, the Eye is largely opposed to the existence of many of the other Entities. It's hard to be afraid of what has something else watching over it. It's hard to be afraid of the dark when you can see in it. 
-```
-```
-Flesh out why Edith was chosen by this thing, in this article and elsewhere
-```
-
 ---
 
 # PART ONE — Thomas's File
@@ -25,7 +14,7 @@ Thomas has been hearing rumors about Edith Zelenskyy — an elderly woman who li
 
 Thomas visited her property once and noticed that every mirror-like surface visible from outside — the bathroom window, the side mirror on her truck — had been covered or turned away. He knocked on her door. She told him to leave.
 
-Thomas believes something in her house is terrorizing her, and that she's too stubborn or too scared to ask for help. He doesn't know what it is. He suspects a haunting — something that uses reflective surfaces.
+Thomas believes something unusual is happening with Edith, but he is not sure what. He suspects a haunting — something that uses reflective surfaces — but he's operating almost entirely from external observation. She won't talk to him.
 
 ## What Thomas Has Observed
 
@@ -47,7 +36,17 @@ _The full truth. Thomas does not have access to any of this information._
 
 ## The Mirror Haunt
 
-An entity that inhabits reflective surfaces. It is drawn to isolated individuals and feeds on the fear of being watched — the creeping, intimate violation of never being alone, even in your own home.
+An entity that inhabits reflective surfaces. It is drawn to isolated individuals and feeds on the fear of being watched — the creeping, intimate violation of never being alone, even in your own home. See [[Mirror Haunt (creature)]] for full creature details.
+
+### Origin
+
+The Mirror Haunt is a spawn of **The Eye** — one of the [[The Great Entities|Great Entities]] representing the fear of being watched, of surveillance, of the violation of privacy. The Eye doesn't have a significant presence in Roselake proper, but it has a **heavy presence among staff members of the nearby Intrusion Institute**, the covert paranormal monitoring station hidden at Rose Lake. The Institute's operatives are accustomed to the world of espionage and its dangers — they live and breathe surveillance, counter-surveillance, and the ever-present awareness that someone might be watching. The Eye thrives in that environment.
+
+The Mirror Haunt, spawned from that concentration of Eye-related fear, initially considered latching onto one of the Intrusion Institute's staff. But upon observing the Institute's tools and capabilities — their training, their equipment, their awareness of supernatural threats — the creature decided against it. The Institute's people are too dangerous.
+
+Instead, it chose **Edith Zelenskyy** — one of the most paranoid people in town who was *not* equipped to fight back.
+
+Ironically, the Mirror Haunt and entities associated with The Eye are among the **most benign** of the Entities and their spawn. The Eye is largely opposed to the existence of many of the other Entities. It is hard to be afraid of what has something else watching over it. It is hard to be afraid of the dark when you can see in it. The Eye's watchfulness, while terrifying to its individual targets, functions as a kind of inadvertent check on other fears. A fully realized Avatar of The Eye in Roselake could actually suppress many of the town's other supernatural threats — at the cost of an all-seeing, inescapable presence that would destroy any sense of privacy or autonomy.
 
 ### Appearance
 
@@ -67,19 +66,19 @@ The Mirror Haunt follows a slow escalation pattern:
 
 **Stage 3 — Manifestation.** The Mirror Haunt becomes fully visible in reflective surfaces. It stands behind or beside the victim in the reflection, mouth open, eye staring. It does not appear in the physical space — only in the reflection. The victim can see it watching them, but cannot interact with it or escape its gaze except by removing or covering all reflective surfaces.
 
-**Stage 4 — (Unknown/TBD).** What happens if the escalation is allowed to continue unchecked has not been established.
+**Stage 4 — Emergence.** Nobody knows this is possible, as it has never happened before. If the escalation is allowed to continue unchecked for another several weeks beyond Stage 3, the Mirror Haunt will **step out of a reflection and into the physical world**, following the target around and never giving them a moment of peace. Once in the physical world, it will make every effort to keep itself concealed from everyone except the person it has dedicated itself to watching. The entire reason for the slow ramp-up is that the creature knows it is fragile — it is very much not immortal, and can be killed easily. Its survival depends on ensuring its target is too broken to fight back before it exposes itself.
 
-```
-Nobody should know this, as this has never happened before, but detail in here that if the escalation is allowed to continue unchecked for another several weeks, the Mirror Haunt will step out of a reflection and into the physical world, following the target around and never giving her a moment of peace. If, at this stage, the target of the haunting fully gives into their fear (the equivalent of sanity hitting Zero in Call of Cthulhu's rules), the manifested Mirror Haunt & the target will merge into a singular powerful Disciple of the Eye, with the capability to someday become an Avatar of the Eye. 
-
-Also, create a [[Mirror Haunt (creature)]] article, and explain that once it's out, it will make every effort to keep itself concealed from everyone except the person it has dedicated itself to watching. The entire reason for the slow ramp up is that it knows it's is a fragile creature; it is very much not immortal, and can be killed easily
-```
+If, at Stage 4, the target of the haunting **fully gives in to their fear** — the equivalent of sanity hitting zero in Call of Cthulhu's rules — the manifested Mirror Haunt and the target will **merge** into a singular, powerful **Disciple of The Eye**, with the capability to someday become an Avatar of The Eye.
 
 ## Edith Zelenskyy
 
 **Age:** Late 60s to early 70s.
 
 **Background:** Granddaughter of Russian immigrants. Lives alone in a small house on the edge of town. Spent time on the streets in Omaha earlier in her life — she was homeless for a period and it left deep scars. She fears, above almost anything, being forced to leave her home again. The streets taught her that losing your home means losing everything.
+
+**Why She Was Chosen:** Edith was chosen by the Mirror Haunt because she is one of the most paranoid people in Roselake — not because of any supernatural awareness, but because of her life experience. Her years of homelessness in Omaha left her hypervigilant. She is acutely aware of being observed, of being judged, of being found wanting. She checks the locks multiple times. She watches the street from behind her curtains. She is the kind of person who always feels like someone is watching her — and the Mirror Haunt feeds on exactly that baseline fear.
+
+She was also isolated, living alone on the edge of town, unlikely to seek help or confide in others. She was the perfect target: afraid, alone, and stubborn enough to try to fight it on her own rather than risk anyone taking her home away.
 
 **Current situation:** Edith is at Stage 3 of the Mirror Haunt's escalation. She can see the entity clearly in any reflective surface. She has covered or destroyed every mirror in her house. She has painted over the bathroom window. She avoids water when it's still enough to reflect.
 
@@ -91,24 +90,8 @@ She shouts at the entity at night. She refuses to be passive about it. But she's
 
 ## Open Threads
 
-- What is Stage 4 of the Mirror Haunt's escalation? Can it cross from the reflection into the physical world? Does it eventually drive the victim to madness, death, or something else?
-- How is the Mirror Haunt banished or contained? Can mirrors be used against it?
-- Is the Mirror Haunt connected to a specific Fear (the Eye? the Lonely? something else)?
-- What drew it to Edith specifically? Is it her isolation, her fear of being watched, or something about the house itself?
-- Edith's history of homelessness in Omaha — is there more to that story? Did she encounter something there?
-
-- Starts with feeling of being watched when near mirror
-- Then Escalates to catching glimpses in the mirror
-- Eventually, the Mirror Haunt will grow 
-  
-  
-  
-  ## Appearance: 
-  a nondescript, extremely skinny, gaunt humanoid shape in a kind of plain bluish offwhite nightgown.. It's head is a single giant round orb., with lips spanning almost the entirety of the front of the head, and no other features. When it opens it's mouth, it reveals teeth that frame a single giant eyeball that occupies the entirety of the interior of the head. You can see the veins of the eye shift through the skin; it has no skull. Only when the "mouth" is open does the feeling of being watched begin.
-  
-  ## Behavior:
-  
-  
-  Currently watching [[Edith Zelenskyy]]
-  
-  
+- Edith is currently at Stage 3. If nothing changes in the next several weeks, the Mirror Haunt will reach Stage 4 — stepping into the physical world. The players have a limited window to intervene.
+- How is the Mirror Haunt banished or contained? Can mirrors be used against it? See [[Mirror Haunt (creature)]] for vulnerabilities.
+- The Mirror Haunt's connection to The Eye and the Intrusion Institute creates a potential thread — the Institute may be aware of Eye-related activity in the area, even if they don't know about Edith specifically.
+- Edith's history of homelessness in Omaha — is there more to that story? Did she encounter something there, or was it purely mundane hardship that left her vulnerable?
+- A fully realized Disciple or Avatar of The Eye in Roselake could suppress other Entities — but at the cost of total, inescapable surveillance. This creates a potential moral dilemma for players.

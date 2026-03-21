@@ -27,6 +27,8 @@ Thomas finds it profoundly alarming that no one remembers these people. Not "the
 
 He's leaning toward government conspiracy theories — experimental amnesia programs, chemical exposure, something federal — but can't make it fit neatly. Bill Donahue's death is the anchor point that connects the timeline, and the fact that the Sheriff showed no interest in pursuing it further fuels Thomas's paranoia.
 
+Thomas had a single encounter with [[Jonathan Oesch]] years ago, before the disappearances began. Jonathan came into the [[Roselake Library]] to check out a book on ancient occult practices. Thomas is a quiet sort, accustomed to odd requests and odd patrons — but Jonathan's silence and the way he stared daggers straight at Thomas almost the entire time was deeply unnerving. Jonathan didn't browse. He didn't read. He just stood there holding the book and staring. Thomas checked it out for him without comment. Jonathan left without a word. Thomas has steered clear of him ever since and cannot articulate exactly why Jonathan unsettles him, but the feeling has never faded.
+
 ---
 
 # PART TWO — What's Actually Happening
@@ -35,20 +37,20 @@ _The full truth. Thomas does not have access to any of this information._
 
 ## Jonathan Oesch
 
-Jonathan Oesch has always felt rejected by his community. That rejection curdled into deep resentment. He began to see himself as a lone raider — even as he feared isolation and being forgotten, he wanted to _weaponize_ that fear against the rest of Roselake. He wanted them to feel everything he had felt.
+[[Jonathan Oesch]] has always felt rejected by his community. That rejection curdled into deep resentment. He began to see himself as a lone raider — even as he feared isolation and being forgotten, he wanted to _weaponize_ that fear against the rest of Roselake. He wanted them to feel everything he had felt.
 
-Jonathan is not a killer (with one exception). He is something far worse. He is a major driver of **the Fear of the Forgotten** — the Lonely's cousin, the thing that erases you from the minds of everyone who ever knew you.
+Jonathan is not a killer (with one exception). He is something far worse. He is a major driver of **the Fear of [[The Forgotten]]** — the entity that erases you from the minds of everyone who ever knew you.
 
 ## The Catalyst
 
-Jonathan uses a ritual spell called **The Catalyst**, knowledge of which was granted to him through insane inspiration channeled from **The Forgotten.** The spell works as follows:
+Jonathan uses a ritual spell called **[[The Catalyst]]**, knowledge of which was granted to him through insane inspiration channeled from **The Forgotten.** The spell works as follows:
 
 **Requirements:**
 
 - The brain of an animal at least as intelligent as a pig. The more powerful the brain (pig = weak, human = strong), the more thoroughly the spell can overcome strong social bonds.
 - A likeness of the target — a photograph, carving, drawing, or any representational image.
 - A circle drawn around the likeness, inscribed with epithets calling upon The Forgotten. Examples: _"It That Erases All," "The Annihilator," "Think No More Of,"_ etc. Jonathan writes these in Latin — not because that's a requirement, but because it feels right to him.
-- The completed ritual must then be left somewhere that even the caster forgets about it. (Jonathan sets reminders for himself.)
+- The completed ritual must then be left somewhere that even the caster forgets about it. Jonathan conducts his rituals in the underground storeroom beneath [[The Collapsed Farmhouse]] and maintains awareness of it only through a note on the reminder clock by his bedside table, which prompts him to check on it approximately once a week.
 
 **Effects:**
 
@@ -56,17 +58,15 @@ Once the Catalyst takes effect, it erases the target from the memories of everyo
 
 The strength of the brain determines how deeply the spell can cut through strong bonds. A pig brain can erase casual acquaintances and coworkers. A human brain can sever family ties and deep friendships.
 
-```
-Add a page for [[The Catalyst]] with the full details
-```
-
 ## What Jonathan Does After
 
-Once the spell takes effect and no one remembers the target, Jonathan kidnaps them and locks them in his basement. He keeps them alive. He visits them regularly and reminds them, over and over, that no one is thinking about them. No one is looking for them. No one remembers they exist.
+Once the spell takes effect and no one remembers the target, Jonathan kidnaps them and locks them in his basement. His house is a small but unremarkable home built in the 1950s in the Roselake town center. The basement is accessible, but the door is barred and locked from the outside with an excessive amount of security hardware — heavy-duty deadbolts, a steel crossbar, and padlocks. Jonathan is confident nobody is going to come looking for people in his home, so he has made no effort to conceal the strange amount of security on his basement door.
+
+He keeps them alive. He visits them regularly and reminds them, over and over, that no one is thinking about them. No one is looking for them. No one remembers they exist.
 
 ## The Victims (In Order)
 
-**1. Victor Mann** — Janitor at Roselake School. Jonathan's first victim. Victor lived alone and was active in the community but had no close personal relationships — making him an ideal target. The Catalyst was performed using an animal brain (likely a pig). The spell thoroughly erased Victor from the town's collective memory. Victor is currently alive in Jonathan's basement.
+**1. Victor Mann** — Janitor at Roselake School. Jonathan's first victim. Victor lived alone and was active in the community but had no close personal relationships — making him an ideal target. The Catalyst was performed using a pig brain. A pig went missing from one of the farms on the outskirts of Roselake around this time — the farmer reported it, but it was written off as a coyote kill or a fence failure. No carcass was ever found. Players who dig deeply enough into local records — conversations at the diner, old complaints filed with the Sheriff, offhand mentions by farmers — could potentially trace the missing pig to the same time period as Victor's disappearance, and from there to Jonathan Oesch. It is a thin thread, but it is there. The spell thoroughly erased Victor from the town's collective memory. Victor is currently alive in Jonathan's basement.
 
 **2. Bill Donahue** — A truck driver who regularly passed through Roselake. The least social of the regular drivers. Bill is Jonathan's only murder victim — he was killed so Jonathan could harvest his brain for use in a more powerful casting of the Catalyst. Bill's body was found on the outskirts of town, but the Sheriff's investigation went nowhere, in part because no one felt strongly connected to Bill and the spell's ambient influence may have further dulled interest.
 
@@ -82,63 +82,8 @@ The only traces left are in print — old newspaper articles, church bulletins, 
 
 ## Open Threads
 
-- What animal brain was used for the Catalyst on Victor Mann? (Pig is implied but not confirmed.)
-```
-It was a pig. Include a thread the players could follow somewhere, if they really dig for it, about a missing pig linked to Jonathan Oesch
-```
-- Has Jonathan set up his ritual spaces somewhere discoverable? The spell requires leaving the completed circle somewhere forgettable — where are these hidden?
-```
-There should be an abandoned underground storeroom in [[The Collapsed Farmhouse]] - you'll have to create & flesh out a page for this long-abandoned farmhouse - where Jonathan conducts his rituals. The only one who knows it exists is him, and only when the note on the reminder clock by his bedside table reminds him it's there about once a week
-```
-
-- Jonathan still lives in the same house as Sally did. What does the house look like? Is the basement accessible?
-```
-The house is a small but unremarkable home built in the 50s in the town center. The basement is acessible, but barred and locked from the outside. Jonathan is confident nobody is going to come looking for people in his home, so he has made no effort to conceal the strange ammount of security on his basement door. 
-```
-
-- Thomas hasn't confronted Jonathan yet. What's their relationship, if any?
-```
-Thomas had a single exchange with him when Jonathan came into the [[Roselake Library]] to get a book on ancient occult practices, years before the disappearances & murder. Thomas is a quiet sort, but Johnathan's silence and the way he stared daggers straight at Thomas almost the entire time was unnerving to Thomas. He has steered clear of him ever since. 
-```
-
-
-```
-The Following is my freewrite that led to this; move this to a separate file called [[The Missing Missing freewrite]]
-```
-
-
-
-
-
-- Name: Jonathan Oesch
-- Age: 25
-- Descritption: Shaggy blonde-brown hair, extremely muscular, softspoken. Heavily influenced mentally by [[The Isolation]] & [[The Forgotten]], who have teamed up in him
-- Possesses the ability to cast a single ritual spell, granted by [[The Forgotten]]; [[The Catalyst]] 
-- The catalyst requires: the brain of a creature at least as smart as a pig, 
-  
-  
-  Jonathan Oesch felt rejected by his community, and he always resented them for it. He began to see himself as a glorious lone raider; even as he feared being isolated and forgotten, his resentment drew him to want to weaponise that fear against the rest of the town of Roselake. he jjjjjjjjj jjjjjjjjjjjjjjjjjj wanted them to feel everything he has felt. Jonathan is a major driver of the fear of the forgotten. 
-
-He is not a killer, but something far worse. He uses a spell called The Catalyst (knowledge of which granted to him via insane inspiration via The Forgotten) to wipe the memories of the connections of the ones who knew the victims. rules about the catalyst:
-
-it requires the brain of an animal at least as smart as a pig
-jjjjj it must take place with an image (photograph, carving, etc) a likeness of some kind of the target of the spell
-Then you draw a circle around it, write some epithets calling upon The Forgotten (It that Erases All That Is Love, Great Non-socializer, etc)
-Jonathan writes these in latin; not because that's a requirement of the spell, but because it feels right
-Then you have to leave it where even you forget it. You can set a reminder for yourself
-
-
-ONce it takes effect, it erases the memories of the acquaintances of the person in question. The more powerful the brain (pig = weak, human = strong) the more social bonds the forgetfulness can overcome. 
-
-Associates/friends/family of the target can no longer remember who the target is, and all memories have the target "photoshop painted" out
-
-Johnathan then kidnaps them and locks them in his basement. He keeps them alive, and constantly reminds them how no one is thinking of them. 
-
-So far, he has had 3 victims; Sally Oesch (his sister, latest victim, using Bill's brain), Bill Donahue (one of the few truck drivers who passes through Roselake, is the least social of said regular truck drivers. was unfortunatley his ownly murder victim.) and Victor Mann (a janitor at Roselake school)
-sdfsdfd
-
-
-THAT'S THE TRUTH OF THE MATTER, BUT WHAT THOMAS MCMULLIN HAS DISCOVERED:
-
-Basically, only that the disappearances of Sally (also a loner, lived with Jonathan) & Victor (also lived alone) might be connected with Bill Donahue (their disappearances happened shortly after ) and it strikes him as extremely alarming that no one seems to remember these people, and that the Sheriff never investigated the murder. No one in town knows anything about these people. The only reason Thomas McMullin does is because he found newspaper articles about them & their activities (Sally & Victor were fairly active members of the community, though they didn't have any close relationships - which is why the spell could so thoroughly erase their relationships' memories of them.  and there's not much to report in the local newspaper, so they of course showed up)) Bill's body was found right around when records stopped being written about Sally & Victor, and bizarre things about them started happening (like) (house for sale, etc) sThomas's wild imagination is coming up with mainly government conspiracy theory(s) as potential reasons for their disappearances. 
-
+- The missing pig from the farm could be traced back to Jonathan if players dig deep enough.
+- Jonathan's ritual site at [[The Collapsed Farmhouse]] contains physical evidence of the Catalyst rituals.
+- Jonathan's house in the town center has a conspicuously over-secured basement door.
+- Thomas's unease around Jonathan — rooted in their single encounter at the library — could be a starting point for investigation.
+- The Catalyst's effects on the community may be contributing to [[The Forgotten]]'s growing influence in Roselake, connecting this case to [[The Case of the Blurred Woman]].

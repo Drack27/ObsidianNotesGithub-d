@@ -1,9 +1,5 @@
 [[Blurred Woman Handouts]]
 
-```
-BLURRED WOMAN CAN ONLY MANIFEST WHERE FORGETTING FEAR BECOMES INTENSE; TIE IN WITH [[The Antimemetic Killer]]. She's in a tug of war with the Forgotten; she wants to manifest to be remembered, but only can do so through the forgotten. If she is remembered, she will de manifest 
-```
-
 ---
 
 # PART ONE — Thomas's File
@@ -22,17 +18,13 @@ Thomas believes this is a ghost — a spirit haunting the town, moving between h
 
 Thomas has collected the following accounts:
 
-**The Pruitt Family (Birch Street)** — Janet Pruitt woke up at 3 AM to find the figure standing in the hallway outside the children's bedrooms. She screamed. Her husband Ray came running. By the time he arrived, the figure was gone. Janet described the dress as "old, like something from a history book." She could not describe the face — said it was "like trying to read through wax paper." The Pruitts have not seen the figure again, but Janet sleeps with the hallway light on now.
+**The Pruitt Family** — Janet Pruitt woke up at 3 AM to find the figure standing in the hallway outside the children's bedrooms. She screamed. Her husband Ray came running. By the time he arrived, the figure was gone. Janet described the dress as "old, like something from a history book." She could not describe the face — said it was "like trying to read through wax paper." The Pruitts have not seen the figure again, but Janet sleeps with the hallway light on now.
 
-**Old Gus Brennan (Mill Road)** — Gus, a widower in his 70s, told Thomas he's seen the woman three times — once in his kitchen, once standing at the foot of his bed, once on his back porch looking in through the screen door. He says she doesn't scare him as much as she makes him sad. "She looks like she wants something," he told Thomas. "But I can't tell what, because I can't see her damn face." Gus is the only witness who has seen her multiple times.
+**Old [[Gus Brennan]]** — Gus, a widower in his 70s, told Thomas he's seen the woman three times — once in his kitchen, once standing at the foot of his bed, once on his back porch looking in through the screen door. He says she doesn't scare him as much as she makes him sad. "She looks like she wants something," he told Thomas. "But I can't tell what, because I can't see her damn face." Gus is the only witness who has seen her multiple times. He carries a deep, unspoken fear of being forgotten — his wife is dead, he has no children, and he is quietly certain that when he dies, no one will notice for days. (See [[Gus Brennan]] for more.)
 
-**Dolores Fenton (Church Street)** — Dolores came home from a church potluck to find the woman standing in her living room, facing the mantelpiece where family photographs are displayed. The woman turned toward Dolores. Dolores saw the blurred face and fainted. When she woke up, the figure was gone and nothing was disturbed. Dolores has since moved the family photos into a drawer.
+**Dolores Fenton** — Dolores came home from a church potluck to find the woman standing in her living room, facing the mantelpiece where family photographs are displayed. The woman turned toward Dolores. Dolores saw the blurred face and fainted. When she woke up, the figure was gone and nothing was disturbed. Dolores has since moved the family photos into a drawer.
 
-**The Wakefield House (Oak Avenue, vacant)** — Thomas himself saw the figure through the front window of the vacant Wakefield house while walking past at dusk. She was standing inside, perfectly still, facing the window. He took a photograph but it came out too dark to show anything. He went back the next day and found the front door locked, dust undisturbed, and no sign anyone had been inside.
-
-```
-Eliminate the street names for now
-```
+**The Wakefield House (vacant)** — Thomas himself saw the figure through the front window of the vacant Wakefield house while walking past at dusk. She was standing inside, perfectly still, facing the window. He took a photograph but it came out too dark to show anything. He went back the next day and found the front door locked, dust undisturbed, and no sign anyone had been inside.
 
 ## What Thomas Doesn't Know
 
@@ -46,71 +38,86 @@ _The full truth. Thomas does not have access to any of this information._
 
 ## Who She Was
 
-The Blurred Woman was a real person — a woman who lived in the Roselake area in the mid-to-late 1800s. She was a social outcast during her lifetime: shunned, excluded, and ultimately forgotten. _(Her specific name, circumstances, and cause of death are left open for development — she could have been accused of witchcraft, been an immigrant who was rejected by the community, been disfigured, been mentally ill, or simply been a woman who didn't fit.)_
+The Blurred Woman was a real person — a woman named **Margaret Anne Hollowell** who lived in the Roselake area from approximately 1847 to 1889. She was the daughter of one of the town's earliest farming families, but she never fit in. She was reclusive, unmarried, and considered "strange" by her neighbors — she kept to herself, spoke little, and was rumored to practice folk healing with herbs and poultices.
 
-```
-We need details about specifics; her name, dates, relations, etc, and potential clue paths for players to find that information
-```
+Margaret Anne was not a witch. She was not dangerous. She was simply a woman who did not conform to what was expected of her, in a time and place that had little tolerance for nonconformity. Over the years, the community's indifference toward her hardened into active exclusion. She was not invited to church socials. Her name was omitted from community records. Neighbors stopped acknowledging her. By the end of her life, Margaret Anne Hollowell had been **deliberately forgotten** — not by accident, not by the natural passage of time, but by a conscious, collective choice of the people around her to pretend she did not exist.
 
-She died alone, unremembered, and unmourned. Whatever her name was, no one wrote it down — or if they did, it was lost.
+She died alone in her house in the winter of 1889. Her body was not found for weeks. She was buried in an unmarked plot in [[The Old Cemetary|the old section of the Roselake cemetery]]. No headstone was placed. No record of her burial survives in the church registry. The only traces of her existence are a handful of entries in county land deeds and a single mention in an early census record.
+
+**Dates:** Born approximately 1847. Died winter 1889.
+**Relations:** Daughter of Ezekiel and Martha Hollowell (early Roselake farming family, both deceased by 1880). No siblings, no spouse, no children.
+**Clue paths for players:**
+- County land deeds at [[Castle Roselake]] list the Hollowell property and its transfer after Margaret Anne's death.
+- An early census record at the [[Roselake Library]] includes her name in the Hollowell household.
+- The old cemetery's burial records (fragmentary) may reference an unmarked plot in the correct location and era.
+- The First Methodist Church's oldest registry (if it still exists) may contain a gap — a burial that should have been recorded but wasn't.
+- Elderly residents with long family memories (if any survive) might recall stories about "the Hollowell woman" passed down through generations, though these would be vague at best.
 
 ## What She Wants
 
 The Blurred Woman is a ghost driven by a single, desperate need: **to be remembered.** She haunts houses not to frighten people but to be _seen_ — to stand in someone's home and have them look at her and acknowledge that she exists, that she was here, that she mattered.
 
-```
-Weave the mechanics of the entity known as The Forgotten into this somehow; The Blurred Woman should only be able to manifest in places & times where the fear of being forgotten is strong (there's plenty of it in Roselake as background radiation, but it should require a little more than that for her to actually manifest. If somebody connects their fear of being forgotten to the woman's face, she could begin to manifest more consistently to that person, and develop a consistent haunting. This has yet to happen.
-```
+The Blurred Woman can only manifest in places and times where the **fear of being forgotten is strong.** There is plenty of athazagoraphobia in Roselake as background radiation — it is an isolated town full of aging people who feel left behind by the world — but it requires a **higher-than-ambient concentration** for her to actually appear. A lonely widow staring at photos of her dead husband at 2 AM. A widower lying awake wondering if anyone will notice when he's gone. A vacant house where no one has lived or visited in years. These are the weak spots.
 
-The tragedy is that she can't achieve this. Her face — the thing that would make her a person, an individual, someone recognizable — is permanently blurred. She is a presence without an identity. People see her and feel dread, not recognition. She frightens everyone she's trying to reach.
+If someone were to **connect their own fear of being forgotten to the Blurred Woman's face** — if they looked at her and thought *"she's me, she's what I'm afraid of becoming"* — she could begin to manifest consistently to that person, developing into a **sustained haunting.** This has not yet happened, but [[Gus Brennan]] is the most likely candidate.
 
-She is drawn to people who are somewhat isolated or lonely themselves, perhaps because she recognizes something familiar in them, or perhaps because they are more likely to be home alone and available to see her. She is particularly drawn to **photographs and images of other people** — evidence that someone was remembered, was loved enough to have their likeness preserved. This is why Dolores found her staring at the mantelpiece photos.
+She is caught in a tug-of-war with [[The Forgotten]]. She wants to manifest in order to be remembered, but she can only manifest *through* The Forgotten — through the fear of being forgotten. If she is actually remembered — if someone learns her name, recognizes her face, knows who she was — she will de-manifest. The Forgotten's power over her will break, and she will be able to rest. The tragedy is that the very mechanism that allows her to appear is the same force that keeps her trapped.
 
 ## The Blurring
 
-The blurring of her face is not a choice or a disguise. It is the manifestation of her erasure — the fact that no one alive remembers what she looked like. She has no face to show because no one preserved it. She is literally unfocusable. Even if someone wanted to help her, they couldn't describe her or identify her.
+The blurring of her face is not a choice or a disguise. It is the manifestation of **The Forgotten's supernatural touch** — the direct influence of the entity on her ghostly form. Her face was erased not simply because no one remembers what she looked like, but because her community **deliberately forgot her.** There was malice in it. The people of 1800s Roselake didn't simply neglect Margaret Anne Hollowell — they actively chose to exclude her, to omit her, to pretend she was not there. That deliberate forgetting opened a channel for The Forgotten's influence, and The Forgotten's touch is what transformed a lonely ghost into a blurred, unfocusable specter.
 
-```
-Specify that this blurring is caused by The Forgotten's supernatural touch. Perhaps there was malice involved on the part of some of the people who forgot her in the past? Deliberate forgetting? There should be some reason that this person became a blurred ghost and plenty of other people who are afraid of being forgotten haven't had that happen to them. It should either be The Forgotten's direct influence, or a malicious spell linked to The Forgotten that was cast by her contemporary people in the past.
-
-Also, we need to create a page for [[The Catalyst]]
-```
+This is why Margaret Anne specifically became a blurred ghost when plenty of other people who fear being forgotten have not. It was not random. It was not inevitable. It was the combination of deliberate communal malice and The Forgotten's supernatural touch that created this specific manifestation. She is, in a sense, a wound that The Forgotten found and infected.
 
 ## Is She Dangerous?
 
-Not intentionally. She has never harmed anyone. But her presence is deeply unsettling, and prolonged exposure to the Blurred Woman may have psychological effects — a creeping sense of loneliness, a fear of being forgotten, an obsessive need to be noticed. These effects are ambient and subtle, not aggressive.
-
-```
-Note that some of this is normal psychological responses, but some of it is supernatural bleed from her tie to The Forgotten. She is an unwilling host of it. 
-```
+Not intentionally. She has never harmed anyone. But her presence is deeply unsettling, and prolonged exposure to the Blurred Woman may have psychological effects — a creeping sense of loneliness, a fear of being forgotten, an obsessive need to be noticed. Some of these effects are **normal psychological responses** to encountering a ghost — anyone would feel unsettled and existentially shaken. But some of them are **supernatural bleed from her tie to The Forgotten.** She is an unwilling host of the entity, and proximity to her amplifies the fears The Forgotten feeds on. The line between natural unease and supernatural influence is impossible to draw from the outside.
 
 The real danger is indirect: a scared homeowner with a shotgun, a heart attack in an elderly witness, or the slow erosion of someone's mental state if she visits them repeatedly (as with Gus Brennan).
 
 ---
 
+## How to Lay Her to Rest
+
+To lay the Blurred Woman to rest, she must first be **manifested** — which requires a high, localized concentration of athazagoraphobia. This could be achieved by gathering people who deeply fear being forgotten in a single location, or by deliberately invoking that fear in a controlled setting. She will appear where the fear is strongest.
+
+Once she has manifested, there are two options:
+
+**Option A — Remember Her.**
+Tell her **her name** (Margaret Anne Hollowell), **when she was born** (approximately 1847), **when she died** (winter 1889), and **one personal fact about her** — something specific to her as a person, not just demographic information. Her favorite food. The herbs she used for her folk healing. The way she organized her kitchen. A girlhood crush. Something that proves she was known, she was seen, she was a real person with a real life.
+
+This information will need to be researched and discovered by the players through investigation of old records, cemetery plots, land deeds, and whatever fragments of Margaret Anne's life can be reconstructed. The personal fact is the hardest piece — it requires finding something that no official record would preserve, something that would only survive in personal letters, diaries, or oral tradition.
+
+If all four pieces of information are spoken to her while she is manifested, the blurring will resolve. Her face will become clear. She will be seen — truly seen — for the first time in over a century. And then she will be at peace.
+
+**Option B — (TBD)**
+A second option for resolving the haunting exists but has not yet been developed.
+
+---
+
+## Why She Is Escalating Now
+
+The general rise in contrast between **the world's connectedness** and **Roselake's disconnectedness** is driving a number of related fears: [[The Forgotten|The Isolation, The Unprotected, and The Forgotten]]. The internet, cable news, and the broader culture's accelerating interconnectedness have made Roselake's isolation feel sharper and more absolute than ever. The town was always remote; now it feels left behind.
+
+This contrast has reached a **tipping point** at which individuals feeling strong fear of being forgotten in the moment create supernatural "weak spots" — localized concentrations of athazagoraphobia intense enough for a pre-existing pseudo-avatar of The Forgotten, caught between the supernatural and physical realms, to manifest. The Blurred Woman has always been in Roselake. She has simply never before had enough weak spots to appear this frequently.
+
+The use of [[The Catalyst]] by [[Jonathan Oesch]] has also intensified The Forgotten's presence, creating additional weak spots and making the Blurred Woman's manifestations more common. The two cases — [[The Antimemetic Killer]] and the Blurred Woman — are connected through The Forgotten.
+
+---
+
+## The Forgotten and the Risk of Escalation
+
+The Blurred Woman is currently an **unwilling captive** of [[The Forgotten]], existing in a sort of limbo state — not fully a ghost, not fully an avatar, not fully at rest. She does not want to serve The Forgotten. She wants to be remembered, which is the opposite of what The Forgotten represents.
+
+However, if she is **antagonized sufficiently** — if players or NPCs confront her aggressively, try to banish her by force, or make her situation worse — she could choose to turn from an unwilling captive to a **fully willing Avatar of The Forgotten.** Unlike [[Jonathan Oesch]], who is barred from becoming a full Avatar because people in his community still know about him, the Blurred Woman has no such anchor. No one remembers her. No one knows her name. Her unwillingness to play along is **all that is keeping her** from becoming The Forgotten's vessel and full manifestation on Earth.
+
+If this happens, Roselake has much bigger problems than a sad ghost in old-fashioned clothing.
+
+---
+
 ## Open Threads
 
-- Who was the Blurred Woman in life? What was her name, and is there any way to recover it? Old town records, cemetery plots, land deeds from the 1800s?
-```
-Create a page called [[The Old Cemetary]] in the locations section of this wiki, and flesh out [[Castle Roselake]] (or whatever I called it), flesh them out with some general info, and add some specific info and links to this case
-```
-
-- Can she be helped? If someone could identify her — find her name, her grave, some proof she existed — would that lay her to rest?
-```
-To lay her to rest, she must first be manifested with a high localized concentration of athazagoraphobia. Then you have 2 options: A.) Tell her her name, when she was born, when she died, and one personal fact about her (like her favorite food, her tendency to organize kitchenware a certain way, a girlhood crush, etc.). Detail this process.
-```
-
-- Why is she escalating now? Has she always been in Roselake, or has something recent stirred her up?
-```
-The general rise in contrast between the world's connectedness vs Roselake's disconnectedness is driving a number of related fears; The Isolation, The Unprotected, and The Forgotten. The contrast has reached a tipping point at which individuals feeling strong fear of being forgotten in the moment creates a supernatural "weak spot" for a pre-existing pseudo-avatar of The Forgotten, a person caught between supernatural and physical realms, to manifest. 
-```
-
-- Is she connected to a specific Fear? (The Lonely and The Forgotten are both candidates.)
-```
-The Forgotten; create a [[The Forgotten]] page, by the way. Also note & write in somewhere that, if antagonized sufficiently, the Blurred Woman could easily choose to turn from an unwilling captive of The Forgotten, in a sort of limbo-state, to a fully willing Avatar of The Forgotten. Unlike Jonathan Oesch (create a page for him, by the way), who is barred from such by those who still know about him in his community, The Blurred Woman does not have this; her unwillingness to play along is all that is keeping her from becoming The Forgotten's vessel & manifestation on Erth. If this happens, Roselake has much bigger problems. 
-```
-
-- Gus Brennan has seen her three times. Why him specifically? Is he in danger, or is he the closest thing she has to a connection?
-```
-He has has a deep-down fear of being forgotten, for some reason or another. Flesh out on his own [[Gus Brennan]] page.
-```
+- Who was the Blurred Woman in life? Players need to discover her identity through old records at [[Castle Roselake]], the [[Roselake Library]], and [[The Old Cemetary]].
+- Can she be helped? Laying her to rest requires knowing her name, dates, and a personal fact.
+- Gus Brennan has seen her three times. His deep fear of being forgotten makes him the most likely candidate for a sustained haunting. See [[Gus Brennan]].
+- The connection between this case and [[The Antimemetic Killer]] through [[The Forgotten]] is a major cross-case thread.
