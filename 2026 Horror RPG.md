@@ -16,7 +16,6 @@
 - A RED HERRING; caused by bad pipes. [[The Weeping House]]
 - A second RED HERRING haunting; caused by a raccoon in the walls. [[The Scratching]]
 
-(if these go, uprising might trigger)
 # Sessions
 [[Session 1]]
 
