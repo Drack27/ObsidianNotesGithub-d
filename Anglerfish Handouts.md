@@ -89,14 +89,12 @@ _Read or relay the following descriptions to the players as they examine each ph
 **Index card (handwritten, blue ink, with a question mark circled several times in the margin):**
 
 > "WINFRED" — Dog — belongs to the Hubbard family, Maple St.
-> 
-> I know how this sounds.
-> 
+> > 
 > But the Hubbards say he changed overnight. Used to be energetic, playful, dumb in a sweet way. Now he barely moves. Stiff. Moves like his joints are made of wood. Stares at nothing.
 > 
 > If they can swap people, why not animals?
 > 
-> Status: POSSIBLY SWAPPED. (I know.)
+> Status: POSSIBLY SWAPPED. 
 
 ---
 

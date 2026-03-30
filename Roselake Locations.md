@@ -56,6 +56,9 @@
 > [[Roselake Fire Station|View Roselake Fire Station's full details here]]
 ## Implied Locations
 
+Bill fire chief
+
+
 > [!info]- The Farms and Homes
 > The sprawling residential and agricultural properties that make up the vast majority of Roselake's physical footprint.
 > [[The Farms and Homes|View The Farms and Homes's full details here]]
