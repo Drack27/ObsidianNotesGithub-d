@@ -32,6 +32,7 @@
 | ~Feb–Mar 1981 | Anglerfish replaces Wendy Simons, Zach & Toula Carmody | Anglerfish |
 | March 14, 1981 | Thomas McMullin killed by the Anglerfish on his way to the Old Radio Tower | Anglerfish |
 | March 14, 1981 (evening) | **SESSION 1** — Matthew Davis attends "Roselake Ghost Hunters Club" at Old Radio Tower; finds Thomas's case files; attacked by Anglerfish (using Thomas's skin as lure) on the way down; barely survives; patched up by couple and fire department | Anglerfish / All |
+| March 15, 1981 (Early morning) | **SESSION 2** — Firefighters go up to check for creatures by Mount Roselake - they don't find anything | Anglerfish / All |
 | March 15, 1981 (morning–afternoon) | **SESSION 2** — Agatha Graves arrives at Mount Roselake; finds flattened grass, dried blood, and a large unidentified tooth (Anglerfish evidence) at the hill's base; explores the Old Radio Tower basement and reviews all of Thomas's case files and corkboard; visits Roselake Library but cannot identify the tooth | Anglerfish / All |
 | March 16, 1981 (morning–late evening) | **SESSION 3** — Matthew Davis and Agatha Graves team up; tooth confirmed to match Matthew's wounds; machete acquired at Joe's Superstore (Wendy Simons's replacement behavior observed); Fire Chief Bill recruited and accompanies daytime investigation of attack site; Anglerfish tracks discovered; nighttime stakeout at Mount Roselake yields nothing | Anglerfish / All |
 | March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files await discovery | All |
