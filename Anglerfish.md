@@ -15,6 +15,16 @@ The creature's body is roughly the size of a large bear, but its posture is low 
 
 ---
 
+## Physical Evidence
+
+The only confirmed physical traces of the Anglerfish recovered so far:
+
+**Shed tooth:** A large, thin, enameled tooth with dried blood. Found by [[Agatha Graves]] in the patch of flattened grass at the base of [[Mount Roselake]] on March 15, 1981 ([[Session 2]]). Confirmed on March 16 ([[Session 3]]) to match the diameter of [[Matthew Davis]]'s puncture wounds from the attack. Cannot be identified from [[Roselake Library]] resources. Currently in Agatha's possession.
+
+**Tracks:** Discovered at the attack site on March 16, 1981, by Matthew Davis (hard Archaeology / Tracking success, 2 luck spent). Description: a **spherical indentation in the ground, with a fan-shaped arrangement on one half.** The tracks are spaced **unnaturally far apart** — the spacing is inconsistent with any known animal and implies speed that is deeply unsettling. The pattern is circular and chaotic at the attack site, making it difficult to determine the creature's exit direction.
+
+---
+
 ## Hunting Behavior
 
 The Anglerfish hunts in the agricultural fields surrounding Roselake, primarily at night. Its method is simple and devastating:
