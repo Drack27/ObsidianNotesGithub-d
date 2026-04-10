@@ -38,6 +38,10 @@ Players investigating any of the historical cases — particularly [[The Case of
 
 ## Current State
 
-Since Thomas McMullin's disappearance, the library has no librarian. It remains open during school hours — the academy's staff leave it unlocked for students — but no one is managing the collection, processing checkouts, or maintaining the space. Books are accumulating on the return cart. The reading tables are dusty. The back room is locked.
+Since Thomas McMullin's disappearance, a young woman — bookish, slight of frame, with glasses on a chain, apparently in her 20s — has been staffing the circulation desk. She is likely a teacher's aide or school staff member who stepped up informally after Thomas vanished. She knows the regulars by name, directs patrons to the correct sections, and keeps the desk attended during school hours.
 
-The library is not supernaturally active. It is simply a small-town library that has lost its caretaker.
+She is not a trained librarian in Thomas's mold, and the collection shows no signs of active curation. The back room remains locked. But the library is not simply abandoned — someone is present and managing basic functions.
+
+The library's nature section contains books on predators, pack animals, and large mammals, but nothing in the collection can identify the large, unidentified tooth that [[Agatha Graves]] brought in during [[Session 2]]. Whatever shed that tooth is not in any reference work the library holds.
+
+The library is not supernaturally active. It is simply a small-town library that has lost its caretaker and gained a quiet, informal replacement.

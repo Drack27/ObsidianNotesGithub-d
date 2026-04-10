@@ -1,0 +1,42 @@
+# Agatha Graves
+
+**Age:** 60s
+**Residence:** Roselake, Nebraska (lifelong resident)
+**Occupation:** Proprietor of a small shop selling crystals, knickknacks, crosses, rosaries, and similar spiritual goods
+**Status:** Active player character. Introduced [[Session 2]].
+
+---
+
+## Appearance
+
+A woman in her 60s with curly gray hair. She wears a green cloak and drives a hearse — a combination that makes her instantly recognizable, and in a town as small as Roselake, instantly memorable. Children in particular seem fascinated by her.
+
+---
+
+## Background
+
+Agatha Graves is a fixture of Roselake — a local legend, by the account of at least one person who recognized her on sight at the library and called her a celebrity. She has spent her life in and around the town, running her shop from some point far enough in the past that she is well known to the community.
+
+Her shop serves customers looking for spiritual goods of all varieties: crystals, assorted knickknacks, and — more recently, as the appetite has shifted — crosses, rosaries, and Catholic paraphernalia. Roselake has no Catholic church, so Agatha has become an unlikely source of supply for those who feel the need of such things.
+
+---
+
+## Known Connections
+
+**[[The Marsh Couple|Clara Marsh]]** — A customer. Clara has been buying crosses and rosaries from Agatha's shop, apparently in some distress. On a recent visit she came in with bags under her eyes and a wild, twitchy look that Agatha noted but did not press. Clara is connected to [[The Weeping House]] case.
+
+**[[The Mayor|Mayor Lance Winnipeg]]** — Not a personal connection, but Agatha has heard whispers in her shop about the Mayor behaving strangely lately. She has seen Thomas McMullin's corkboard notes on him as a possible Skinwalker target, which aligns with what she had already heard.
+
+---
+
+## Current Situation
+
+On the morning of March 15, 1981, Agatha responded to the [[Thomas McMullin|Ghost Hunters Club]] flyers and made her way to the [[The Old Radio Tower|Old Radio Tower]] on [[Mount Roselake]]. There she reviewed the full contents of Thomas McMullin's case files and corkboard.
+
+She is now in possession of a **large, thin, enameled tooth with dried blood** found in a patch of flattened grass at the base of Mount Roselake — almost certainly shed by the [[Anglerfish]] during its attack on Thomas McMullin. She attempted to identify it at the [[Roselake Library]] and failed. The library has no resources that can match it.
+
+---
+
+## Items
+
+- **Unidentified large tooth** — Large, thin, enameled, with dried blood. Found at the base of [[Mount Roselake]] in a patch of flattened, blood-stained grass. Cannot be identified from [[Roselake Library]] resources.
