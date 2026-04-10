@@ -12,7 +12,7 @@ He encountered the [[Anglerfish]] behind the video rental store, witnessing it w
 ## Current Inventory (As of March 17, 1981)
 During his investigation of the [[The Old Radio Tower|Old Radio Tower]]'s basement, Victor gathered all of Thomas McMullin's accumulated files and evidence. Additionally, he scavenged some strange items from a dumpster behind the quick stop.
 
-*   The Skinwalkers Folder (contains sticky note: "Trust it, don't trust me.")
+*   The Skinwalkers Folder 
 *   The Case of the Peabody House (file)
 *   The Case of the Mirror Haunt (file)
 *   The Case of the Weeping House (file)
