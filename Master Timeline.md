@@ -30,12 +30,23 @@
 | ~Feb 1981 | Marshes shift from new age to Catholic paraphernalia in desperation | Weeping House |
 | ~Feb–Mar 1981 | Edith Zelenskyy reaches Stage 3; covers all reflective surfaces; withdraws | Mirror Haunt |
 | ~Feb–Mar 1981 | Anglerfish replaces Wendy Simons, Zach & Toula Carmody | Anglerfish |
-| March 14, 1981 | Thomas McMullin killed by the Anglerfish on his way to the Old Radio Tower | Anglerfish |
+| March 14, 1981 (early evening) | Thomas McMullin killed and skinned by the Anglerfish in the fields near Mount Roselake. Anglerfish leaves behind a previously unknown discarded skin | Anglerfish |
 | March 14, 1981 (evening) | **SESSION 1** — Matthew Davis attends "Roselake Ghost Hunters Club" at Old Radio Tower; finds Thomas's case files; attacked by Anglerfish (using Thomas's skin as lure) on the way down; barely survives; patched up by couple and fire department | Anglerfish / All |
 | March 15, 1981 (Early morning) | **SESSION 2** — Firefighters go up to check for creatures by Mount Roselake - they don't find anything | Anglerfish / All |
 | March 15, 1981 (morning–afternoon) | **SESSION 2** — Agatha Graves arrives at Mount Roselake; finds flattened grass, dried blood, and a large unidentified tooth (Anglerfish evidence) at the hill's base; explores the Old Radio Tower basement and reviews all of Thomas's case files and corkboard; visits Roselake Library but cannot identify the tooth | Anglerfish / All |
 | March 16, 1981 (morning–late evening) | **SESSION 3** — Matthew Davis and Agatha Graves team up; tooth confirmed to match Matthew's wounds; machete acquired at Joe's Superstore (Wendy Simons's replacement behavior observed); Fire Chief Bill recruited and accompanies daytime investigation of attack site; Anglerfish tracks discovered; nighttime stakeout at Mount Roselake yields nothing | Anglerfish / All |
-| March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files await discovery | All |
+| March 17, 1981 (evening) | **SESSION 4** — Victor Hayes investigates Mount Roselake and the radio tower (takes all case files), observes the Intrusion Institute monitoring station at Rose Lake, and spots the Anglerfish (discarding Thomas's skin) behind Charlie's Quick Stop. Dumpster dives and finds tapes and a mystery machine | Anglerfish / All |
+| March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files discovered | All |
+
+---
+
+### March 17, 1981 — Session 4: Victor Hayes
+- **Case Connection:** All cases / [[Anglerfish]]
+- **[[Victor Hayes]]** (semi-retired FBI agent) investigates Mount Roselake in the evening. He finds the radio tower basement and takes all six case files (Scratching, Weeping House, Blurred Woman, Missing Missing, Mirror Haunt, Peabody House), The Skinwalkers folder, and three old VHS tapes.
+- Investigates Rose Lake and discovers the [[Intrusion Institute Monitoring Station]] hidden along the fence line, along with a nitrate fertilizer runoff ditch.
+- Visits [[Joe's Superstore]] to observe and purchases a first aid kit.
+- Visits Charlie's Quick Stop / Sam's Video Rentals. Investigating the alley, he spots the [[Anglerfish]] — a vantablack, light-absorbing entity — slinking away with the deflated skin of Thomas McMullin (tweed blazer, khaki pants) draped over it as a lure.
+- Dumpster dives behind the quick stop and recovers two gunky VHS tapes, a screwdriver, and a mysterious crud-covered electronic machine.
 
 ---
 

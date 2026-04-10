@@ -37,4 +37,6 @@ Thomas was killed by the [[Anglerfish]] at the base of the hill on the night of 
 
 **[[Session 3]] — March 16, 1981 (evening):** Matthew and Agatha returned together. The top floor showed no signs of creature presence. In the basement, Matthew (hard Intelligence success) noticed the folders had been moved since his earlier visit — Agatha confirmed she had re-shelved them during her own visit, but not perfectly. No third party had entered the station.
 
+**[[Session 4]] — March 17, 1981 (evening):** [[Victor Hayes]] arrived to investigate. He went to the basement and recovered **all** of Thomas McMullin's case files and the corkboard contents, effectively clearing the workspace of its investigative materials. He also scavenged three old VHS tapes from the rotting boxes before leaving.
+
 #2026HorrorRPG

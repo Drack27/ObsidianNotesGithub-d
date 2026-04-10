@@ -9,9 +9,11 @@
 
 ## Appearance
 
-In its true form, the Anglerfish is a nightmarish predator that barely resembles anything natural. It is a blob of inky, vantablack darkness — so dark that it absorbs light, making it nearly invisible in the unlit fields at night. It has stout but powerful legs that allow it to move with surprising speed across open ground, and a huge maw filled with rows of needle-like teeth that curve inward. Above the maw, a single bioluminescent lure dangles from a fleshy stalk — a soft, warm light that shifts color subtly, always appearing to be just the right shade to catch someone's eye and draw them closer.
+In its true form, the Anglerfish is a nightmarish predator that barely resembles anything natural. It is a blob of inky, vantablack darkness — a void so dark that it absorbs light, making it nearly invisible in the unlit fields at night. It has stout, stumpy silhouette-like legs that allow it to move with surprising speed across open ground, and a huge maw filled with rows of needle-like teeth that curve inward.
 
-The creature's body is roughly the size of a large bear, but its posture is low and hunched, keeping it close to the ground. In the dark fields of Roselake, with its vantablack body absorbing all ambient light, only the lure is visible — a single point of warm light drifting through the cornrows, always just far enough away to seem reachable.
+Rather than a bioluminescent light, the Anglerfish uses the **discarded skin** of its victims as a lure. A fleshy tether snakes from the front of its vantablack body, plugging into the back of a deflated, draped human skin. The entity drags this morbid "puppet" along to trick its victims.
+
+The creature's body is roughly the size of a large bear, but its posture is low and hunched, keeping it close to the ground. In the dark fields of Roselake, with its vantablack body absorbing all ambient light, only its skin puppet lure is visible.
 
 ---
 
@@ -23,17 +25,21 @@ The only confirmed physical traces of the Anglerfish recovered so far:
 
 **Tracks:** Discovered at the attack site on March 16, 1981, by Matthew Davis (hard Archaeology / Tracking success, 2 luck spent). Description: a **spherical indentation in the ground, with a fan-shaped arrangement on one half.** The tracks are spaced **unnaturally far apart** — the spacing is inconsistent with any known animal and implies speed that is deeply unsettling. The pattern is circular and chaotic at the attack site, making it difficult to determine the creature's exit direction.
 
+**Thomas McMullin's Skin:** Discovered actively being used as a lure behind Charlie's Quick Stop on March 17, 1981 ([[Session 4]]) by [[Victor Hayes]].
+
+**Unknown Discarded Skin:** There is an undiscovered patch of flattened grass and blood south of the Mount Roselake attack site where the Anglerfish discarded a previous, currently unknown victim's skin before taking Thomas McMullin's on March 14, 1981.
+
 ---
 
 ## Hunting Behavior
 
 The Anglerfish hunts in the agricultural fields surrounding Roselake, primarily at night. Its method is simple and devastating:
 
-1. **The Lure.** The bioluminescent light appears in the fields — a warm, inviting glow that seems to come from just over the next rise, just past the next row of corn. It is supernaturally compelling. Anyone who sees it feels a pull — not mind control, but an intense curiosity, a sense that whatever is making that light needs help, or is something they need to see. The lure is most effective on people who are already feeling isolated or lonely.
+1. **The Lure.** It drapes the discarded skin of a previous victim over itself, tethering it to its body. In the dark, the skin puppet appears to be a person in distress or standing out in the fields alone. This sight lures unsuspecting victims closer to investigate or help.
 
-2. **The Chase.** The light retreats as the victim approaches, always staying just out of reach, drawing them deeper and deeper into the fields and further from safety. By the time the victim realizes something is wrong, they are surrounded by darkness and corn, with no landmarks and no sense of direction.
+2. **The Chase.** The lure retreats as the victim approaches, always staying just out of reach, drawing them deeper and deeper into the fields and further from safety. By the time the victim realizes something is wrong, they are surrounded by darkness and corn, with no landmarks and no sense of direction.
 
-3. **The Bite.** The Anglerfish attacks from the darkness. A single bite from its maw begins a rapid biological process — the victim's skin peels and sloughs away as the Anglerfish consumes the biological material. Within minutes, the original person is dead. Their skin, reshaped and hardened into a hollow replica, becomes a **skin puppet** (see below).
+3. **The Bite.** The Anglerfish attacks from the darkness. A single bite from its maw begins a rapid biological process — the victim's skin peels and sloughs away as the Anglerfish consumes the biological material. Within minutes, the original person is dead. Their skin is then used either as a hollow replica **skin puppet** to replace them in the community, or kept by the Anglerfish as its next physical lure.
 
 ---
 
@@ -87,7 +93,7 @@ The Anglerfish creates **skin puppets** from its victims — hollow replicas tha
 
 **Special:**
 - **Vantablack Camouflage:** In darkness or dim lighting, the Anglerfish is nearly invisible. Spot Hidden rolls to detect it suffer a penalty die unless the observer has a strong light source.
-- **The Lure:** Anyone who can see the Anglerfish's bioluminescent lure must succeed on a POW roll or feel compelled to investigate. This is not mind control — the victim can choose to resist — but the pull is strong. Lonely or isolated individuals suffer a penalty die on this roll.
+- **The Lure:** Anyone who sees the Anglerfish's skin puppet lure might feel compelled to investigate. This relies on the victim's natural curiosity and desire to help another person they perceive to be standing in the dark fields.
 
 ### Skin Puppet
 
