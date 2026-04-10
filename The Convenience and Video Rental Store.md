@@ -30,4 +30,4 @@ The store is a minor social gathering point and a potential source of casual inf
 
 ## Investigator Visits
 
-**[[Session 4]] — March 17, 1981 (late night):** [[Victor Hayes]] visits the Quick Stop. He interacts with the bored teenager working the night shift. While scoping out the back alley, Victor spots the [[Anglerfish]] (a bear-sized, vantablack entity) slinking away with the discarded skin of Thomas McMullin draped over it. After waiting for it to leave, Victor successfully dumpster dives behind the building, recovering two gunky VHS tapes, a screwdriver, and a mysterious crud-covered electronic machine.
+**[[Session 4]] — March 17, 1981 (late night):** [[Victor Hayes]] visits the Quick Stop. He interacts with the bored teenager working the night shift. While scoping out the back alley, Victor spots the [[Anglerfish]] (a bear-sized, vantablack entity) slinking away in posession of Thomas McMullin's skin as it's lure. After waiting for it to leave, Victor successfully dumpster dives behind the building, recovering two gunky VHS tapes, a screwdriver, and a mysterious crud-covered electronic machine.
