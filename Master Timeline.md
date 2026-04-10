@@ -40,15 +40,7 @@
 
 ---
 
-### March 17, 1981 — Session 4: Victor Hayes
-- **Case Connection:** All cases / [[Anglerfish]]
-- **[[Victor Hayes]]** (semi-retired FBI agent) investigates Mount Roselake in the evening. He finds the radio tower basement and takes all six case files (Scratching, Weeping House, Blurred Woman, Missing Missing, Mirror Haunt, Peabody House), The Skinwalkers folder, and three old VHS tapes.
-- Investigates Rose Lake and discovers the [[Intrusion Institute Monitoring Station]] hidden along the fence line, along with a nitrate fertilizer runoff ditch.
-- Visits [[Joe's Superstore]] to observe and purchases a first aid kit.
-- Visits Charlie's Quick Stop / Sam's Video Rentals. Investigating the alley, he spots the [[Anglerfish]] — a vantablack, light-absorbing entity — slinking away with the deflated skin of Thomas McMullin (tweed blazer, khaki pants) draped over it as a lure.
-- Dumpster dives behind the quick stop and recovers two gunky VHS tapes, a screwdriver, and a mysterious crud-covered electronic machine.
 
----
 
 ### March 15, 1981 — Session 2: Agatha Graves
 
@@ -74,6 +66,16 @@
 - At **[[Roselake Fire Station]]**, they meet **[[Fire Chief Bill]]** (handlebar mustache; was on scene the night of Matthew's attack). Bill mentions his crew searched the base of [[Mount Roselake]] on the morning of March 15 and found nothing. Matthew (appearance, hard success) convinces Bill to accompany them.
 - **Daytime investigation at Mount Roselake:** Matthew locates the attack site (hard Archaeology success). He discovers the creature's tracks (hard Tracking success, 2 luck spent): **spherical indentations with a fan-shaped arrangement on one half**, spaced unnaturally far apart — implying extraordinary speed. Matthew fails to persuade Bill to join a nighttime stakeout (persuasion, fail). Bill declines and returns to town.
 - **Evening stakeout (~8 PM – 11 PM):** Matthew and Agatha return alone. They investigate the radio station: top floor unchanged; in the basement, Matthew (hard Intelligence success) notices the folders have been disturbed — Agatha confirms this is the result of her own imperfect re-shelving during her Session 2 visit, not a third party. No creature appears during the two-hour vigil. They head home.
+
+---
+
+### March 17, 1981 — Session 4: Victor Hayes
+- **Case Connection:** All cases / [[Anglerfish]]
+- **[[Victor Hayes]]** (semi-retired FBI agent) investigates Mount Roselake in the evening. He finds the radio tower basement and takes all six case files (Scratching, Weeping House, Blurred Woman, Missing Missing, Mirror Haunt, Peabody House), The Skinwalkers folder, and three old VHS tapes.
+- Investigates Rose Lake and discovers the [[Intrusion Institute Monitoring Station]] hidden along the fence line, along with a nitrate fertilizer runoff ditch.
+- Visits [[Joe's Superstore]] to observe and purchases a first aid kit.
+- Visits Charlie's Quick Stop / Sam's Video Rentals. Investigating the alley, he spots the [[Anglerfish]] — a vantablack, light-absorbing entity — slinking away with the deflated skin of Thomas McMullin (tweed blazer, khaki pants) draped over it as a lure.
+- Dumpster dives behind the quick stop and recovers two gunky VHS tapes, a screwdriver, and a mysterious crud-covered electronic machine.
 
 ---
 
