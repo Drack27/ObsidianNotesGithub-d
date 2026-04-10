@@ -14,3 +14,11 @@ During [[Session 2]], [[Agatha Graves]] found a **large, thin, enameled tooth wi
 
 The flattened grass and bloodstains remain visible to any investigator who looks closely.
 
+### Investigations of the Attack Site
+
+**March 15 (morning):** [[Fire Chief Bill]] and some of his crew from the [[Roselake Fire Station]] searched the base of the hill and found nothing of note.
+
+**March 16 (daytime, [[Session 3]]):** [[Matthew Davis]] and [[Agatha Graves]], accompanied by Fire Chief Bill, investigated the site. Matthew located it via a hard Archaeology success. He then identified the creature's tracks via a hard Tracking success (2 luck spent): **spherical indentations in the ground with a fan-shaped arrangement on one half**, spaced unnaturally far apart — implying a speed inconsistent with any known animal. The track pattern at the site is circular and chaotic, making the creature's exit direction impossible to determine with the information currently available.
+
+**March 16 (evening, [[Session 3]]):** Matthew and Agatha returned at night and watched the site from approximately 9:20 PM to 11:00 PM. The creature did not appear.
+

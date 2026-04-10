@@ -1,5 +1,10 @@
 ## Explicitly Named Characters
 
+> [!info]- Matthew Davis
+> A 40-year-old anthropological archaeologist with a graying beard. Introduced in [[Session 1]] as an active player character. He survived an Anglerfish attack on the night of March 14, 1981, and is now actively investigating with Agatha Graves.
+>
+> [[Matthew Davis|View Matthew Davis's full details here]]
+
 > [!info]- Agatha Graves
 > A woman in her 60s with curly gray hair and a green cloak who drives a hearse and runs a small shop selling crystals, rosaries, and spiritual goods. A local legend in Roselake. Introduced in [[Session 2]] as an active player character.
 >
@@ -21,6 +26,12 @@
 > [!info]- Joe Mencha
 >  A 35 year old Superstore owner. Owner of [[Joe's Superstore]]
 > [[Joe Mencha|View Joe's full details here]]
+
+> [!info]- Fire Chief Bill
+> Roselake's Fire Chief. Handlebar mustache, gruff and practical. Was among those who responded to assist Matthew Davis after the Anglerfish attack on March 14. Accompanied Matthew and Agatha to the Mount Roselake investigation on March 16. Last name not yet established.
+>
+> [[Fire Chief Bill|View Fire Chief Bill's full details here]]
+
 ## Implied Characters & Entities
 
 > [!info]- Roselake Academy Janitorial Staff
