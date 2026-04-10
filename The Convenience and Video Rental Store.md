@@ -1,14 +1,16 @@
-# The Convenience & Video Rental Store
+# Charlie's Quick Stop & Sam's Video Rentals
 
-**Type:** Retail / Entertainment
+**Type:** Gas Station, Retail & Entertainment
 **Location:** [[Town Center]], Roselake
-**Owner:** Charlie Haverford
+**Owner:** Charlie (Video Rentals)
 
 ---
 
 ## Description
 
-A strange hybrid business that looks exactly like what it is: a 7-Eleven-style convenience store with a video rental operation bolted onto the back. The front half sells snacks, cigarettes, sodas, basic toiletries, and the kind of miscellaneous gas station inventory that accumulates in places where the nearest real store is miles away. The back half is a surprisingly well-stocked VHS rental library, organized with a care and attention that the front half conspicuously lacks.
+A strange hybrid business. The main building is **Charlie's Quick Stop**, a brick 7-Eleven-style gas station and convenience store with two gas pumps, an ice machine, and a payphone out front. It sells typical gas station inventory.
+
+Attached to the side of the Quick Stop is a corrugated metal shack, haphazardly stapled on, serving as **Sam's Video Rentals**. Despite the crude exterior, the inside features a dimly lit, psychedelic colorful patterned floor and a surprisingly well-stocked VHS rental library.
 
 ---
 
@@ -25,3 +27,7 @@ Charlie is friendly, talkative, and eager to recommend films to anyone who walks
 ## Relevance
 
 The store is a minor social gathering point and a potential source of casual information. Charlie, like Tony, hears things from customers — though his information tends to be filtered through his enthusiasm for movies. ("You know, what you're describing sounds a lot like the plot of *Invasion of the Body Snatchers*...")
+
+## Investigator Visits
+
+**[[Session 4]] — March 17, 1981 (late night):** [[Victor Hayes]] visits the Quick Stop. He interacts with the bored teenager working the night shift. While scoping out the back alley, Victor spots the [[Anglerfish]] (a bear-sized, vantablack entity) slinking away in posession of Thomas McMullin's skin as it's lure. After waiting for it to leave, Victor successfully dumpster dives behind the building, recovering two gunky VHS tapes, a screwdriver, and a mysterious crud-covered electronic machine.

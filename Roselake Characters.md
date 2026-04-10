@@ -10,6 +10,11 @@
 >
 > [[Agatha Graves|View Agatha Graves's full details here]]
 
+> [!info]- Victor Hayes
+> A 27-year-old semi-retired FBI agent and Roselake native. Introduced in [[Session 4]] as an active player character. He has taken an interest in the strange events in town and currently possesses all of Thomas McMullin's case files.
+>
+> [[Victor Hayes|View Victor Hayes's full details here]]
+
 > [!info]- The Anglerfish
 >  It is theorized to be an anglerfish-like creature that uses the town's agricultural fields to lure unsuspecting victims.
 >
@@ -31,6 +36,10 @@
 > Roselake's Fire Chief. Handlebar mustache, gruff and practical. Was among those who responded to assist Matthew Davis after the Anglerfish attack on March 14. Accompanied Matthew and Agatha to the Mount Roselake investigation on March 16. Last name not yet established.
 >
 > [[Fire Chief Bill|View Fire Chief Bill's full details here]]
+
+> [!info]- Charlie
+> A tech enthusiast and "hyper-nerd" who runs Sam's Video Rentals, an attachment to Charlie's Quick Stop.
+> [[Charlie|View Charlie's full details here]]
 
 ## Implied Characters & Entities
 

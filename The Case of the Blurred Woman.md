@@ -1,3 +1,7 @@
+> [!info] Case File Status
+> The physical case folder for this mystery was retrieved from the radio tower by [[Victor Hayes]] during [[Session 4]].
+
+
 [[Blurred Woman Handouts]]
 
 ---

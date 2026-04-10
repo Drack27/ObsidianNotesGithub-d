@@ -63,9 +63,11 @@ He was also deeply lonely, though he would never have admitted it. His reclusive
 
 On **March 14, 1981**, Thomas was heading up to the Old Radio Tower on Mount Roselake — his usual route, the path he'd walked hundreds of times. The Anglerfish was waiting.
 
-Thomas was lured, bitten, and killed by the Anglerfish in the fields near the base of Mount Roselake. His body was consumed. No skin puppet was created to replace him — Thomas was too reclusive, too isolated, for a puppet to be useful. Nobody would notice a behavioral change in a man nobody talked to. The Anglerfish simply removed him.
+Thomas was lured, bitten, and killed by the Anglerfish in the fields near the base of Mount Roselake. His body was consumed. No skin puppet was created to replace him in the community — Thomas was too reclusive, too isolated, for a puppet to be useful. Nobody would notice a behavioral change in a man nobody talked to.
 
-Thomas McMullin's death occurred only hours before the first player characters arrive at the radio tower. His case files, his corkboard, his photographs, and his warnings are all still there — untouched, waiting to be found by whoever comes looking.
+Instead, the Anglerfish retained his skin to use as its physical lure. During [[Session 4]], [[Victor Hayes]] spotted the Anglerfish with Thomas's deflated skin (complete with his corduroy/tweed blazer and khaki pants) in an alleyway behind Charlie's Quick Stop.
+
+Thomas McMullin's death occurred only hours before the first player characters arrived at the radio tower. His case files, his corkboard, his photographs, and his warnings were left waiting for the player characters to find them.
 
 ---
 
