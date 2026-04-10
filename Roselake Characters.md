@@ -1,5 +1,10 @@
 ## Explicitly Named Characters
 
+> [!info]- Agatha Graves
+> A woman in her 60s with curly gray hair and a green cloak who drives a hearse and runs a small shop selling crystals, rosaries, and spiritual goods. A local legend in Roselake. Introduced in [[Session 2]] as an active player character.
+>
+> [[Agatha Graves|View Agatha Graves's full details here]]
+
 > [!info]- The Anglerfish
 >  It is theorized to be an anglerfish-like creature that uses the town's agricultural fields to lure unsuspecting victims.
 >

@@ -36,6 +36,14 @@ They anxiously latch onto this interpretation. It gives shape to their fear. A d
 
 When Thomas McMullin checked the roof and found no source for the ceiling leak, the Marshes latched onto this as well. If there's no leak, then the stain on the ceiling can't be water. And if it's not water, then what is the house sweating? Thomas, who is not a plumber, simply went along with their reasoning at the time.
 
+## Connection to Agatha Graves
+
+Clara Marsh has been buying spiritual protective goods — crosses and rosaries — from [[Agatha Graves]]'s shop. Roselake has no Catholic church, making Agatha one of the only local sources for such items.
+
+On a recent visit, Clara came in looking visibly distressed: bags under her eyes, a wild and twitchy manner. Agatha noticed but did not press. This visit aligns with the Marshes' escalating fear and their recent shift from new age paraphernalia toward Catholic imagery.
+
+Agatha now knows the Marsh name from Thomas McMullin's Weeping House case file, and is aware of Clara's state. Whether she chooses to follow up on this connection is an open question.
+
 ## Open Threads
 
 - The Marshes are genuinely scared. Even if the mundane truth is explained to them (corroded galvanized plumbing), they may not believe it. People who have decided their house is infested by a demon do not easily accept "it's just pipes."

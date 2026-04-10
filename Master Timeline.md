@@ -32,7 +32,21 @@
 | ~Feb–Mar 1981 | Anglerfish replaces Wendy Simons, Zach & Toula Carmody | Anglerfish |
 | March 14, 1981 | Thomas McMullin killed by the Anglerfish on his way to the Old Radio Tower | Anglerfish |
 | March 14, 1981 (evening) | **SESSION 1** — Matthew Davis attends "Roselake Ghost Hunters Club" at Old Radio Tower; finds Thomas's case files; attacked by Anglerfish (using Thomas's skin as lure) on the way down; barely survives; patched up by couple and fire department | Anglerfish / All |
+| March 15, 1981 (morning–afternoon) | **SESSION 2** — Agatha Graves arrives at Mount Roselake; finds flattened grass, dried blood, and a large unidentified tooth (Anglerfish evidence) at the hill's base; explores the Old Radio Tower basement and reviews all of Thomas's case files and corkboard; visits Roselake Library but cannot identify the tooth | Anglerfish / All |
 | March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files await discovery | All |
+
+---
+
+### March 15, 1981 — Session 2: Agatha Graves
+
+- **Case Connection:** All cases / [[Anglerfish]]
+- **[[Agatha Graves]]** arrives at [[Mount Roselake]] in the morning, responding a day late to the Ghost Hunters Club flyers.
+- At the base of the hill, she discovers a patch of flattened grass soaked with dried blood and finds a **large, thin, enameled tooth with dried blood** — physical evidence of the Anglerfish's attack on Thomas McMullin the previous night.
+- She hikes to the [[The Old Radio Tower|Old Radio Tower]], enters through the ajar front door, and descends to Thomas McMullin's basement lair.
+- She reviews all six case files on Thomas's desk (**The Scratching**, **The Weeping House**, **The Blurred Woman**, **The Missing Missing**, **The Mirror Haunt**, **The Peabody House**) and the full Skinwalkers corkboard, which documents six suspected Anglerfish replacements including Mayor Lance Winnipeg.
+- Reading the Weeping House folder, Agatha recognizes **Clara Marsh** as a recent distressed customer at her shop.
+- She returns to town and visits the [[Roselake Library]], attempting to identify the tooth using the nature section. After an extended search, she fails — the library has no resources that can identify it.
+- The tooth remains in Agatha's possession, unidentified.
 
 ---
 
