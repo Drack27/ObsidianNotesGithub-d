@@ -7,7 +7,7 @@ He is an active player character introduced in [[Session 4]].
 ## Role in Roselake
 Victor has taken an interest in the strange disappearances and activities occurring around Roselake. During his initial investigation on the evening of March 17, 1981, he explored Mount Roselake, Rose Lake, Joe's Superstore, and Charlie's Quick Stop.
 
-He encountered the [[Anglerfish]] behind the video rental store, witnessing it discarding its lure (the deflated skin of Thomas McMullin). He successfully remained hidden and did not engage.
+He encountered the [[Anglerfish]] behind the video rental store, witnessing it with its lure (the deflated skin of Thomas McMullin). He successfully remained hidden and did not engage.
 
 ## Current Inventory (As of March 17, 1981)
 During his investigation of the [[The Old Radio Tower|Old Radio Tower]]'s basement, Victor gathered all of Thomas McMullin's accumulated files and evidence. Additionally, he scavenged some strange items from a dumpster behind the quick stop.
