@@ -12,3 +12,5 @@ During the night, the store takes on an eerie, liminal atmosphere with its buzzi
 **[[Session 3]] — March 16, 1981 (afternoon):** [[Matthew Davis]] and [[Agatha Graves]] visit to purchase a weapon. Matthew buys an heirloom machete. They also observe the strange, mechanical behavior of Wendy Simons (an [[Anglerfish]] replacement) at checkout lane 7.
 
 **[[Session 4]] — March 17, 1981 (midnight):** [[Victor Hayes]] visits the superstore to scope it out. He observes a single farmer in the equipment section and a tired, glassy-eyed checkout clerk. He purchases a first-aid kit before leaving.
+
+**[[Session 5]] — March 17, 1981 (morning):** [[Matthew Davis]] visits to buy ammunition. He purchases approximately 500 rounds of .45 caliber ammunition for around $100. [[Wendy Simons]] is not at her usual register that shift — a scruffy, stubble-faced man Matthew does not recognize is working her lane instead. (Wendy is still the cashier; she simply is not on duty that morning.) The store feels quieter than on previous visits; less of the usual chatter in the aisles.

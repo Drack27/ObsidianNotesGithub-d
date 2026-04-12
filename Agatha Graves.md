@@ -39,6 +39,8 @@ The two investigated together through the day: visiting [[Joe's Superstore]] (wh
 
 During the night's visit to the radio tower basement, Matthew noticed the case folders had been moved since his earlier visit. Agatha confirmed she had handled and re-shelved them during her own visit — the disturbance was her own imperfect work, not a third party's.
 
+On March 17, 1981, Matthew and Agatha had planned to meet up for another stakeout at Mount Roselake. Agatha did not make the rendezvous. Matthew went up the hill alone that evening (see [[Session 5]]), where he met [[Reverend Detty]] by chance.
+
 ---
 
 ## Items

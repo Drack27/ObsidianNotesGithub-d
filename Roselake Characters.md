@@ -15,6 +15,16 @@
 >
 > [[Victor Hayes|View Victor Hayes's full details here]]
 
+> [!info]- Reverend George "Detty" Ndetti
+> A 59-year-old African American pastor of First Methodist Church, bald with a short goatee. Introduced in [[Session 5]] as an active player character. Came up to [[Mount Roselake]] on his own after growing uneasy about the old Ghost Hunters Club flyer and about his parishioner [[Wendy Simons]]'s strange behavior. Broke his right arm in a fall from the radio tower and is currently recovering.
+>
+> [[Reverend Detty|View Reverend Detty's full details here]]
+
+> [!info]- Wendy Simons
+> 32-year-old cashier at [[Joe's Superstore]] (lane 7). Formerly friendly, chatty, and a steady member of First Methodist. Canonically replaced by the [[Anglerfish]]; the skin puppet runs her existing routines without adaptation and has stopped attending church. Observed robotic at the register in [[Session 3]]; absent from her shift on the morning of [[Session 5]]. The PCs have not confirmed her replacement — only her behavior change.
+>
+> [[Wendy Simons|View Wendy Simons's full details here]]
+
 > [!info]- The Anglerfish
 >  It is theorized to be an anglerfish-like creature that uses the town's agricultural fields to lure unsuspecting victims.
 >
