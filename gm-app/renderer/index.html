@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' gmapp:; script-src 'self'; style-src 'self' 'unsafe-inline';">
+  <title>Roselake GM</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+
+    <!-- ── Sidebar ─────────────────────────────────────────── -->
+    <aside id="sidebar">
+      <div class="sidebar-brand">
+        <div class="brand-title">ROSELAKE</div>
+        <div class="brand-sub">Call of Cthulhu &bull; 1981</div>
+      </div>
+      <nav id="sidebar-nav"></nav>
+    </aside>
+
+    <!-- ── Main area ───────────────────────────────────────── -->
+    <main id="main">
+      <div id="main-toolbar"></div>
+      <div id="main-content"></div>
+    </main>
+
+    <!-- ── Side panel (hotspot / linked content) ───────────── -->
+    <div id="side-panel" class="side-panel hidden">
+      <div class="side-panel-header">
+        <span id="side-panel-title"></span>
+        <button id="side-panel-close" title="Close">✕</button>
+      </div>
+      <div id="side-panel-body"></div>
+    </div>
+
+  </div>
+
+  <!-- ── Modal overlay ──────────────────────────────────────── -->
+  <div id="modal-overlay" class="hidden">
+    <div id="modal-box">
+      <div id="modal-header"></div>
+      <div id="modal-body"></div>
+      <div id="modal-footer"></div>
+    </div>
+  </div>
+
+  <!-- ── Toast ──────────────────────────────────────────────── -->
+  <div id="toast" class="hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

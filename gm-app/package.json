@@ -1,0 +1,26 @@
+{
+  "name": "roselake-gm",
+  "version": "1.0.0",
+  "description": "GM Desktop App — Roselake, Nebraska (1981) — Call of Cthulhu Campaign",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "marked": "^11.2.0"
+  },
+  "devDependencies": {
+    "electron": "^28.3.0",
+    "electron-builder": "^24.9.0"
+  },
+  "build": {
+    "appId": "com.roselake.gm",
+    "productName": "Roselake GM",
+    "directories": { "output": "dist" },
+    "win": {
+      "target": [{ "target": "portable" }]
+    }
+  }
+}

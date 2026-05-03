@@ -1,0 +1,5 @@
+node_modules/
+dist/
+state/app-state.json
+state/hotspots.json
+*.log
