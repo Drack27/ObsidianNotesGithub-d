@@ -94,7 +94,7 @@ Matthew shot him with his revolver at point-blank range, wounding Jonathan's arm
 During the fight, Jonathan **chanted in Latin** — a ritual invocation that Matthew, an archaeologist fluent in Latin, recognized as a language but could not parse in the chaos. He declared:
 
 *"I wanted to keep you around, but I can change my method."*
-*"No one will remember your name. He'll be just like me."*
+*"No one will remember your name. You'll be just like me."*
 
 The fight moved from the bedroom into the living room. Jonathan pistol-whipped Matthew twice (4 damage each), shot him once with the revolver (a grazing shoulder wound, 3 damage), and ultimately knocked him unconscious with a punch to the face (4 damage). Matthew went to **0 HP** and lost consciousness.
 
