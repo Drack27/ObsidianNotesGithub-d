@@ -66,3 +66,36 @@ Thomas has steered clear of him ever since. He cannot articulate exactly why Jon
 Jonathan is a major driver of the fear of The Forgotten in Roselake. Every use of The Catalyst strengthens The Forgotten's presence. However, unlike [[The Case of the Blurred Woman|The Blurred Woman]], Jonathan is **barred from becoming a full Avatar of The Forgotten** — because people in his community still know about *him.* He has not been forgotten. His resentment, his presence, his physical reality in the town all anchor him to the living world in a way that prevents The Forgotten from fully claiming him.
 
 He is a tool of The Forgotten, but not its vessel.
+
+---
+
+## First Contact with Player Characters (Sessions 6)
+
+### The Mysterious Caretaker
+
+After [[Matthew Davis]] was injured at the radio tower on March 17, 1981, and sent home from the [[Roselake Fire Station]] on March 23, someone provided care for him in the days following. [[Fire Chief Bill]] and Leonard later denied any memory of the discharge, home setup, or physical therapy visits — suggesting those events did not happen as Matthew experienced them, or happened under circumstances no one can account for.
+
+Jonathan later told Matthew *"I wanted to keep you around"* — implying he was monitoring or intervening in Matthew's recovery to ensure Matthew stayed alive. Jonathan appears to have been providing care — or manipulating perceptions of it — as he prepared to use [[The Catalyst]] on Matthew and add him to his collection of prisoners.
+
+### Surveillance and Threat (Night of April 2, 1981)
+
+Jonathan appeared outside Matthew's home on the night of April 2. He shone a flashlight through the bedroom window, silhouetting himself without showing his face, then spoke from the darkness:
+
+*"No one will remember you... Out here, it's like space. No one can hear you scream... I will be back. No one will remember you, except for me."*
+
+He left without entering — footsteps crunching away through the backyard.
+
+### The Attack (Night of April 3, 1981)
+
+Jonathan returned the following night. When Matthew refused to unlock the door, Jonathan forced the front door open with a metallic crash and entered the house. He confronted Matthew in the bedroom — a massive figure, approximately **six and a half feet tall**, with wide shoulders, moving deliberately in the dark.
+
+Matthew shot him with his revolver at point-blank range, wounding Jonathan's arm. Jonathan wrestled the gun away and pointed it at Matthew's head. In the muzzle flashes that followed, his appearance was confirmed: **shaggy long blonde hair**, **wild eyes**, an extremely muscular human frame.
+
+During the fight, Jonathan **chanted in Latin** — a ritual invocation that Matthew, an archaeologist fluent in Latin, recognized as a language but could not parse in the chaos. He declared:
+
+*"I wanted to keep you around, but I can change my method."*
+*"No one will remember your name. You'll be just like me."*
+
+The fight moved from the bedroom into the living room. Jonathan pistol-whipped Matthew twice (4 damage each), shot him once with the revolver (a grazing shoulder wound, 3 damage), and ultimately knocked him unconscious with a punch to the face (4 damage). Matthew went to **0 HP** and lost consciousness.
+
+Jonathan is now in possession of Matthew's revolver. Matthew is alive but unconscious and helpless.
