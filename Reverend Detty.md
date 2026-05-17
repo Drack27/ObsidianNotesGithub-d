@@ -38,9 +38,13 @@ Detty has been staging fake "miracles" around town as a way to bolster his own p
 
 ## Current Situation
 
-As of the night of March 17, 1981, Reverend Detty is at the Roselake Fire Station recovering from a fall at the [[The Old Radio Tower|Old Radio Tower]]. His right arm is broken (a major wound) and has been splinted. He will need time to heal, but his injuries are significantly less severe than [[Matthew Davis]]'s — he is conscious, mobile with one arm, and not paralyzed.
+**Missing as of approximately March 18–19, 1981.**
 
-He drove himself up to the hill that night on his own initiative, investigating flyers for the "Roselake Ghost Hunters Club" that had been up around town for a few days (originally posted by [[Thomas McMullin]] before his death on March 14). He was uneasy about non-clergy-sanctioned supernatural investigation in his community. He met [[Matthew Davis]] there unexpectedly, and the two explored the radio station together before the fall.
+After bringing [[Matthew Davis]] to the [[Roselake Fire Station]] on the night of March 17 and having his own broken arm splinted, Reverend Detty disappeared. The fire station dispatcher searched for him in the days following the accident — he was not at his house, not at the church, and not at Tony's Diner. On **Sunday, March 29**, Detty failed to appear at his own church service at First Methodist, leaving the congregation confused and without a pastor. He has not been seen or accounted for since.
+
+His disappearance is unresolved. No one in town appears to be actively investigating it — the dispatcher mentions it with contempt ("that idiot is going to get himself killed with his wild theories"), treating it as a self-inflicted consequence of reckless behavior. The sheriff has not been notified, as far as Matthew knows.
+
+As of the events of [[Session 6]], his whereabouts are entirely unknown.
 
 ---
 

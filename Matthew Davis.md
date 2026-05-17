@@ -9,7 +9,7 @@
 
 ## Appearance
 
-A man of 40 with a graying beard and the careful, observant manner of someone whose work requires him to notice things that other people walk past. He moves deliberately. As of the night of March 17, 1981, he is unconscious in the [[Roselake Fire Station]]'s makeshift medical room, his right arm splinted (compound fracture) and his back braced against further movement to the spine.
+A man of 40 with a graying beard and the careful, observant manner of someone whose work requires him to notice things that other people walk past. He moves deliberately. As of the early morning of April 4, 1981, he is unconscious on the floor of his own living room at 0 HP — his right arm previously splinted (compound fracture), his back braced, his shoulder grazed by a bullet, his face battered from two pistol-whips. He is alive but completely helpless.
 
 ---
 
@@ -35,19 +35,36 @@ He attended the first "Roselake Ghost Hunters Club" meeting on the evening of Ma
 
 ## Current Situation
 
-As of the night of March 17, 1981, Matthew is unconscious at the [[Roselake Fire Station]] at 2/11 HP, under the care of the older dispatcher and the on-duty firefighter. He had spent the morning at [[Joe's Superstore]] buying roughly 500 rounds of .45 caliber ammunition (noting as he did that [[Wendy Simons]] was not on her usual register), then driven out alone to [[Mount Roselake]] that evening for a planned stakeout — Agatha Graves did not make the rendezvous.
+As of the early morning of April 4, 1981, Matthew is unconscious at 0 HP on the floor of his own living room. He was knocked out by [[Jonathan Oesch]] — the antimemetic killer — who broke into his home on the night of April 3 and beat him into unconsciousness after a brutal close-quarters fight. Matthew is not dead, but he is completely helpless. Jonathan is in possession of his revolver. What happens next is unknown.
 
-At the hill he met [[Reverend Detty|Reverend George "Detty" Ndetti]], who had come up on his own initiative after growing concerned about the old Ghost Hunters Club flyer and about his parishioner [[Wendy Simons]]. The two investigated the [[The Old Radio Tower|Old Radio Tower]] together: they found the basement stripped of all of Thomas McMullin's case files (taken, unbeknownst to them, by [[Victor Hayes]] earlier in the same evening — see [[Session 4]]), a disturbed box of water-damaged reel-to-reel tapes, a non-functional but recently tampered-with generator, a basement lamp still lit from an unknown power source, and multiple sets of recent human shoeprints around the building.
+### Prior Events (Session 6 summary)
 
-Attempting to climb the radio tower, Matthew fell roughly twenty feet when the structure leaned in a gust of wind. He took **12 damage in a single hit**, dropping him instantly below 0 HP, and suffered a **compound fracture of his right arm** and a **broken spine**. The fire station dispatcher reset the fracture and realigned his spine on an excellent Medicine roll, but the injury has left him **temporarily paralyzed**. He cannot move his legs, and barely his arms. If he rests and heals, mobility should return over roughly four weeks of bed rest. If he pushes himself and the healing goes wrong — if he fails four major-wound recovery rolls in a row — the paralysis will become permanent.
+After the radio tower fall on March 17 ([[Session 5]]), Matthew spent approximately five days recovering at the [[Roselake Fire Station]] under the care of the older dispatcher and a young sandy-haired firefighter named Steven. He regained full HP and was discharged home on **March 23, 1981** — transported by fire truck by [[Fire Chief Bill]] and a lanky firefighter named Leonard, who also rigged up a specialized walker that interfaced with his back brace.
+
+His home is a single-story house with a garage, kitchen, two bedrooms (one a study), and a bathroom off the primary bedroom. The firefighters left him with a supply of MREs and promised to come each day for physical therapy. His recovery sentence: **April 13, 1981**, reduced to **April 12** with a double hard success in early PT.
+
+Several days of physical therapy with Bill followed — until around **March 27**, when Bill failed to appear, and then arrived the next morning seemingly confused. Bill and Leonard examined Matthew and denied all memory of his discharge, the home setup, the physical therapy visits, and any care provided at the fire station after the initial night. They attributed it to possible neurological damage from the spine injury and declined to file a police report. Their explanation was pragmatic, but left a significant gap: **someone or something was caring for Matthew in those intervening days.** Given Jonathan Oesch's later statement that he "wanted to keep [Matthew] around," it appears Jonathan may have been providing care to ensure Matthew stayed alive — as a future prisoner.
+
+[[Reverend Detty]] was confirmed missing throughout this period: not at his house, not at the church, not at Tony's, and absent from his own Sunday March 29 service.
+
+Beginning **March 30**, the firefighters stopped coming entirely and the fire station's phone went dead. Matthew lost 1 sanity point as the isolation compounded.
+
+On the **night of April 2**, [[Jonathan Oesch]] appeared outside Matthew's bedroom window — taunting him, declaring that no one would remember him, and promising to return.
+
+On the **night of April 3**, Jonathan returned. He broke through the front door, entered the bedroom, and attacked. Matthew shot him with his revolver (wounding Jonathan's arm), then improvised with a broken lamp, then fought bare-handed — but Jonathan pistol-whipped him twice, shot him once (a grazing shoulder wound, 3 damage), and ultimately knocked him out with a punch to the face. During the fight, Jonathan chanted in Latin — words Matthew recognized as a language but could not parse in the chaos. Jonathan declared: *"No one will remember your name. He'll be just like me."*
+
+Matthew went to 0 HP. He is unconscious. He is not dying, but he is alone, crippled, disarmed, and in the hands — or at least the vicinity — of a man who has imprisoned two people in his basement and erased them from everyone's memory.
+
+**Current recovery target:** April 12, 1981 (assuming he can continue physical therapy — currently in doubt).
 
 ---
 
 ## Items
 
-- **Revolver** — Standard sidearm. He fired it at the Anglerfish during the attack and missed. Still on loan to [[Agatha Graves]] from the March 16 evening stakeout.
-- **Heirloom machete** — Purchased from [[Joe's Superstore]] on March 16, 1981, for $200. A large blade, approximately three to four feet, with an intricate leather-and-bead scabbard. Joe sourced it from an older local who sold it as an heirloom.
+- **Revolver** — Standard sidearm. Previously on loan to [[Agatha Graves]] (returned before Session 6). Used against [[Jonathan Oesch]] during the April 3 attack — Matthew hit him once, wounding his arm, before Jonathan wrestled the gun away. **Currently in Jonathan Oesch's possession.**
+- **Heirloom machete** — Purchased from [[Joe's Superstore]] on March 16, 1981, for $200. A large blade, approximately three to four feet, with an intricate leather-and-bead scabbard. Stored at home — not accessible during the fight.
 - **Flashlight** — Carried in his pack. Used during the evening investigation at the radio tower.
-- **~500 rounds of .45 caliber ammunition** — Purchased at Joe's Superstore on the morning of March 17, 1981, for approximately $100.
+- **~500 rounds of .45 caliber ammunition** — Purchased at Joe's Superstore on the morning of March 17, 1981, for approximately $100. Stored at home.
+- **MREs** — A supply brought by the firefighters from Joe's Superstore. Running low.
 
 #2026HorrorRPG
