@@ -31,6 +31,9 @@
 | ~Feb–Mar 1981 | Edith Zelenskyy reaches Stage 3; covers all reflective surfaces; withdraws | Mirror Haunt |
 | ~Feb–Mar 1981 | Anglerfish replaces Wendy Simons, Zach & Toula Carmody | Anglerfish |
 | March 14, 1981 (early evening) | Thomas McMullin killed and skinned by the Anglerfish in the fields near Mount Roselake. Anglerfish leaves behind a previously unknown discarded skin | Anglerfish |
+
+| March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files discovered | All |
+
 | March 14, 1981 (evening) | **SESSION 1** — Matthew Davis attends "Roselake Ghost Hunters Club" at Old Radio Tower; finds Thomas's case files; attacked by Anglerfish (using Thomas's skin as lure) on the way down; barely survives; patched up by couple and fire department | Anglerfish / All |
 | March 15, 1981 (Early morning) | **SESSION 2** — Firefighters go up to check for creatures by Mount Roselake - they don't find anything | Anglerfish / All |
 | March 15, 1981 (morning–afternoon) | **SESSION 2** — Agatha Graves arrives at Mount Roselake; finds flattened grass, dried blood, and a large unidentified tooth (Anglerfish evidence) at the hill's base; explores the Old Radio Tower basement and reviews all of Thomas's case files and corkboard; visits Roselake Library but cannot identify the tooth | Anglerfish / All |
@@ -43,7 +46,7 @@
 | March 24–29, 1981 | **SESSION 6** — Bill (and occasionally Leonard) provide daily physical therapy at Matthew's home. Around March 27, Bill fails to appear; the next morning he and Leonard arrive confused, with no memory of having discharged Matthew, set up the house, or conducted any PT sessions. Bill attributes it to neurological damage; declines to involve the sheriff. Someone — almost certainly Jonathan Oesch — appears to have been providing care covertly to keep Matthew alive. On March 29 (Sunday), Reverend Detty fails to appear at his own church service — congregation left without a pastor | Antimemetic Killer / All |
 | March 30 – April 2, 1981 | **SESSION 6** — Firefighters stop coming entirely; fire station phone returns a dead tone on March 31 and afterward. Matthew loses 1 sanity point as isolation deepens. Night of April 2: Jonathan Oesch appears outside Matthew's bedroom window with a flashlight, delivers taunting threats ("no one will remember you"), and leaves | Antimemetic Killer |
 | April 3, 1981 (night) | **SESSION 6** — Jonathan Oesch breaks into Matthew's home. Combat: Matthew shoots Jonathan (wounding his arm); Jonathan wrestles the revolver away. Matthew fights back with improvised weapons (broken lamp). Jonathan pistol-whips Matthew twice (8 damage total), shoots him once (3 grazing damage). Jonathan chants in Latin during the fight — a recognizable ritual invocation. Matthew is knocked unconscious at 0 HP. Jonathan is in possession of Matthew's revolver. Matthew is alive but helpless. Jonathan declared: "No one will remember your name. He'll be just like me." | Antimemetic Killer |
-| March 1981 | **CAMPAIGN BEGINS** — all cases active simultaneously; Thomas's case files discovered | All |
+
 
 ---
 
