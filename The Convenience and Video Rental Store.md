@@ -22,6 +22,8 @@ He is not wrong about the quality of his collection — it is genuinely impressi
 
 Charlie is friendly, talkative, and eager to recommend films to anyone who walks in. He is one of the few people in Roselake who seems genuinely happy with his life, which makes him either the sanest person in town or the most oblivious.
 
+(NOTE FOR FUTURE CORRECTIONS: THIS IS WRONG. CHARLIE HAVERFORD & SAM THE VIDEO RENTAL GUY (who needs a last name btw) ARE NOT THE SAME PERSON. SAM IS THE GUY WHO LOOKS LIKE BLONDE SURFER-DUDE DOC HOLLIDAY - CHARLIE IS KIND OF A SLOB, MODDLE AGED GAS STATION OWNER)
+
 ---
 
 ## Relevance
