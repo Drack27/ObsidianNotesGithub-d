@@ -58,11 +58,20 @@ app.whenReady().then(() => {
     const host = url.host;
     const filename = decodeURIComponent(url.pathname.slice(1));
     let filePath;
+    let baseDir;
     if (host === 'maps') {
-      filePath = path.join(MAPS_DIR, filename);
+      baseDir = path.resolve(MAPS_DIR);
+      filePath = path.resolve(MAPS_DIR, filename);
     } else {
-      filePath = path.join(REPO_ROOT, filename);
+      baseDir = path.resolve(REPO_ROOT);
+      filePath = path.resolve(REPO_ROOT, filename);
     }
+
+    // Prevent Path Traversal
+    if (!filePath.startsWith(baseDir + path.sep) && filePath !== baseDir) {
+      return new Response('Access Denied', { status: 403 });
+    }
+
     return net.fetch(pathToFileURL(filePath).toString());
   });
 
@@ -99,7 +108,10 @@ ipcMain.handle('list-map-files', () => {
 
 ipcMain.handle('read-file', (_, filename) => {
   try {
-    const filepath = path.join(REPO_ROOT, filename);
+    const baseDir = path.resolve(REPO_ROOT);
+    const filepath = path.resolve(REPO_ROOT, filename);
+    if (!filepath.startsWith(baseDir + path.sep) && filepath !== baseDir) return null;
+
     if (!fs.existsSync(filepath)) return null;
     return fs.readFileSync(filepath, 'utf8');
   } catch { return null; }
@@ -161,7 +173,7 @@ ipcMain.handle('ingest:save-settings', (_, settings) => {
 // Returns { python: bool, ffmpeg: bool, venv: bool, whisperx: bool }
 ipcMain.handle('ingest:check-deps', async () => {
   const check = (cmd, args) => new Promise(resolve => {
-    const proc = spawn(cmd, args, { shell: IS_WIN });
+    const proc = spawn(cmd, args);
     let out = '';
     proc.stdout.on('data', d => { out += d; });
     proc.stderr.on('data', d => { out += d; });
@@ -198,7 +210,7 @@ ipcMain.handle('ingest:pick-file', async () => {
 // Creates venv and pip-installs whisperx
 ipcMain.handle('ingest:setup-venv', async () => {
   const pyCmd = await new Promise(resolve => {
-    const p1 = spawn('python3', ['--version'], { shell: IS_WIN });
+    const p1 = spawn('python3', ['--version']);
     let out = '';
     p1.stdout.on('data', d => { out += d; });
     p1.stderr.on('data', d => { out += d; });
@@ -208,7 +220,7 @@ ipcMain.handle('ingest:setup-venv', async () => {
 
   const runStep = (label, cmd, args, opts = {}) => new Promise((resolve, reject) => {
     sendLog('setup', `[${label}] Running: ${cmd} ${args.join(' ')}`);
-    const proc = spawn(cmd, args, { shell: IS_WIN, ...opts });
+    const proc = spawn(cmd, args, { ...opts });
     proc.stdout.on('data', d => sendLog('setup', d.toString()));
     proc.stderr.on('data', d => sendLog('setup', d.toString()));
     proc.on('close', code => {
@@ -250,7 +262,7 @@ ipcMain.handle('ingest:run-ffmpeg', async (_, sourcePath, numTracks) => {
 
   return new Promise(resolve => {
     sendLog('ffmpeg', `Running ffmpeg conversion...`);
-    const proc = spawn('ffmpeg', args, { shell: IS_WIN });
+    const proc = spawn('ffmpeg', args);
     proc.stdout.on('data', d => sendLog('ffmpeg', d.toString()));
     proc.stderr.on('data', d => sendLog('ffmpeg', d.toString()));
     proc.on('close', code => {
@@ -287,7 +299,7 @@ ipcMain.handle('ingest:run-whisperx', async (_, wavPath, numSpeakers, hfToken) =
 
   return new Promise(resolve => {
     sendLog('whisperx', 'Running whisperx transcription (this may take a while)...');
-    const proc = spawn(VENV_WHISPERX, args, { shell: IS_WIN });
+    const proc = spawn(VENV_WHISPERX, args);
     proc.stdout.on('data', d => sendLog('whisperx', d.toString()));
     proc.stderr.on('data', d => sendLog('whisperx', d.toString()));
     proc.on('close', code => {
@@ -313,15 +325,21 @@ ipcMain.handle('ingest:copy-transcript', (_, wavPath, outputName) => {
     const base = path.basename(wavPath, '.wav');
     const srcTxt = path.join(dir, base + '.txt');
 
+    const baseDir = path.resolve(REPO_ROOT);
+    const targetPath = path.resolve(REPO_ROOT, outputName + '.txt');
+    if (!targetPath.startsWith(baseDir + path.sep) && targetPath !== baseDir) {
+      return { ok: false, error: `Invalid output name` };
+    }
+
     if (!fs.existsSync(srcTxt)) {
       // whisperx may write <name>.txt or <name>_diarized.txt — try both
       const alt = path.join(dir, base + '_diarized.txt');
       if (!fs.existsSync(alt)) {
         return { ok: false, error: `Transcript file not found: ${srcTxt}` };
       }
-      fs.copyFileSync(alt, path.join(REPO_ROOT, outputName + '.txt'));
+      fs.copyFileSync(alt, targetPath);
     } else {
-      fs.copyFileSync(srcTxt, path.join(REPO_ROOT, outputName + '.txt'));
+      fs.copyFileSync(srcTxt, targetPath);
     }
     return { ok: true, filename: outputName + '.txt' };
   } catch (err) {

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "chokidar": "^3.6.0",
+    "dompurify": "^3.4.4",
     "marked": "^11.2.0"
   },
   "devDependencies": {
@@ -18,9 +19,15 @@
   "build": {
     "appId": "com.roselake.gm",
     "productName": "Roselake GM",
-    "directories": { "output": "dist" },
+    "directories": {
+      "output": "dist"
+    },
     "win": {
-      "target": [{ "target": "portable" }]
+      "target": [
+        {
+          "target": "portable"
+        }
+      ]
     }
   }
 }
