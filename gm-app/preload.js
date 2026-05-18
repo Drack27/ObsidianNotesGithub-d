@@ -1,5 +1,6 @@
 const { contextBridge, ipcRenderer } = require('electron');
 const { marked } = require('marked');
+const DOMPurify = require('dompurify')(window);
 
 marked.use({
   gfm: true,
@@ -19,7 +20,7 @@ contextBridge.exposeInMainWorld('api', {
   saveHotspots: (hotspots) => ipcRenderer.invoke('save-hotspots', hotspots),
 
   // Markdown rendering
-  parseMarkdown: (text) => marked.parse(text),
+  parseMarkdown: (text) => DOMPurify.sanitize(marked.parse(text)),
 
   // Live file-change events from the watcher
   onFileChanged: (callback) => {
