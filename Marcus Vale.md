@@ -24,7 +24,7 @@ What Marcus makes of Roselake — the quiet, the tension, the slow accumulation 
 
 ## Arrival and First Work (Late March – April 3, 1981)
 
-On arrival, Victor gave Marcus the mystery machine (a broken VHS player) and two gunky VHS tapes recovered from a dumpster behind [[The Convenience and Video Rental Store|Charlie's Quick Stop]], along with the case files and documentation. Marcus cleaned and repaired the VHS player using parts sourced from [[Charlie Haverford]] at the Quick Stop.
+On arrival, Victor gave Marcus the mystery machine (a broken VHS player) and two gunky VHS tapes recovered from a dumpster behind [[The Convenience and Video Rental Store|Charlie's Quick Stop]], along with the case files and documentation. Marcus cleaned and repaired the VHS player using parts sourced from the Quick Stop, with [[Sam Reardon]] helping with assembly.
 
 He screened both gunky VHS tapes:
 
