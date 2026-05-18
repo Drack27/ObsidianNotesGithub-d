@@ -12,7 +12,7 @@ The session opened with a montage covering March 18 through April 3, 1981 — se
 
 [[Victor Hayes]] spent this period doing what he'd been building toward: working through the full stack of case files he'd taken from the radio tower, visiting the library at [[Roselake Academy]], and generally trying to orient himself within a small town that was quietly coming apart. During this time he also tried to do something with the mystery machine and the VHS tapes he'd scavenged from the dumpster behind Charlie's Quick Stop.
 
-The mystery machine turned out to be a broken VHS player. Victor found his way to **[[Charlie Haverford]]** at [[The Convenience and Video Rental Store|Charlie's Quick Stop]], who sold him the parts to get it running and helped put it together. With a working player in hand, Victor was able to screen the two gunky VHS tapes he'd found in the dumpster:
+The mystery machine turned out to be a broken VHS player. Victor found his way to **[[Sam]]** at [[The Convenience and Video Rental Store|Charlie's Quick Stop]], who sold him the parts to get it running and helped put it together. With a working player in hand, Victor was able to screen the two gunky VHS tapes he'd found in the dumpster:
 
 - One contained the 1979 film ***All That Jazz***
 - One contained a martial arts film, labeled *Enter the Dragon*
@@ -35,7 +35,7 @@ The teenager working the gas station counter — long dark hair, reading a fashi
 
 They moved into **Sam's Video Rentals**, the corrugated metal annex. Low lighting, psychedelic patterning on the carpet, movie posters covering every wall — *The Thing*, *Alien*, *Jaws*, a genuine enthusiast's shrine. Charlie was in the back room marked "Repairs." He emerged with his usual frenetic energy and was happy to see them.
 
-Victor handed Charlie one of the reel-to-reel tapes — the one dated **December 29, 1950** — to examine. Charlie had never seen them before; they're professional broadcasting equipment, genuinely strange to find sitting in a private collection. He asked where Victor had gotten them. Victor attempted to explain (fast talk, twice, both failures) and came up short both times. Charlie noticed but let it go. His conclusion: he doesn't have the playback equipment for reel-to-reel, and there's nothing in Roselake that does. He suggested that if Victor found a reel-to-reel player — maybe in an attic somewhere — he could help set it up.
+Victor handed Sam one of the reel-to-reel tapes — the one dated **December 29, 1950** — to examine. Sam was surprised; they're professional broadcasting equipment, genuinely strange to find sitting in a private collection. He asked where Victor had gotten them. Victor attempted to explain (fast talk, twice, both failures) and came up short both times. Sam noticed but let it go. His conclusion: he doesn't have the playback equipment for reel-to-reel, and there's nothing in Roselake that does. He suggested that if Victor found a reel-to-reel player — maybe in an attic somewhere — he could help set it up.
 
 They left without answers for the tapes.
 
