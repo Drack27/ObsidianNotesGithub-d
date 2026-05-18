@@ -992,4 +992,33 @@ function hexToRgba(hex, alpha) {
 }
 
 // ── Boot ───────────────────────────────────────────────────────────────────
-init().catch(console.error);
+function showFatalError(title, lines) {
+  document.getElementById('main-content').innerHTML = `
+    <div class="fatal-error">
+      <div class="fatal-error-title">${title}</div>
+      <div class="fatal-error-body">${lines.map(l => `<p>${l}</p>`).join('')}</div>
+    </div>`;
+}
+
+if (!window.api) {
+  showFatalError(
+    'Setup incomplete — app cannot start',
+    [
+      'The preload script failed to load. This almost always means <code>node_modules</code> is missing or incomplete.',
+      'Open a terminal, navigate to the <code>gm-app/</code> directory, and run:',
+      '<pre>npm install --omit=dev</pre>',
+      'Then close and relaunch the app.',
+    ]
+  );
+} else {
+  init().catch(err => {
+    console.error(err);
+    showFatalError(
+      'Startup error',
+      [
+        `<code>${err.message}</code>`,
+        'Check the DevTools console (Ctrl+Shift+I) for the full stack trace.',
+      ]
+    );
+  });
+}
