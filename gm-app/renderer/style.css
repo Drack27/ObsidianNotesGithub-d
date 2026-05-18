@@ -930,3 +930,123 @@ select option { background: var(--bg-3); }
   0%   { border-color: var(--gold); box-shadow: 0 0 8px var(--gold); }
   100% { border-color: var(--border); box-shadow: none; }
 }
+
+/* ── Ingest Wizard ─────────────────────────────────────────────────────────── */
+.ingest-step-label { font-size: 13px; color: var(--text-2); font-style: italic; }
+
+.ingest-hint {
+  display: block;
+  font-size: 11px;
+  color: var(--text-3);
+  margin-top: 5px;
+  line-height: 1.5;
+}
+
+.ingest-link {
+  font-size: 11px;
+  color: var(--gold-dim);
+  text-decoration: underline;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+.ingest-link:hover { color: var(--gold); }
+
+.ingest-checking { padding: 16px 0; color: var(--text-3); font-style: italic; }
+
+.ingest-deps { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
+.ingest-dep-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 10px;
+  border-radius: 3px;
+  background: var(--bg-3);
+  border: 1px solid var(--border);
+}
+.ingest-dep-icon { font-size: 14px; font-weight: bold; min-width: 16px; }
+.ingest-dep-icon.ok { color: #4caf50; }
+.ingest-dep-icon.missing { color: var(--red-bright); }
+.ingest-dep-name { flex: 1; font-size: 12px; color: var(--text-2); }
+.ingest-dep-action { font-size: 11px; color: var(--text-3); }
+
+.ingest-warn {
+  margin: 8px 0;
+  padding: 8px 12px;
+  background: rgba(192, 57, 43, 0.15);
+  border: 1px solid var(--red);
+  border-radius: 3px;
+  font-size: 12px;
+  color: var(--text-1);
+}
+
+.ingest-full {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  text-align: center;
+}
+
+.ingest-log {
+  margin-top: 10px;
+  background: var(--bg-0);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 10px;
+  font-family: 'Consolas', 'Courier New', monospace;
+  font-size: 11px;
+  color: var(--text-3);
+  max-height: 200px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.ingest-pick-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.ingest-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.ingest-phase {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  background: var(--bg-3);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  font-size: 13px;
+  color: var(--text-2);
+}
+.ingest-phase-icon { font-size: 16px; min-width: 20px; text-align: center; }
+
+.ingest-done {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 20px 0;
+  text-align: center;
+}
+.ingest-done-icon { font-size: 48px; color: #4caf50; }
+.ingest-done-msg { font-size: 14px; color: var(--text-2); }
+.ingest-done-file { font-size: 13px; color: var(--gold); font-family: monospace; }
+
+.transcript-pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: 'Consolas', 'Courier New', monospace;
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--text-2);
+  padding: 8px 0;
+}
