@@ -52,7 +52,7 @@ Six manila folders were laid out on the desk, each labeled in black marker. Agat
 
 The east-wall corkboard was dominated by a central index card reading **"The Skinwalkers"** in heavy black marker, with red yarn radiating out to six clusters of photographs and index cards:
 
-- **A teenage girl** with long dark hair and a denim jacket, photographed candidly outside Sam's Quick Stop — and alongside it, a cleaner yearbook photo of the same girl smiling. Index cards in blue ink.
+- **A teenage girl** with long dark hair and a denim jacket, photographed candidly outside Charlie's Quick Stop — and alongside it, a cleaner yearbook photo of the same girl smiling. Index cards in blue ink.
 - **A woman at Joe's Superstore**, photographed through the window from outside. She is behind the cash register, mid-scan, staring ahead with a flat, expressionless look — clinical, blank. Index cards attached.
 - **An older couple** leaving the First Methodist Church, mouths closed, eyes forward, expressions hollow. A second photo from a church newsletter shows the same couple smiling warmly at a potluck. The contrast is marked.
 - **A farmer** in dirty overalls and a sun-bleached cap, standing by a fence post on farmland. He's caught mid-turn, posture slightly off, leaning to one side.

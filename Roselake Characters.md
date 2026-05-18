@@ -47,9 +47,13 @@
 >
 > [[Fire Chief Bill|View Fire Chief Bill's full details here]]
 
-> [!info]- Charlie
-> A tech enthusiast and "hyper-nerd" who runs Sam's Video Rentals, an attachment to Charlie's Quick Stop.
+> [!info]- Charlie Haverford
+> Middle-aged owner and operator of Charlie's Quick Stop, the gas station and convenience store in Town Center. Practical and low-key; the video rental shack attached to his building is Sam Reardon's operation — Charlie is the landlord, not the enthusiast.
 > [[Charlie|View Charlie's full details here]]
+
+> [!info]- Sam Reardon
+> Young, blonde, frenetic operator of Sam's Video Rentals, the corrugated metal annex attached to Charlie's Quick Stop. A genuine film and electronics enthusiast who doubles as the closest thing Roselake has to a repair technician. Helped Victor Hayes and Marcus Vale repair a recovered VHS player. Cannot play reel-to-reel tapes.
+> [[Sam Reardon|View Sam Reardon's full details here]]
 
 ## Implied Characters & Entities
 

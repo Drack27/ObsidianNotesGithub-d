@@ -9,7 +9,7 @@ Victor has taken an interest in the strange disappearances and activities occurr
 
 He encountered the [[Anglerfish]] behind the video rental store, witnessing it with its lure (the deflated skin of Thomas McMullin). He successfully remained hidden and did not engage.
 
-During the seventeen days between Sessions 4 and 7, Victor worked through the case files, made contact with [[Marcus Vale]] (a government contractor / computer programmer called in to assist with the hardware), and sourced parts from [[Charlie Haverford]] to repair the mystery VHS machine. The two gunky dumpster tapes were screened and found to contain commercial films. He visited the [[Roselake Library]] with Marcus on April 4 and confirmed the identity of KGMR (the radio station that operated out of Mount Roselake until 1971), as well as the likely contents of the reel-to-reel tapes.
+During the seventeen days between Sessions 4 and 7, Victor worked through the case files, made contact with [[Marcus Vale]] (a government contractor / computer programmer called in to assist with the hardware), and sourced parts from [[The Convenience and Video Rental Store|Charlie's Quick Stop]] (with [[Sam Reardon]]'s help) to repair the mystery VHS machine. The two gunky dumpster tapes were screened and found to contain commercial films. He visited the [[Roselake Library]] with Marcus on April 4 and confirmed the identity of KGMR (the radio station that operated out of Mount Roselake until 1971), as well as the likely contents of the reel-to-reel tapes.
 
 ## Current Inventory (As of April 4, 1981)
 
