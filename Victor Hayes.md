@@ -20,9 +20,9 @@ During the seventeen days between Sessions 4 and 7, Victor worked through the ca
 *   The Case of the Missing Missing (file)
 *   The Case of the Blurred Woman (file)
 *   The Case of the Scratching (file)
-*   Three reel-to-reel tapes from the radio tower (dated 1961, 1955, and 1950) — confirmed to be KGMR broadcast archives; no playback equipment available
+*   Three reel-to-reel tapes from the radio tower (dated 1961, 1955, and 1950) — most likely KGMR broadcast archives; no playback equipment available
 *   A flathead screwdriver (from dumpster)
-*   A repaired VHS player (mystery machine, fixed with Charlie's help)
+*   A repaired VHS player (mystery machine, fixed with Sam & Marcus' help)
 *   A First Aid Kit (purchased at Joe's Superstore)
 
 *Note: The two gunky VHS tapes from the dumpster have been screened — one contained* All That Jazz *(1979), the other a martial arts film. Neither was investigatively relevant.*
