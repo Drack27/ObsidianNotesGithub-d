@@ -143,6 +143,13 @@ function renderSidebar() {
     showTracker();
   });
   nav.appendChild(trackerBtn);
+
+  const ingestBtn = document.createElement('button');
+  ingestBtn.className = 'nav-tracker';
+  ingestBtn.id = 'nav-ingest-btn';
+  ingestBtn.innerHTML = '<span>⏺</span> Ingest Session Recording';
+  ingestBtn.addEventListener('click', () => openIngestWizard());
+  nav.appendChild(ingestBtn);
 }
 
 function buildSection(icon, label, contentEl, startOpen) {
@@ -960,11 +967,15 @@ async function handleFileChanged({ type, filename }) {
 
 // ── Modal ──────────────────────────────────────────────────────────────────
 function closeModal() {
-  document.getElementById('modal-overlay').classList.add('hidden');
+  const overlay = document.getElementById('modal-overlay');
+  overlay._ingestRunning = false;
+  overlay.classList.add('hidden');
+  window.api.offIngestLog();
 }
 
 document.getElementById('modal-overlay')?.addEventListener('click', (e) => {
-  if (e.target === document.getElementById('modal-overlay')) closeModal();
+  const overlay = document.getElementById('modal-overlay');
+  if (e.target === overlay && !overlay._ingestRunning) closeModal();
 });
 
 // ── Side panel close button ────────────────────────────────────────────────
@@ -989,6 +1000,345 @@ function hexToRgba(hex, alpha) {
   const g = parseInt(hex.slice(3, 5), 16);
   const b = parseInt(hex.slice(5, 7), 16);
   return `rgba(${r},${g},${b},${alpha})`;
+}
+
+// ── Ingest Wizard ──────────────────────────────────────────────────────────
+
+let ingestState = {
+  outputName: '',
+  speakers: 2,
+  hfToken: '',
+  hfTokenSaved: false,
+  sourcePath: '',
+  wavPath: '',
+  finalFilename: '',
+};
+
+async function openIngestWizard() {
+  const settings = await window.api.ingestLoadSettings();
+  ingestState = {
+    outputName: '',
+    speakers: 2,
+    hfToken: settings.hfToken || '',
+    hfTokenSaved: !!settings.hfToken,
+    sourcePath: '',
+    wavPath: '',
+    finalFilename: '',
+  };
+  renderIngestStep('config');
+  document.getElementById('modal-overlay').classList.remove('hidden');
+}
+
+function renderIngestStep(step) {
+  const overlay = document.getElementById('modal-overlay');
+  overlay.classList.remove('hidden');
+
+  // Prevent backdrop-click closing during active processing
+  overlay._ingestRunning = (step === 'run');
+
+  switch (step) {
+    case 'config':  renderIngestConfig();  break;
+    case 'deps':    renderIngestDeps();    break;
+    case 'pick':    renderIngestPick();    break;
+    case 'run':     renderIngestRun();     break;
+    case 'done':    renderIngestDone();    break;
+  }
+}
+
+function ingestHeader(title) {
+  document.getElementById('modal-header').innerHTML =
+    `<span class="ingest-step-label">${title}</span>`;
+}
+
+function renderIngestConfig() {
+  ingestHeader('Ingest Session Recording — Setup');
+
+  document.getElementById('modal-body').innerHTML = `
+    <div class="modal-field">
+      <label>Output filename (no extension)</label>
+      <input type="text" id="ing-name" placeholder="e.g. RoselakeSession7KelvinAlex" value="${escHtml(ingestState.outputName)}">
+    </div>
+    <div class="modal-field">
+      <label>Number of people in the session (including Keeper)</label>
+      <input type="number" id="ing-speakers" min="1" max="20" value="${ingestState.speakers}">
+    </div>
+    ${!ingestState.hfTokenSaved ? `
+    <div class="modal-field">
+      <label>HuggingFace token (for speaker diarization)</label>
+      <input type="text" id="ing-hftoken" placeholder="hf_..." value="${escHtml(ingestState.hfToken)}" autocomplete="off" spellcheck="false">
+      <div class="ingest-hint">Stored locally in gm-app/state/ingest-settings.json (never committed)</div>
+    </div>` : `
+    <div class="ingest-hint">HuggingFace token: saved ✓ <button class="ingest-link" id="ing-reset-token">Change</button></div>`}
+  `;
+
+  document.getElementById('modal-footer').innerHTML = `
+    <button class="btn" id="ing-cancel">Cancel</button>
+    <button class="btn btn-primary" id="ing-next">Next: Check Dependencies →</button>
+  `;
+
+  document.getElementById('ing-cancel').addEventListener('click', closeModal);
+
+  if (!ingestState.hfTokenSaved) {
+    // nothing extra
+  } else {
+    document.getElementById('ing-reset-token')?.addEventListener('click', () => {
+      ingestState.hfTokenSaved = false;
+      ingestState.hfToken = '';
+      renderIngestConfig();
+    });
+  }
+
+  document.getElementById('ing-next').addEventListener('click', async () => {
+    const name = document.getElementById('ing-name').value.trim();
+    const spk = parseInt(document.getElementById('ing-speakers').value, 10);
+    if (!name) { showToast('Please enter an output filename.'); return; }
+    if (!spk || spk < 1) { showToast('Please enter a valid number of speakers.'); return; }
+
+    ingestState.outputName = name;
+    ingestState.speakers = spk;
+
+    if (!ingestState.hfTokenSaved) {
+      const tok = document.getElementById('ing-hftoken')?.value.trim();
+      if (!tok) { showToast('Please enter your HuggingFace token.'); return; }
+      ingestState.hfToken = tok;
+      await window.api.ingestSaveSettings({ hfToken: tok });
+      ingestState.hfTokenSaved = true;
+    }
+
+    renderIngestStep('deps');
+  });
+}
+
+async function renderIngestDeps() {
+  ingestHeader('Ingest Session Recording — Dependencies');
+
+  document.getElementById('modal-body').innerHTML = `<div class="ingest-checking">Checking dependencies…</div>`;
+  document.getElementById('modal-footer').innerHTML = '';
+
+  const deps = await window.api.ingestCheckDeps();
+
+  const row = (label, ok, action) => `
+    <div class="ingest-dep-row">
+      <span class="ingest-dep-icon ${ok ? 'ok' : 'missing'}">${ok ? '✓' : '✗'}</span>
+      <span class="ingest-dep-name">${label}</span>
+      ${!ok ? `<span class="ingest-dep-action">${action}</span>` : ''}
+    </div>`;
+
+  const ffmpegHelp = `<span class="ingest-hint">Install from <strong>ffmpeg.org</strong>, add to PATH, then click Recheck.</span>`;
+  const pythonHelp = `<span class="ingest-hint">Install Python 3 from <strong>python.org</strong> and restart the app.</span>`;
+  const whisperxNote = (!deps.venv || !deps.whisperx)
+    ? `<button class="btn btn-primary ingest-full" id="ing-setup-venv">Set up Python environment (installs whisperx)</button>`
+    : '';
+
+  document.getElementById('modal-body').innerHTML = `
+    <div class="ingest-deps">
+      ${row('Python 3', deps.python, pythonHelp)}
+      ${row('ffmpeg', deps.ffmpeg, ffmpegHelp)}
+      ${row('Python venv (~/.gm-transcription)', deps.venv, '')}
+      ${row('whisperx', deps.whisperx, '')}
+    </div>
+    ${!deps.python ? `<div class="ingest-warn">Python 3 is required. Install it from python.org and restart the app.</div>` : ''}
+    ${(!deps.venv || !deps.whisperx) && deps.python ? whisperxNote : ''}
+    <div id="ingest-setup-log" class="ingest-log hidden"></div>
+  `;
+
+  const allGood = deps.python && deps.ffmpeg && deps.venv && deps.whisperx;
+  document.getElementById('modal-footer').innerHTML = `
+    <button class="btn" id="ing-back">← Back</button>
+    <button class="btn" id="ing-recheck">Recheck</button>
+    ${allGood ? `<button class="btn btn-primary" id="ing-next">Next: Select File →</button>` : ''}
+  `;
+
+  document.getElementById('ing-back').addEventListener('click', () => renderIngestStep('config'));
+  document.getElementById('ing-recheck').addEventListener('click', () => renderIngestDeps());
+
+  if (allGood) {
+    document.getElementById('ing-next').addEventListener('click', () => renderIngestStep('pick'));
+  }
+
+  document.getElementById('ing-setup-venv')?.addEventListener('click', async () => {
+    document.getElementById('ing-setup-venv').disabled = true;
+    const logEl = document.getElementById('ingest-setup-log');
+    logEl.classList.remove('hidden');
+    logEl.textContent = '';
+
+    window.api.offIngestLog();
+    window.api.onIngestLog(({ text }) => {
+      logEl.textContent += text;
+      logEl.scrollTop = logEl.scrollHeight;
+    });
+
+    const result = await window.api.ingestSetupVenv();
+    window.api.offIngestLog();
+
+    if (result.ok) {
+      showToast('Environment set up successfully.');
+    } else {
+      showToast('Setup failed — see log above.');
+    }
+    renderIngestDeps();
+  });
+}
+
+function renderIngestPick() {
+  ingestHeader('Ingest Session Recording — Select File');
+
+  document.getElementById('modal-body').innerHTML = `
+    <div class="modal-field">
+      <label>Session recording file (.mkv, .mp4, .avi)</label>
+      <div class="ingest-pick-row">
+        <button class="btn" id="ing-browse">Browse…</button>
+        <span id="ing-picked-path" class="ingest-hint">${ingestState.sourcePath ? escHtml(ingestState.sourcePath) : 'No file selected'}</span>
+      </div>
+    </div>
+  `;
+
+  document.getElementById('modal-footer').innerHTML = `
+    <button class="btn" id="ing-back">← Back</button>
+    <button class="btn btn-primary" id="ing-start"${!ingestState.sourcePath ? ' disabled' : ''}>Convert &amp; Transcribe →</button>
+  `;
+
+  document.getElementById('ing-back').addEventListener('click', () => renderIngestStep('deps'));
+
+  document.getElementById('ing-browse').addEventListener('click', async () => {
+    const picked = await window.api.ingestPickFile();
+    if (picked) {
+      ingestState.sourcePath = picked;
+      document.getElementById('ing-picked-path').textContent = picked;
+      document.getElementById('ing-start').disabled = false;
+    }
+  });
+
+  document.getElementById('ing-start').addEventListener('click', () => {
+    if (!ingestState.sourcePath) { showToast('Please select a recording file.'); return; }
+    renderIngestStep('run');
+  });
+}
+
+async function renderIngestRun() {
+  ingestHeader('Ingest Session Recording — Processing');
+
+  document.getElementById('modal-body').innerHTML = `
+    <div class="ingest-steps">
+      <div class="ingest-phase" id="phase-ffmpeg">
+        <span class="ingest-phase-icon" id="phase-icon-ffmpeg">⏳</span>
+        <span>Convert to WAV (ffmpeg)</span>
+      </div>
+      <div class="ingest-phase" id="phase-whisperx">
+        <span class="ingest-phase-icon" id="phase-icon-whisperx">○</span>
+        <span>Transcribe &amp; diarize (whisperx)</span>
+      </div>
+    </div>
+    <pre id="ingest-run-log" class="ingest-log"></pre>
+  `;
+  document.getElementById('modal-footer').innerHTML = '';
+
+  const logEl = document.getElementById('ingest-run-log');
+  const appendLog = (text) => {
+    logEl.textContent += text;
+    logEl.scrollTop = logEl.scrollHeight;
+  };
+
+  window.api.offIngestLog();
+  window.api.onIngestLog(({ step, text }) => {
+    appendLog(text);
+  });
+
+  // ── ffmpeg ──
+  document.getElementById('phase-icon-ffmpeg').textContent = '⏳';
+  const ffResult = await window.api.ingestRunFfmpeg(ingestState.sourcePath, ingestState.speakers);
+
+  if (!ffResult.ok) {
+    document.getElementById('phase-icon-ffmpeg').textContent = '✗';
+    document.getElementById('modal-footer').innerHTML = `
+      <button class="btn" id="ing-retry-ff">← Back</button>`;
+    document.getElementById('ing-retry-ff').addEventListener('click', () => renderIngestStep('pick'));
+    window.api.offIngestLog();
+    return;
+  }
+
+  document.getElementById('phase-icon-ffmpeg').textContent = '✓';
+  ingestState.wavPath = ffResult.wavPath;
+
+  // ── whisperx ──
+  document.getElementById('phase-icon-whisperx').textContent = '⏳';
+  const wxResult = await window.api.ingestRunWhisperx(
+    ingestState.wavPath, ingestState.speakers, ingestState.hfToken
+  );
+  window.api.offIngestLog();
+
+  if (!wxResult.ok) {
+    document.getElementById('phase-icon-whisperx').textContent = '✗';
+    document.getElementById('modal-footer').innerHTML = `
+      <button class="btn" id="ing-retry-wx">← Back</button>`;
+    document.getElementById('ing-retry-wx').addEventListener('click', () => renderIngestStep('pick'));
+    return;
+  }
+  document.getElementById('phase-icon-whisperx').textContent = '✓';
+
+  // ── copy transcript ──
+  const copyResult = await window.api.ingestCopyTranscript(
+    ingestState.wavPath, ingestState.outputName
+  );
+  if (!copyResult.ok) {
+    appendLog(`\n[error] Could not copy transcript: ${copyResult.error}`);
+    document.getElementById('modal-footer').innerHTML = `
+      <button class="btn" id="ing-close-err">Close</button>`;
+    document.getElementById('ing-close-err').addEventListener('click', closeModal);
+    return;
+  }
+
+  ingestState.finalFilename = copyResult.filename;
+  renderIngestStep('done');
+}
+
+function renderIngestDone() {
+  ingestHeader('Ingest Session Recording — Complete');
+
+  document.getElementById('modal-body').innerHTML = `
+    <div class="ingest-done">
+      <div class="ingest-done-icon">✓</div>
+      <div class="ingest-done-msg">Transcript saved to repo root:</div>
+      <div class="ingest-done-file">${escHtml(ingestState.finalFilename)}</div>
+      <div class="ingest-hint">The file will appear in the sidebar shortly (file watcher will pick it up).</div>
+    </div>
+  `;
+
+  document.getElementById('modal-footer').innerHTML = `
+    <button class="btn" id="ing-close">Close</button>
+    <button class="btn btn-primary" id="ing-open">Open Transcript</button>
+  `;
+
+  document.getElementById('ing-close').addEventListener('click', closeModal);
+  document.getElementById('ing-open').addEventListener('click', async () => {
+    closeModal();
+    // Give file watcher a moment to pick it up; then open directly
+    await new Promise(r => setTimeout(r, 400));
+    // Refresh file list and open
+    mdFiles = await window.api.listMarkdownFiles();
+    // The transcript is a .txt — open it as a raw text file via read-file
+    openTxtFile(ingestState.finalFilename);
+  });
+}
+
+async function openTxtFile(filename) {
+  const content = await window.api.readFile(filename);
+  if (content === null) {
+    showToast(`File not found: ${filename}`);
+    return;
+  }
+  currentView = 'content';
+  currentFile = filename;
+  document.getElementById('main-toolbar').innerHTML = `<span class="toolbar-title">${escHtml(filename.replace(/\.txt$/, ''))}</span>`;
+  document.getElementById('main-content').innerHTML = `<div class="note-body"><pre class="transcript-pre">${escHtml(content)}</pre></div>`;
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
 }
 
 // ── Boot ───────────────────────────────────────────────────────────────────

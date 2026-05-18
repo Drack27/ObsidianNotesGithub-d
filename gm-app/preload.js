@@ -31,4 +31,16 @@ contextBridge.exposeInMainWorld('api', {
 
   // Map image URL builder
   mapUrl: (filename) => `gmapp://maps/${encodeURIComponent(filename)}`,
+
+  // Ingest pipeline
+  ingestLoadSettings: () => ipcRenderer.invoke('ingest:load-settings'),
+  ingestSaveSettings: (s) => ipcRenderer.invoke('ingest:save-settings', s),
+  ingestCheckDeps: () => ipcRenderer.invoke('ingest:check-deps'),
+  ingestPickFile: () => ipcRenderer.invoke('ingest:pick-file'),
+  ingestSetupVenv: () => ipcRenderer.invoke('ingest:setup-venv'),
+  ingestRunFfmpeg: (src, n) => ipcRenderer.invoke('ingest:run-ffmpeg', src, n),
+  ingestRunWhisperx: (wav, n, tok) => ipcRenderer.invoke('ingest:run-whisperx', wav, n, tok),
+  ingestCopyTranscript: (src, name) => ipcRenderer.invoke('ingest:copy-transcript', src, name),
+  onIngestLog: (cb) => ipcRenderer.on('ingest:log', (_e, d) => cb(d)),
+  offIngestLog: () => ipcRenderer.removeAllListeners('ingest:log'),
 });
