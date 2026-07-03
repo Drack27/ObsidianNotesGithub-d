@@ -1,16 +1,15 @@
-const { app, BrowserWindow, ipcMain, session, net, dialog } = require('electron');
+const { app, BrowserWindow, ipcMain, session, net, dialog, Menu } = require('electron');
 const path = require('path');
 const fs = require('fs');
 const os = require('os');
 const { spawn, execFile } = require('child_process');
 const { pathToFileURL } = require('url');
 
-const REPO_ROOT = path.join(__dirname, '..');
-const STATE_DIR = path.join(__dirname, 'state');
-const STATE_FILE = path.join(STATE_DIR, 'app-state.json');
-const HOTSPOTS_FILE = path.join(STATE_DIR, 'hotspots.json');
-const INGEST_SETTINGS_FILE = path.join(STATE_DIR, 'ingest-settings.json');
-const MAPS_DIR = path.join(REPO_ROOT, 'Maps');
+// The vault (folder of .md notes + Maps/) is user-selected at first launch and
+// remembered in userData, since a packaged .exe can live anywhere on disk and
+// can no longer assume its own folder sits inside the vault.
+let REPO_ROOT = null;
+let STATE_DIR, STATE_FILE, HOTSPOTS_FILE, INGEST_SETTINGS_FILE;
 const VENV_DIR = path.join(os.homedir(), '.gm-transcription');
 const IS_WIN = process.platform === 'win32';
 const VENV_PYTHON = IS_WIN
@@ -24,6 +23,97 @@ function ensureStateDir() {
   if (!fs.existsSync(STATE_DIR)) {
     fs.mkdirSync(STATE_DIR, { recursive: true });
   }
+}
+
+function getMapsDir() {
+  return path.join(REPO_ROOT, 'Maps');
+}
+
+const VAULT_CONFIG_FILE = () => path.join(app.getPath('userData'), 'vault-config.json');
+
+function loadSavedVaultPath() {
+  try {
+    const cfg = JSON.parse(fs.readFileSync(VAULT_CONFIG_FILE(), 'utf8'));
+    if (cfg.vaultPath && fs.existsSync(cfg.vaultPath)) return cfg.vaultPath;
+  } catch { /* no saved config yet */ }
+  return null;
+}
+
+function saveVaultPath(vaultPath) {
+  fs.writeFileSync(VAULT_CONFIG_FILE(), JSON.stringify({ vaultPath }, null, 2), 'utf8');
+}
+
+function promptForVaultFolder(defaultPath) {
+  const result = dialog.showOpenDialogSync({
+    title: 'Select your Obsidian notes vault folder',
+    message: 'Choose the folder that contains your campaign notes (e.g. "Master Timeline.md", "Maps/", etc.)',
+    defaultPath,
+    properties: ['openDirectory'],
+    buttonLabel: 'Use this folder',
+  });
+  return result && result[0] ? result[0] : null;
+}
+
+// Determines the vault folder: reuse the saved choice, auto-detect it when
+// running unpacked inside the repo during development, or ask the user.
+function resolveVaultRoot() {
+  const saved = loadSavedVaultPath();
+  if (saved) return saved;
+
+  const devGuess = path.join(__dirname, '..');
+  if (!app.isPackaged && fs.existsSync(path.join(devGuess, 'Master Timeline.md'))) {
+    saveVaultPath(devGuess);
+    return devGuess;
+  }
+
+  const chosen = promptForVaultFolder(devGuess);
+  if (!chosen) return null;
+  saveVaultPath(chosen);
+  return chosen;
+}
+
+// One-time migration for users of the older "state lives inside the repo" layout.
+function migrateLegacyState() {
+  const legacyDir = path.join(__dirname, 'state');
+  if (!fs.existsSync(legacyDir) || legacyDir === STATE_DIR) return;
+  ensureStateDir();
+  for (const name of ['app-state.json', 'hotspots.json', 'ingest-settings.json']) {
+    const src = path.join(legacyDir, name);
+    const dest = path.join(STATE_DIR, name);
+    if (fs.existsSync(src) && !fs.existsSync(dest)) {
+      try { fs.copyFileSync(src, dest); } catch { /* best effort */ }
+    }
+  }
+}
+
+function buildAppMenu() {
+  const template = [
+    {
+      label: 'Vault',
+      submenu: [
+        {
+          label: 'Change Vault Folder…',
+          click: () => {
+            try { fs.unlinkSync(VAULT_CONFIG_FILE()); } catch { /* nothing saved yet */ }
+            app.relaunch();
+            app.exit(0);
+          },
+        },
+        { type: 'separator' },
+        { role: 'quit' },
+      ],
+    },
+    {
+      label: 'View',
+      submenu: [
+        { role: 'reload' },
+        { role: 'toggleDevTools' },
+        { type: 'separator' },
+        { role: 'togglefullscreen' },
+      ],
+    },
+  ];
+  Menu.setApplicationMenu(Menu.buildFromTemplate(template));
 }
 
 let mainWin = null;
@@ -49,10 +139,28 @@ function createWindow() {
 }
 
 app.whenReady().then(() => {
-  ensureStateDir();
+  REPO_ROOT = resolveVaultRoot();
+  if (!REPO_ROOT) {
+    dialog.showErrorBox(
+      'No vault selected',
+      'Roselake GM needs your notes vault folder to run. The app will now close — relaunch it to try again.'
+    );
+    app.quit();
+    return;
+  }
 
-  // Custom protocol: gmapp://maps/<filename>  →  REPO_ROOT/Maps/<filename>
-  //                  gmapp://root/<filename>  →  REPO_ROOT/<filename>
+  const userData = app.getPath('userData');
+  STATE_DIR = path.join(userData, 'state');
+  STATE_FILE = path.join(STATE_DIR, 'app-state.json');
+  HOTSPOTS_FILE = path.join(STATE_DIR, 'hotspots.json');
+  INGEST_SETTINGS_FILE = path.join(STATE_DIR, 'ingest-settings.json');
+
+  ensureStateDir();
+  migrateLegacyState();
+  buildAppMenu();
+
+  // Custom protocol: gmapp://maps/<filename>  →  <vault>/Maps/<filename>
+  //                  gmapp://root/<filename>  →  <vault>/<filename>
   session.defaultSession.protocol.handle('gmapp', async (request) => {
     const url = new URL(request.url);
     const host = url.host;
@@ -60,8 +168,8 @@ app.whenReady().then(() => {
     let filePath;
     let baseDir;
     if (host === 'maps') {
-      baseDir = path.resolve(MAPS_DIR);
-      filePath = path.resolve(MAPS_DIR, filename);
+      baseDir = path.resolve(getMapsDir());
+      filePath = path.resolve(getMapsDir(), filename);
     } else {
       baseDir = path.resolve(REPO_ROOT);
       filePath = path.resolve(REPO_ROOT, filename);
@@ -99,8 +207,9 @@ ipcMain.handle('list-markdown-files', () => {
 
 ipcMain.handle('list-map-files', () => {
   try {
-    if (!fs.existsSync(MAPS_DIR)) return [];
-    return fs.readdirSync(MAPS_DIR)
+    const mapsDir = getMapsDir();
+    if (!fs.existsSync(mapsDir)) return [];
+    return fs.readdirSync(mapsDir)
       .filter(f => /\.(png|jpg|jpeg|gif|webp)$/i.test(f))
       .sort();
   } catch { return []; }
