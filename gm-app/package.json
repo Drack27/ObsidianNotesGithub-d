@@ -3,6 +3,7 @@
   "productName": "Roselake GM",
   "version": "1.0.0",
   "description": "GM Desktop App — Roselake, Nebraska (1981) — Call of Cthulhu Campaign",
+  "author": "Jackson <you@example.com>",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -28,7 +29,8 @@
         {
           "target": "portable"
         }
-      ]
+      ],
+      "icon": "build/icon.ico"
     }
   }
 }
