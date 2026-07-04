@@ -129,6 +129,7 @@ function createWindow() {
       preload: path.join(__dirname, 'preload.js'),
       contextIsolation: true,
       nodeIntegration: false,
+        sandbox: false,   
     },
     title: 'Roselake GM — Call of Cthulhu',
   });
